@@ -2244,3 +2244,664 @@ LogConfig: CVar [[D3D12.Bindless.SamplerDescriptorHeapSize:2048]] deferred - dum
 [2025.11.18-16.40.48:246][877]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8366.664062
 [2025.11.18-16.40.49:207][880]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.11.18-16.40.49:207][880]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8367.280273, Update Interval: 352.763458
+[2025.11.18-16.46.39:457][569]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-16.46.39:692][569]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/DamageSystem/Enemy/IA/AIC_Enemy] ([2] browsable assets)...
+[2025.11.18-16.46.39:693][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/DamageSystem/Enemy/IA/AIC_Enemy]
+[2025.11.18-16.46.39:693][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DamageSystem/Enemy/IA/AIC_Enemy" FILE="../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/DamageSystem/Enemy/IA/AIC_Enemy.uasset" SILENT=true
+[2025.11.18-16.46.39:728][569]LogSavePackage: Moving output files for package: /Game/DamageSystem/Enemy/IA/AIC_Enemy
+[2025.11.18-16.46.39:729][569]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/AIC_Enemy4F5BD9E94D5EEC58F058C88B2DEC1E98.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/DamageSystem/Enemy/IA/AIC_Enemy.uasset'
+[2025.11.18-16.46.39:763][569]LogFileHelpers: InternalPromptForCheckoutAndSave took 305.842 ms (total: 6.63 sec)
+[2025.11.18-16.46.39:873][569]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.18-16.46.39:874][569]LogContentValidation: Enabled validators:
+[2025.11.18-16.46.39:874][569]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.18-16.46.39:874][569]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.18-16.46.39:874][569]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.18-16.46.39:874][569]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.18-16.46.39:874][569]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.18-16.46.39:874][569]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.18-16.46.39:875][569]AssetCheck: /Game/DamageSystem/Enemy/IA/AIC_Enemy Validating asset
+[2025.11.18-16.47.19:696][872]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8758.125977
+[2025.11.18-16.47.19:996][876]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-16.47.19:996][876]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8758.368164, Update Interval: 313.264557
+[2025.11.18-16.47.24:853][928]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.11.18-16.47.29:888][979]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavModifierVolume
+[2025.11.18-16.47.29:888][979]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavModifierVolume
+[2025.11.18-16.47.29:907][979]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavModifierVolume as actor: NavModifierVolume /Game/TopDownHybrid/Maps/L_Hybrid.L_Hybrid:PersistentLevel.NavModifierVolume_0
+[2025.11.18-16.47.29:932][979]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavModifierVolume as actor: NavModifierVolume /Game/TopDownHybrid/Maps/L_Hybrid.L_Hybrid:PersistentLevel.NavModifierVolume_0
+[2025.11.18-16.47.31:902][985]Cmd: TRANSACTION UNDO
+[2025.11.18-16.47.31:905][985]LogEditorTransaction: Undo Create Actor
+[2025.11.18-16.47.32:231][985]LogNavigation: Warning: FNavigationOctree::AddNode: Invalid bounds, ignoring None.
+[2025.11.18-16.47.36:655][ 37]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.11.18-16.47.36:655][ 37]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.11.18-16.47.36:664][ 37]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/TopDownHybrid/Maps/L_Hybrid.L_Hybrid:PersistentLevel.NavMeshBoundsVolume_0
+[2025.11.18-16.47.36:676][ 37]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/TopDownHybrid/Maps/L_Hybrid.L_Hybrid:PersistentLevel.NavMeshBoundsVolume_0
+[2025.11.18-16.47.36:950][ 37]LogNavigation: Warning: FNavigationOctree::AddNode: Invalid bounds, ignoring None.
+[2025.11.18-16.48.32:482][596]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2025.11.18-16.48.32:619][596]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDownHybrid/Maps/L_Hybrid_Auto8
+[2025.11.18-16.48.32:621][596]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/L_Hybrid_Auto84416B2344E1E32D6E0031C9689102D87.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/Autosaves/Game/TopDownHybrid/Maps/L_Hybrid_Auto8.umap'
+[2025.11.18-16.48.32:626][596]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownHybrid/Maps/L_Hybrid' took 0.495
+[2025.11.18-16.48.32:626][596]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.495
+[2025.11.18-16.49.21:225][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2025.11.18-16.51.43:648][306]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2025.11.18-16.51.51:763][383]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2025.11.18-16.52.07:277][514]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-16.52.07:498][514]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/DamageSystem/Enemy/BP_Enemy] ([2] browsable assets)...
+[2025.11.18-16.52.07:499][514]OBJ SavePackage: Finished generating thumbnails for package [/Game/DamageSystem/Enemy/BP_Enemy]
+[2025.11.18-16.52.07:499][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DamageSystem/Enemy/BP_Enemy" FILE="../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/DamageSystem/Enemy/BP_Enemy.uasset" SILENT=true
+[2025.11.18-16.52.07:682][514]LogSavePackage: Moving output files for package: /Game/DamageSystem/Enemy/BP_Enemy
+[2025.11.18-16.52.07:683][514]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/BP_Enemy59FF77BB4E91A0CF181C2980838C9B94.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/DamageSystem/Enemy/BP_Enemy.uasset'
+[2025.11.18-16.52.07:720][514]LogFileHelpers: InternalPromptForCheckoutAndSave took 443.875 ms (total: 7.08 sec)
+[2025.11.18-16.52.07:819][514]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.18-16.52.07:819][514]LogContentValidation: Enabled validators:
+[2025.11.18-16.52.07:819][514]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.18-16.52.07:819][514]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.18-16.52.07:819][514]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.18-16.52.07:819][514]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.18-16.52.07:820][514]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.18-16.52.07:820][514]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.18-16.52.07:820][514]AssetCheck: /Game/DamageSystem/Enemy/BP_Enemy Validating asset
+[2025.11.18-16.52.41:109][936]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-16.52.41:440][936]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2025.11.18-16.52.41:508][936]LogSavePackage: Moving output files for package: /Game/TopDownHybrid/Maps/L_Hybrid
+[2025.11.18-16.52.41:510][936]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/L_Hybrid07D3145C43F7B3246EE18A8F7C7CF204.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/TopDownHybrid/Maps/L_Hybrid.umap'
+[2025.11.18-16.52.41:534][936]LogFileHelpers: Saving map 'L_Hybrid' took 0.222
+[2025.11.18-16.52.41:563][936]LogFileHelpers: InternalPromptForCheckoutAndSave took 454.782 ms (total: 7.53 sec)
+[2025.11.18-16.52.41:654][936]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.18-16.52.41:654][936]LogContentValidation: Enabled validators:
+[2025.11.18-16.52.41:654][936]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.18-16.52.41:654][936]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.18-16.52.41:654][936]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.18-16.52.41:654][936]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.18-16.52.41:654][936]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.18-16.52.41:654][936]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.18-16.52.41:655][936]AssetCheck: /Game/TopDownHybrid/Maps/L_Hybrid Validating asset
+[2025.11.18-16.52.50:945][ 93]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.18-16.52.51:068][ 93]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.18-16.52.51:087][ 93]LogPlayLevel: Creating play world package: /Game/TopDownHybrid/Maps/UEDPIE_0_L_Hybrid
+[2025.11.18-16.52.51:121][ 93]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033048s)
+[2025.11.18-16.52.51:122][ 93]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownHybrid/Maps/L_Hybrid.L_Hybrid to /Game/TopDownHybrid/Maps/UEDPIE_0_L_Hybrid.L_Hybrid (0.034111s)
+[2025.11.18-16.52.51:196][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2025.11.18-16.52.51:204][ 93]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Hybrid
+[2025.11.18-16.52.51:237][ 93]LogPlayLevel: PIE: World Init took: (0.032927s)
+[2025.11.18-16.52.51:243][ 93]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.11.18-16.52.51:248][ 93]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.18-16.52.51:248][ 93]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.18-16.52.51:248][ 93]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.18-16.52.51:249][ 93]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.18-16.52.51:249][ 93]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.18-16.52.51:249][ 93]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.18-16.52.51:249][ 93]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.18-16.52.51:249][ 93]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.18-16.52.51:253][ 93]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.18-16.52.51:253][ 93]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.18-16.52.51:253][ 93]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.18-16.52.51:266][ 93]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.18-16.52.51:339][ 93]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Cirrus Logic Superior High Definition Audio)
+[2025.11.18-16.52.51:343][ 93]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.18-16.52.51:343][ 93]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.18-16.52.51:345][ 93]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.18-16.52.51:350][ 93]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.11.18-16.52.51:350][ 93]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.11.18-16.52.51:358][ 93]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.11.18-16.52.51:358][ 93]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.11.18-16.52.51:358][ 93]LogInit: FAudioDevice initialized with ID 8.
+[2025.11.18-16.52.51:359][ 93]LogAudio: Display: Audio Device (ID: 8) registered with world 'L_Hybrid'.
+[2025.11.18-16.52.51:361][ 93]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.11.18-16.52.51:412][ 93]LogStreaming: Display: FlushAsyncLoading(568): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.18-16.52.51:413][ 93]LogLoad: Game class is 'GM_Hybrid_C'
+[2025.11.18-16.52.51:423][ 93]LogWorld: Bringing World /Game/TopDownHybrid/Maps/UEDPIE_0_L_Hybrid.L_Hybrid up for play (max tick rate 60) at 2025.11.18-11.52.51
+[2025.11.18-16.52.51:441][ 93]LogWorld: Bringing up level for play took: 0.025266
+[2025.11.18-16.52.51:466][ 93]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.11.18-16.52.51:518][ 93]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2025.11.18-16.52.51:532][ 93]LogScript: Warning: Script Msg: BP_Enemy_C_3 BarControl SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.11.18-16.52.51:532][ 93]LogScript: Warning: Script Msg called by: BP_Enemy_C /Game/TopDownHybrid/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Enemy_C_3
+[2025.11.18-16.52.51:546][ 93]PIE: Server logged in
+[2025.11.18-16.52.51:552][ 93]PIE: Play in editor total start time 0,559 seconds.
+[2025.11.18-16.53.04:160][215]LogBlueprintUserMessages: [BP_Mannequin_C_0] HitReaction
+[2025.11.18-16.53.08:281][298]LogBlueprintUserMessages: [BP_Mannequin_C_0] HitReaction
+[2025.11.18-16.53.10:112][333]LogBlueprintUserMessages: [BP_Mannequin_C_0] HitReaction
+[2025.11.18-16.53.11:985][372]LogBlueprintUserMessages: [BP_Mannequin_C_0] HitReaction
+[2025.11.18-16.53.13:854][410]LogBlueprintUserMessages: [BP_Mannequin_C_0] Dead
+[2025.11.18-16.53.15:120][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.18-16.53.15:121][435]LogWorld: BeginTearingDown for /Game/TopDownHybrid/Maps/UEDPIE_0_L_Hybrid
+[2025.11.18-16.53.15:124][435]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.18-16.53.15:131][435]LogWorld: UWorld::CleanupWorld for L_Hybrid, bSessionEnded=true, bCleanupResources=true
+[2025.11.18-16.53.15:143][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.18-16.53.15:169][435]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.18-16.53.15:188][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.18-16.53.15:258][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.18-16.53.15:261][435]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.11.18-16.53.15:265][435]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2025.11.18-16.53.15:280][435]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2025.11.18-16.53.15:350][435]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2025.11.18-16.53.15:711][436]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.11.18-16.53.22:401][500]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9120.852539
+[2025.11.18-16.53.23:404][503]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-16.53.23:404][503]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9121.523438, Update Interval: 308.369995
+[2025.11.18-16.54.41:980][ 83]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.18-16.54.42:027][ 83]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.18-16.54.42:027][ 83]LogPlayLevel: Creating play world package: /Game/TopDownHybrid/Maps/UEDPIE_0_L_Hybrid
+[2025.11.18-16.54.42:046][ 83]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018465s)
+[2025.11.18-16.54.42:046][ 83]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownHybrid/Maps/L_Hybrid.L_Hybrid to /Game/TopDownHybrid/Maps/UEDPIE_0_L_Hybrid.L_Hybrid (0.018630s)
+[2025.11.18-16.54.42:132][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2025.11.18-16.54.42:137][ 83]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Hybrid
+[2025.11.18-16.54.42:143][ 83]LogPlayLevel: PIE: World Init took: (0.005692s)
+[2025.11.18-16.54.42:146][ 83]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.11.18-16.54.42:146][ 83]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.18-16.54.42:146][ 83]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.18-16.54.42:146][ 83]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.18-16.54.42:146][ 83]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.18-16.54.42:146][ 83]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.18-16.54.42:146][ 83]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.18-16.54.42:147][ 83]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.18-16.54.42:147][ 83]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.18-16.54.42:147][ 83]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.18-16.54.42:147][ 83]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.18-16.54.42:148][ 83]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.18-16.54.42:152][ 83]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.18-16.54.42:234][ 83]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Cirrus Logic Superior High Definition Audio)
+[2025.11.18-16.54.42:234][ 83]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.18-16.54.42:235][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.18-16.54.42:235][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.18-16.54.42:239][ 83]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.11.18-16.54.42:239][ 83]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.11.18-16.54.42:244][ 83]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.11.18-16.54.42:244][ 83]LogInit: FAudioDevice initialized with ID 9.
+[2025.11.18-16.54.42:244][ 83]LogAudio: Display: Audio Device (ID: 9) registered with world 'L_Hybrid'.
+[2025.11.18-16.54.42:244][ 83]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.11.18-16.54.42:246][ 83]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.11.18-16.54.42:264][ 83]LogStreaming: Display: FlushAsyncLoading(569): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.18-16.54.42:264][ 83]LogLoad: Game class is 'GM_Hybrid_C'
+[2025.11.18-16.54.42:268][ 83]LogWorld: Bringing World /Game/TopDownHybrid/Maps/UEDPIE_0_L_Hybrid.L_Hybrid up for play (max tick rate 60) at 2025.11.18-11.54.42
+[2025.11.18-16.54.42:270][ 83]LogWorld: Bringing up level for play took: 0.005113
+[2025.11.18-16.54.42:275][ 83]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.11.18-16.54.42:282][ 83]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2025.11.18-16.54.42:283][ 83]LogScript: Warning: Script Msg: BP_Enemy_C_3 BarControl SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.11.18-16.54.42:283][ 83]LogScript: Warning: Script Msg called by: BP_Enemy_C /Game/TopDownHybrid/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Enemy_C_3
+[2025.11.18-16.54.42:286][ 83]PIE: Server logged in
+[2025.11.18-16.54.42:292][ 83]PIE: Play in editor total start time 0,289 seconds.
+[2025.11.18-16.54.54:763][295]LogBlueprintUserMessages: [BP_Mannequin_C_0] HitReaction
+[2025.11.18-16.54.56:556][336]LogBlueprintUserMessages: [BP_Mannequin_C_0] HitReaction
+[2025.11.18-16.54.58:399][378]LogBlueprintUserMessages: [BP_Mannequin_C_0] HitReaction
+[2025.11.18-16.55.00:188][419]LogBlueprintUserMessages: [BP_Mannequin_C_0] HitReaction
+[2025.11.18-16.55.02:041][460]LogBlueprintUserMessages: [BP_Mannequin_C_0] Dead
+[2025.11.18-16.55.06:938][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.18-16.55.06:938][570]LogWorld: BeginTearingDown for /Game/TopDownHybrid/Maps/UEDPIE_0_L_Hybrid
+[2025.11.18-16.55.06:939][570]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.18-16.55.06:940][570]LogWorld: UWorld::CleanupWorld for L_Hybrid, bSessionEnded=true, bCleanupResources=true
+[2025.11.18-16.55.06:942][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.18-16.55.06:950][570]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.18-16.55.06:970][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.18-16.55.07:041][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.18-16.55.07:041][570]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.11.18-16.55.07:041][570]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2025.11.18-16.55.07:047][570]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2025.11.18-16.55.07:067][570]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2025.11.18-16.55.07:339][571]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2025.11.18-16.58.47:910][844]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.18-16.58.47:981][844]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.18-16.58.47:982][844]LogPlayLevel: Creating play world package: /Game/TopDownHybrid/Maps/UEDPIE_0_L_Hybrid
+[2025.11.18-16.58.48:010][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027876s)
+[2025.11.18-16.58.48:010][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownHybrid/Maps/L_Hybrid.L_Hybrid to /Game/TopDownHybrid/Maps/UEDPIE_0_L_Hybrid.L_Hybrid (0.028100s)
+[2025.11.18-16.58.48:135][844]LogUObjectHash: Compacting FUObjectHashTables data took  10.54ms
+[2025.11.18-16.58.48:149][844]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Hybrid
+[2025.11.18-16.58.48:159][844]LogPlayLevel: PIE: World Init took: (0.010127s)
+[2025.11.18-16.58.48:165][844]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.11.18-16.58.48:165][844]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.18-16.58.48:165][844]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.18-16.58.48:165][844]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.18-16.58.48:165][844]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.18-16.58.48:167][844]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.18-16.58.48:167][844]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.18-16.58.48:167][844]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.18-16.58.48:167][844]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.18-16.58.48:167][844]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.18-16.58.48:167][844]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.18-16.58.48:167][844]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.18-16.58.48:174][844]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.18-16.58.48:290][844]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Cirrus Logic Superior High Definition Audio)
+[2025.11.18-16.58.48:293][844]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.18-16.58.48:293][844]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.18-16.58.48:293][844]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.18-16.58.48:298][844]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.11.18-16.58.48:299][844]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.11.18-16.58.48:304][844]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.11.18-16.58.48:304][844]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.11.18-16.58.48:304][844]LogInit: FAudioDevice initialized with ID 10.
+[2025.11.18-16.58.48:304][844]LogAudio: Display: Audio Device (ID: 10) registered with world 'L_Hybrid'.
+[2025.11.18-16.58.48:304][844]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.11.18-16.58.48:321][844]LogStreaming: Display: FlushAsyncLoading(570): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.18-16.58.48:321][844]LogLoad: Game class is 'GM_Hybrid_C'
+[2025.11.18-16.58.48:326][844]LogWorld: Bringing World /Game/TopDownHybrid/Maps/UEDPIE_0_L_Hybrid.L_Hybrid up for play (max tick rate 60) at 2025.11.18-11.58.48
+[2025.11.18-16.58.48:328][844]LogWorld: Bringing up level for play took: 0.004947
+[2025.11.18-16.58.48:338][844]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2025.11.18-16.58.48:347][844]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2025.11.18-16.58.48:348][844]LogScript: Warning: Script Msg: BP_Enemy_C_3 BarControl SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.11.18-16.58.48:349][844]LogScript: Warning: Script Msg called by: BP_Enemy_C /Game/TopDownHybrid/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Enemy_C_3
+[2025.11.18-16.58.48:352][844]PIE: Server logged in
+[2025.11.18-16.58.48:360][844]PIE: Play in editor total start time 0,42 seconds.
+[2025.11.18-16.59.10:510][235]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9468.945312
+[2025.11.18-16.59.10:727][240]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-16.59.10:727][240]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9469.113281, Update Interval: 306.925262
+[2025.11.18-16.59.18:415][409]LogBlueprintUserMessages: [BP_Mannequin_C_0] HitReaction
+[2025.11.18-16.59.20:602][450]LogBlueprintUserMessages: [BP_Mannequin_C_0] HitReaction
+[2025.11.18-16.59.22:367][490]LogBlueprintUserMessages: [BP_Mannequin_C_0] HitReaction
+[2025.11.18-16.59.24:169][531]LogBlueprintUserMessages: [BP_Mannequin_C_0] HitReaction
+[2025.11.18-16.59.26:251][579]LogBlueprintUserMessages: [BP_Mannequin_C_0] Dead
+[2025.11.18-16.59.26:297][580]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue in not an UClass
+	BP_PlayerController_C /Game/TopDownHybrid/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_PlayerController_C_0
+	Function /Game/Blueprints/BP_PlayerController.BP_PlayerController_C:ExecuteUbergraph_BP_PlayerController:0469
+[2025.11.18-16.59.26:301][580]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue in not an UClass". Node:  Add Movement Input Graph:  EventGraph Function:  Execute Ubergraph BP Player Controller Blueprint:  BP_PlayerController
+[2025.11.18-16.59.26:301][580]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue_1 in not an UClass
+	BP_PlayerController_C /Game/TopDownHybrid/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_PlayerController_C_0
+	Function /Game/Blueprints/BP_PlayerController.BP_PlayerController_C:ExecuteUbergraph_BP_PlayerController:050E
+[2025.11.18-16.59.26:301][580]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue_1 in not an UClass". Node:  Add Movement Input Graph:  EventGraph Function:  Execute Ubergraph BP Player Controller Blueprint:  BP_PlayerController
+[2025.11.18-16.59.26:364][581]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue in not an UClass
+	BP_PlayerController_C /Game/TopDownHybrid/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_PlayerController_C_0
+	Function /Game/Blueprints/BP_PlayerController.BP_PlayerController_C:ExecuteUbergraph_BP_PlayerController:0469
+[2025.11.18-16.59.26:364][581]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue in not an UClass". Node:  Add Movement Input Graph:  EventGraph Function:  Execute Ubergraph BP Player Controller Blueprint:  BP_PlayerController
+[2025.11.18-16.59.26:364][581]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue_1 in not an UClass
+	BP_PlayerController_C /Game/TopDownHybrid/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_PlayerController_C_0
+	Function /Game/Blueprints/BP_PlayerController.BP_PlayerController_C:ExecuteUbergraph_BP_PlayerController:050E
+[2025.11.18-16.59.26:364][581]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue_1 in not an UClass". Node:  Add Movement Input Graph:  EventGraph Function:  Execute Ubergraph BP Player Controller Blueprint:  BP_PlayerController
+[2025.11.18-16.59.26:421][582]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue in not an UClass
+	BP_PlayerController_C /Game/TopDownHybrid/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_PlayerController_C_0
+	Function /Game/Blueprints/BP_PlayerController.BP_PlayerController_C:ExecuteUbergraph_BP_PlayerController:0469
+[2025.11.18-16.59.26:421][582]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue in not an UClass". Node:  Add Movement Input Graph:  EventGraph Function:  Execute Ubergraph BP Player Controller Blueprint:  BP_PlayerController
+[2025.11.18-16.59.26:421][582]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue_1 in not an UClass
+	BP_PlayerController_C /Game/TopDownHybrid/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_PlayerController_C_0
+	Function /Game/Blueprints/BP_PlayerController.BP_PlayerController_C:ExecuteUbergraph_BP_PlayerController:050E
+[2025.11.18-16.59.26:422][582]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue_1 in not an UClass". Node:  Add Movement Input Graph:  EventGraph Function:  Execute Ubergraph BP Player Controller Blueprint:  BP_PlayerController
+[2025.11.18-16.59.26:455][583]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue in not an UClass
+	BP_PlayerController_C /Game/TopDownHybrid/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_PlayerController_C_0
+	Function /Game/Blueprints/BP_PlayerController.BP_PlayerController_C:ExecuteUbergraph_BP_PlayerController:0469
+[2025.11.18-16.59.26:456][583]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue in not an UClass". Node:  Add Movement Input Graph:  EventGraph Function:  Execute Ubergraph BP Player Controller Blueprint:  BP_PlayerController
+[2025.11.18-16.59.26:456][583]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue_1 in not an UClass
+	BP_PlayerController_C /Game/TopDownHybrid/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_PlayerController_C_0
+	Function /Game/Blueprints/BP_PlayerController.BP_PlayerController_C:ExecuteUbergraph_BP_PlayerController:050E
+[2025.11.18-16.59.26:456][583]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue_1 in not an UClass". Node:  Add Movement Input Graph:  EventGraph Function:  Execute Ubergraph BP Player Controller Blueprint:  BP_PlayerController
+[2025.11.18-16.59.26:503][584]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue in not an UClass
+	BP_PlayerController_C /Game/TopDownHybrid/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_PlayerController_C_0
+	Function /Game/Blueprints/BP_PlayerController.BP_PlayerController_C:ExecuteUbergraph_BP_PlayerController:0469
+[2025.11.18-16.59.26:504][584]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue in not an UClass". Node:  Add Movement Input Graph:  EventGraph Function:  Execute Ubergraph BP Player Controller Blueprint:  BP_PlayerController
+[2025.11.18-16.59.26:504][584]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue_1 in not an UClass
+	BP_PlayerController_C /Game/TopDownHybrid/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_PlayerController_C_0
+	Function /Game/Blueprints/BP_PlayerController.BP_PlayerController_C:ExecuteUbergraph_BP_PlayerController:050E
+[2025.11.18-16.59.26:506][584]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue_1 in not an UClass". Node:  Add Movement Input Graph:  EventGraph Function:  Execute Ubergraph BP Player Controller Blueprint:  BP_PlayerController
+[2025.11.18-16.59.26:539][585]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue in not an UClass
+	BP_PlayerController_C /Game/TopDownHybrid/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_PlayerController_C_0
+	Function /Game/Blueprints/BP_PlayerController.BP_PlayerController_C:ExecuteUbergraph_BP_PlayerController:0469
+[2025.11.18-16.59.26:540][585]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue in not an UClass". Node:  Add Movement Input Graph:  EventGraph Function:  Execute Ubergraph BP Player Controller Blueprint:  BP_PlayerController
+[2025.11.18-16.59.26:540][585]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue_1 in not an UClass
+	BP_PlayerController_C /Game/TopDownHybrid/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_PlayerController_C_0
+	Function /Game/Blueprints/BP_PlayerController.BP_PlayerController_C:ExecuteUbergraph_BP_PlayerController:050E
+[2025.11.18-16.59.26:540][585]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue_1 in not an UClass". Node:  Add Movement Input Graph:  EventGraph Function:  Execute Ubergraph BP Player Controller Blueprint:  BP_PlayerController
+[2025.11.18-16.59.26:575][586]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue in not an UClass
+	BP_PlayerController_C /Game/TopDownHybrid/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_PlayerController_C_0
+	Function /Game/Blueprints/BP_PlayerController.BP_PlayerController_C:ExecuteUbergraph_BP_PlayerController:0469
+[2025.11.18-16.59.26:576][586]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue in not an UClass". Node:  Add Movement Input Graph:  EventGraph Function:  Execute Ubergraph BP Player Controller Blueprint:  BP_PlayerController
+[2025.11.18-16.59.26:576][586]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue_1 in not an UClass
+	BP_PlayerController_C /Game/TopDownHybrid/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_PlayerController_C_0
+	Function /Game/Blueprints/BP_PlayerController.BP_PlayerController_C:ExecuteUbergraph_BP_PlayerController:050E
+[2025.11.18-16.59.26:577][586]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue_1 in not an UClass". Node:  Add Movement Input Graph:  EventGraph Function:  Execute Ubergraph BP Player Controller Blueprint:  BP_PlayerController
+[2025.11.18-16.59.26:618][587]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue in not an UClass
+	BP_PlayerController_C /Game/TopDownHybrid/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_PlayerController_C_0
+	Function /Game/Blueprints/BP_PlayerController.BP_PlayerController_C:ExecuteUbergraph_BP_PlayerController:0469
+[2025.11.18-16.59.26:619][587]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue in not an UClass". Node:  Add Movement Input Graph:  EventGraph Function:  Execute Ubergraph BP Player Controller Blueprint:  BP_PlayerController
+[2025.11.18-16.59.26:619][587]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue_1 in not an UClass
+	BP_PlayerController_C /Game/TopDownHybrid/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_PlayerController_C_0
+	Function /Game/Blueprints/BP_PlayerController.BP_PlayerController_C:ExecuteUbergraph_BP_PlayerController:050E
+[2025.11.18-16.59.26:619][587]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue_1 in not an UClass". Node:  Add Movement Input Graph:  EventGraph Function:  Execute Ubergraph BP Player Controller Blueprint:  BP_PlayerController
+[2025.11.18-16.59.26:662][588]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue in not an UClass". Node:  Add Movement Input Graph:  EventGraph Function:  Execute Ubergraph BP Player Controller Blueprint:  BP_PlayerController
+[2025.11.18-16.59.26:663][588]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue_1 in not an UClass". Node:  Add Movement Input Graph:  EventGraph Function:  Execute Ubergraph BP Player Controller Blueprint:  BP_PlayerController
+[2025.11.18-16.59.26:704][589]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue in not an UClass". Node:  Add Movement Input Graph:  EventGraph Function:  Execute Ubergraph BP Player Controller Blueprint:  BP_PlayerController
+[2025.11.18-16.59.26:705][589]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue_1 in not an UClass". Node:  Add Movement Input Graph:  EventGraph Function:  Execute Ubergraph BP Player Controller Blueprint:  BP_PlayerController
+[2025.11.18-16.59.26:753][590]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue in not an UClass". Node:  Add Movement Input Graph:  EventGraph Function:  Execute Ubergraph BP Player Controller Blueprint:  BP_PlayerController
+[2025.11.18-16.59.26:755][590]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue_1 in not an UClass". Node:  Add Movement Input Graph:  EventGraph Function:  Execute Ubergraph BP Player Controller Blueprint:  BP_PlayerController
+[2025.11.18-16.59.26:816][591]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue in not an UClass". Node:  Add Movement Input Graph:  EventGraph Function:  Execute Ubergraph BP Player Controller Blueprint:  BP_PlayerController
+[2025.11.18-16.59.26:817][591]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue_1 in not an UClass". Node:  Add Movement Input Graph:  EventGraph Function:  Execute Ubergraph BP Player Controller Blueprint:  BP_PlayerController
+[2025.11.18-16.59.26:856][592]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue in not an UClass". Node:  Add Movement Input Graph:  EventGraph Function:  Execute Ubergraph BP Player Controller Blueprint:  BP_PlayerController
+[2025.11.18-16.59.26:856][592]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue_1 in not an UClass". Node:  Add Movement Input Graph:  EventGraph Function:  Execute Ubergraph BP Player Controller Blueprint:  BP_PlayerController
+[2025.11.18-16.59.26:897][593]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue in not an UClass". Node:  Add Movement Input Graph:  EventGraph Function:  Execute Ubergraph BP Player Controller Blueprint:  BP_PlayerController
+[2025.11.18-16.59.26:898][593]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetPlayerPawn_ReturnValue_1 in not an UClass". Node:  Add Movement Input Graph:  EventGraph Function:  Execute Ubergraph BP Player Controller Blueprint:  BP_PlayerController
+[2025.11.18-17.04.56:430][457]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9814.899414
+[2025.11.18-17.04.56:658][462]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-17.04.56:658][462]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9815.094727, Update Interval: 347.749878
+[2025.11.18-17.11.42:668][920]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10221.160156
+[2025.11.18-17.11.42:891][925]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-17.11.42:891][925]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10221.349609, Update Interval: 306.740326
+[2025.11.18-17.17.42:207][286]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10580.699219
+[2025.11.18-17.17.42:408][291]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-17.17.42:408][291]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10580.862305, Update Interval: 359.606323
+[2025.11.18-17.22.59:297][483]LogDerivedDataCache: C:/Users/Alekxander/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.003 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.18-17.24.26:938][462]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10985.402344
+[2025.11.18-17.24.27:134][467]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-17.24.27:135][467]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10985.563477, Update Interval: 316.926788
+[2025.11.18-17.28.03:723][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.18-17.28.03:723][517]LogWorld: BeginTearingDown for /Game/TopDownHybrid/Maps/UEDPIE_0_L_Hybrid
+[2025.11.18-17.28.03:724][517]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.18-17.28.03:726][517]LogWorld: UWorld::CleanupWorld for L_Hybrid, bSessionEnded=true, bCleanupResources=true
+[2025.11.18-17.28.03:728][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.18-17.28.03:734][517]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.18-17.28.03:754][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.18-17.28.03:833][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.18-17.28.03:834][517]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.11.18-17.28.03:834][517]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2025.11.18-17.28.03:861][517]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2025.11.18-17.28.03:887][517]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2025.11.18-17.28.05:184][518]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2025.11.18-17.28.12:670][607]LogSlate: Window 'Message Log' being destroyed
+[2025.11.18-17.28.12:867][607]LogSlate: Window 'Message Log' being destroyed
+[2025.11.18-17.28.13:744][619]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.18-17.28.13:826][619]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.18-17.28.13:827][619]LogPlayLevel: Creating play world package: /Game/TopDownHybrid/Maps/UEDPIE_0_L_Hybrid
+[2025.11.18-17.28.13:849][619]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021557s)
+[2025.11.18-17.28.13:849][619]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownHybrid/Maps/L_Hybrid.L_Hybrid to /Game/TopDownHybrid/Maps/UEDPIE_0_L_Hybrid.L_Hybrid (0.021785s)
+[2025.11.18-17.28.13:944][619]LogUObjectHash: Compacting FUObjectHashTables data took   6.38ms
+[2025.11.18-17.28.13:951][619]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Hybrid
+[2025.11.18-17.28.13:959][619]LogPlayLevel: PIE: World Init took: (0.007711s)
+[2025.11.18-17.28.13:963][619]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.11.18-17.28.13:963][619]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.18-17.28.13:963][619]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.18-17.28.13:964][619]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.18-17.28.13:964][619]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.18-17.28.13:964][619]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.18-17.28.13:965][619]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.18-17.28.13:965][619]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.18-17.28.13:965][619]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.18-17.28.13:965][619]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.18-17.28.13:965][619]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.18-17.28.13:965][619]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.18-17.28.13:974][619]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.18-17.28.14:082][619]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Cirrus Logic Superior High Definition Audio)
+[2025.11.18-17.28.14:091][619]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.18-17.28.14:092][619]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.18-17.28.14:092][619]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.18-17.28.14:095][619]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.11.18-17.28.14:095][619]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.11.18-17.28.14:103][619]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.11.18-17.28.14:103][619]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.11.18-17.28.14:105][619]LogInit: FAudioDevice initialized with ID 11.
+[2025.11.18-17.28.14:105][619]LogAudio: Display: Audio Device (ID: 11) registered with world 'L_Hybrid'.
+[2025.11.18-17.28.14:105][619]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.11.18-17.28.14:121][619]LogStreaming: Display: FlushAsyncLoading(571): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.18-17.28.14:122][619]LogLoad: Game class is 'GM_Hybrid_C'
+[2025.11.18-17.28.14:128][619]LogWorld: Bringing World /Game/TopDownHybrid/Maps/UEDPIE_0_L_Hybrid.L_Hybrid up for play (max tick rate 60) at 2025.11.18-12.28.14
+[2025.11.18-17.28.14:130][619]LogWorld: Bringing up level for play took: 0.006904
+[2025.11.18-17.28.14:140][619]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2025.11.18-17.28.14:148][619]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2025.11.18-17.28.14:149][619]LogScript: Warning: Script Msg: BP_Enemy_C_3 BarControl SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.11.18-17.28.14:150][619]LogScript: Warning: Script Msg called by: BP_Enemy_C /Game/TopDownHybrid/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Enemy_C_3
+[2025.11.18-17.28.14:154][619]PIE: Server logged in
+[2025.11.18-17.28.14:160][619]PIE: Play in editor total start time 0,387 seconds.
+[2025.11.18-17.28.25:484][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.18-17.28.25:484][741]LogWorld: BeginTearingDown for /Game/TopDownHybrid/Maps/UEDPIE_0_L_Hybrid
+[2025.11.18-17.28.25:484][741]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.18-17.28.25:485][741]LogWorld: UWorld::CleanupWorld for L_Hybrid, bSessionEnded=true, bCleanupResources=true
+[2025.11.18-17.28.25:486][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.18-17.28.25:491][741]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.18-17.28.25:509][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.18-17.28.25:573][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.18-17.28.25:574][741]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.11.18-17.28.25:574][741]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2025.11.18-17.28.25:598][741]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2025.11.18-17.28.25:619][741]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2025.11.18-17.28.26:102][742]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2025.11.18-17.30.41:838][180]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11360.307617
+[2025.11.18-17.30.42:841][183]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-17.30.42:841][183]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11360.976562, Update Interval: 323.432709
+[2025.11.18-17.36.51:008][287]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11729.479492
+[2025.11.18-17.36.52:005][290]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-17.36.52:006][290]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11730.151367, Update Interval: 327.942749
+[2025.11.18-17.42.58:196][388]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12096.675781
+[2025.11.18-17.42.59:195][391]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-17.42.59:195][391]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12097.341797, Update Interval: 319.625854
+[2025.11.18-17.48.57:720][466]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12456.215820
+[2025.11.18-17.48.58:720][469]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-17.48.58:720][469]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12456.882812, Update Interval: 357.901550
+[2025.11.18-17.55.53:797][714]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12872.291992
+[2025.11.18-17.55.54:797][717]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-17.55.54:797][717]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12872.959961, Update Interval: 340.705597
+[2025.11.18-18.02.17:535][865]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13256.026367
+[2025.11.18-18.02.18:535][868]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-18.02.18:535][868]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13256.692383, Update Interval: 353.144318
+[2025.11.18-18.08.43:342][210]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13641.819336
+[2025.11.18-18.08.44:345][213]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-18.08.44:345][213]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13642.486328, Update Interval: 308.798492
+[2025.11.18-18.09.01:834][616]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/DamageSystem/BPC_DamgeSystem.BPC_DamgeSystem
+[2025.11.18-18.09.01:839][616]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.11.18-18.10.53:137][525]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2025.11.18-18.10.53:183][525]LogContentBrowser: Creating deferred item: NewInputAction
+[2025.11.18-18.10.53:255][526]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2025.11.18-18.10.56:859][570]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Blocking
+[2025.11.18-18.10.56:899][570]LogContentBrowser: End creating deferred item NewInputAction
+[2025.11.18-18.10.58:383][589]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/TopDownHybrid/Input/Actions/IA_Blocking.IA_Blocking
+[2025.11.18-18.11.09:071][712]LogContentBrowser: Attempting asset rename: IA_Blocking -> IA_Block
+[2025.11.18-18.11.09:972][712]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-18.11.09:974][712]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownHybrid/Input/Actions/IA_Block] ([1] browsable assets)...
+[2025.11.18-18.11.09:974][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownHybrid/Input/Actions/IA_Block]
+[2025.11.18-18.11.09:998][712]LogSavePackage: Moving output files for package: /Game/TopDownHybrid/Input/Actions/IA_Block
+[2025.11.18-18.11.09:998][712]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/IA_BlockFA2FE09741B405444ED791A202EBB47A.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/TopDownHybrid/Input/Actions/IA_Block.uasset'
+[2025.11.18-18.11.10:005][712]LogFileHelpers: InternalPromptForCheckoutAndSave took 31.631 ms (total: 7.56 sec)
+[2025.11.18-18.11.10:210][712]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2025.11.18-18.11.10:274][712]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2025.11.18-18.11.10:324][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.11.18-18.11.10:432][712]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.18-18.11.10:432][712]LogContentValidation: Enabled validators:
+[2025.11.18-18.11.10:433][712]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.18-18.11.10:433][712]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.18-18.11.10:433][712]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.18-18.11.10:433][712]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.18-18.11.10:433][712]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.18-18.11.10:433][712]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.18-18.11.10:433][712]AssetCheck: /Game/TopDownHybrid/Input/Actions/IA_Block Validating asset
+[2025.11.18-18.11.10:513][712]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.18-18.11.13:619][752]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/TopDownHybrid/Input/Actions/IA_Attack.IA_Attack
+[2025.11.18-18.11.22:045][848]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-18.11.22:282][848]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownHybrid/Input/Actions/IA_Block] ([1] browsable assets)...
+[2025.11.18-18.11.22:282][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownHybrid/Input/Actions/IA_Block]
+[2025.11.18-18.11.22:290][848]LogSavePackage: Moving output files for package: /Game/TopDownHybrid/Input/Actions/IA_Block
+[2025.11.18-18.11.22:292][848]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/IA_Block6D05E05E40D36553D5912BB02907086C.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/TopDownHybrid/Input/Actions/IA_Block.uasset'
+[2025.11.18-18.11.22:326][848]LogFileHelpers: InternalPromptForCheckoutAndSave took 280.888 ms (total: 7.84 sec)
+[2025.11.18-18.11.22:433][848]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.18-18.11.22:434][848]LogContentValidation: Enabled validators:
+[2025.11.18-18.11.22:434][848]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.18-18.11.22:434][848]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.18-18.11.22:434][848]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.18-18.11.22:434][848]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.18-18.11.22:434][848]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.18-18.11.22:434][848]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.18-18.11.22:435][848]AssetCheck: /Game/TopDownHybrid/Input/Actions/IA_Block Validating asset
+[2025.11.18-18.11.27:439][907]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/TopDownHybrid/Input/IMC_Hybrid.IMC_Hybrid
+[2025.11.18-18.12.04:176][296]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-18.12.04:472][296]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownHybrid/Input/IMC_Hybrid] ([1] browsable assets)...
+[2025.11.18-18.12.04:472][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownHybrid/Input/IMC_Hybrid]
+[2025.11.18-18.12.04:472][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownHybrid/Input/IMC_Hybrid" FILE="../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/TopDownHybrid/Input/IMC_Hybrid.uasset" SILENT=true
+[2025.11.18-18.12.04:509][296]LogSavePackage: Moving output files for package: /Game/TopDownHybrid/Input/IMC_Hybrid
+[2025.11.18-18.12.04:511][296]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/IMC_Hybrid25EE29CF47800DEF6C75C58F25621EE4.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/TopDownHybrid/Input/IMC_Hybrid.uasset'
+[2025.11.18-18.12.04:546][296]LogFileHelpers: InternalPromptForCheckoutAndSave took 371.149 ms (total: 8.22 sec)
+[2025.11.18-18.12.04:650][296]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.18-18.12.04:651][296]LogContentValidation: Enabled validators:
+[2025.11.18-18.12.04:651][296]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.18-18.12.04:651][296]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.18-18.12.04:651][296]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.18-18.12.04:651][296]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.18-18.12.04:651][296]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.18-18.12.04:651][296]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.18-18.12.04:652][296]AssetCheck: /Game/TopDownHybrid/Input/IMC_Hybrid Validating asset
+[2025.11.18-18.12.04:731][296]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.18-18.13.08:208][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2025.11.18-18.13.08:214][840]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownHybrid/Maps/L_Hybrid' took 0.145
+[2025.11.18-18.13.08:216][840]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/DamageSystem/Player/BP_Mannequin] ([2] browsable assets)...
+[2025.11.18-18.13.08:216][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/DamageSystem/Player/BP_Mannequin]
+[2025.11.18-18.13.08:319][840]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/DamageSystem/Player/BP_Mannequin_Auto9
+[2025.11.18-18.13.08:319][840]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/BP_Mannequin_Auto9FEFD23884BD42A5B6204C48AB7C598DE.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/Autosaves/Game/DamageSystem/Player/BP_Mannequin_Auto9.uasset'
+[2025.11.18-18.13.08:322][840]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PlayerController] ([2] browsable assets)...
+[2025.11.18-18.13.08:322][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerController]
+[2025.11.18-18.13.08:381][840]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_PlayerController_Auto9
+[2025.11.18-18.13.08:382][840]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/BP_PlayerController_Auto94A665AA64640599E1577C19682F996F5.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/Autosaves/Game/Blueprints/BP_PlayerController_Auto9.uasset'
+[2025.11.18-18.13.08:383][840]LogFileHelpers: Auto-saving content packages took 0.168
+[2025.11.18-18.14.36:819][106]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13995.310547
+[2025.11.18-18.14.37:817][109]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-18.14.37:818][109]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13995.977539, Update Interval: 354.004944
+[2025.11.18-18.21.16:473][524]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14394.968750
+[2025.11.18-18.21.17:470][527]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-18.21.17:470][527]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14395.635742, Update Interval: 357.271637
+[2025.11.18-18.22.59:294][833]LogDerivedDataCache: C:/Users/Alekxander/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.18-18.25.46:304][829]LogUObjectHash: Compacting FUObjectHashTables data took   6.60ms
+[2025.11.18-18.25.46:312][829]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownHybrid/Maps/L_Hybrid' took 0.090
+[2025.11.18-18.25.46:313][829]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PlayerController] ([2] browsable assets)...
+[2025.11.18-18.25.46:313][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerController]
+[2025.11.18-18.25.46:450][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_PlayerController_Auto0
+[2025.11.18-18.25.46:451][829]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/BP_PlayerController_Auto02CDDF8634B4AD5999AE7379ABCBCB070.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/Autosaves/Game/Blueprints/BP_PlayerController_Auto0.uasset'
+[2025.11.18-18.25.46:456][829]LogFileHelpers: Auto-saving content packages took 0.143
+[2025.11.18-18.26.06:609][ 67]LogWindows: LaunchURL https://docs.unrealengine.com/5.6/en/Engine/Blueprints?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
+[2025.11.18-18.26.28:024][244]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2025.11.18-18.27.49:589][634]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14788.078125
+[2025.11.18-18.27.50:592][637]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-18.27.50:592][637]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14788.746094, Update Interval: 334.082458
+[2025.11.18-18.33.54:837][729]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15153.333984
+[2025.11.18-18.33.55:836][732]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-18.33.55:836][732]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15153.999023, Update Interval: 308.562286
+[2025.11.18-18.35.46:979][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2025.11.18-18.35.46:989][ 65]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownHybrid/Maps/L_Hybrid' took 0.063
+[2025.11.18-18.35.46:989][ 65]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PlayerController] ([2] browsable assets)...
+[2025.11.18-18.35.46:989][ 65]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerController]
+[2025.11.18-18.35.47:038][ 65]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_PlayerController_Auto1
+[2025.11.18-18.35.47:039][ 65]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/BP_PlayerController_Auto1BF8464AB459A98716127BD96E1BAB49A.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/Autosaves/Game/Blueprints/BP_PlayerController_Auto1.uasset'
+[2025.11.18-18.35.47:041][ 65]LogFileHelpers: Auto-saving content packages took 0.052
+[2025.11.18-18.39.41:576][769]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15500.080078
+[2025.11.18-18.39.42:578][772]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-18.39.42:578][772]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15500.746094, Update Interval: 315.881226
+[2025.11.18-18.45.36:001][832]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15854.507812
+[2025.11.18-18.45.36:993][835]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-18.45.36:993][835]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15855.165039, Update Interval: 309.974060
+[2025.11.18-18.47.32:656][210]LogBlueprint: Warning: [AssetLog] D:\.Universidad\Arquitectura\guego\Lastsonggg\MyProject\Content\DamageSystem\Player\BP_Mannequin.uasset: [Compiler] Could not find a variable named "TimerForBlock" in '/Game/DamageSystem/Player/BP_Mannequin.BP_Mannequin_C'.
+Make sure '/Game/DamageSystem/Player/BP_Mannequin.BP_Mannequin_C' has been compiled for  Get TimerForBlock
+[2025.11.18-18.47.32:681][210]LogBlueprint: Error: [AssetLog] D:\.Universidad\Arquitectura\guego\Lastsonggg\MyProject\Content\DamageSystem\Player\BP_Mannequin.uasset: [Compiler] The property associated with  Timer for Block  could not be found in '/Game/DamageSystem/Player/BP_Mannequin.BP_Mannequin_C'
+[2025.11.18-18.47.32:950][210]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2025.11.18-18.47.55:340][490]LogUObjectHash: Compacting FUObjectHashTables data took   7.84ms
+[2025.11.18-18.47.57:747][520]LogUObjectHash: Compacting FUObjectHashTables data took   7.39ms
+[2025.11.18-18.47.57:776][520]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-18.47.57:944][520]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/DamageSystem/Player/BP_Mannequin] ([2] browsable assets)...
+[2025.11.18-18.47.57:944][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/DamageSystem/Player/BP_Mannequin]
+[2025.11.18-18.47.57:944][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DamageSystem/Player/BP_Mannequin" FILE="../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/DamageSystem/Player/BP_Mannequin.uasset" SILENT=true
+[2025.11.18-18.47.58:056][520]LogSavePackage: Moving output files for package: /Game/DamageSystem/Player/BP_Mannequin
+[2025.11.18-18.47.58:058][520]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/BP_MannequinBA22E9DB4B9A97381BCCD59AB430F4D4.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/DamageSystem/Player/BP_Mannequin.uasset'
+[2025.11.18-18.47.58:062][520]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PlayerController] ([2] browsable assets)...
+[2025.11.18-18.47.58:063][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerController]
+[2025.11.18-18.47.58:063][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerController" FILE="../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/Blueprints/BP_PlayerController.uasset" SILENT=true
+[2025.11.18-18.47.58:129][520]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerController
+[2025.11.18-18.47.58:130][520]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/BP_PlayerController8BE631EB4026C8A4AADC17900FADE85E.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/Blueprints/BP_PlayerController.uasset'
+[2025.11.18-18.47.58:167][520]LogFileHelpers: InternalPromptForCheckoutAndSave took 391.438 ms (total: 8.61 sec)
+[2025.11.18-18.47.58:266][520]LogContentValidation: Display: Starting to validate 2 assets
+[2025.11.18-18.47.58:266][520]LogContentValidation: Enabled validators:
+[2025.11.18-18.47.58:266][520]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.18-18.47.58:266][520]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.18-18.47.58:266][520]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.18-18.47.58:266][520]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.18-18.47.58:266][520]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.18-18.47.58:266][520]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.18-18.47.58:267][520]AssetCheck: /Game/DamageSystem/Player/BP_Mannequin Validating asset
+[2025.11.18-18.47.58:267][520]AssetCheck: /Game/Blueprints/BP_PlayerController Validating asset
+[2025.11.18-18.47.59:944][541]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2025.11.18-18.48.03:723][583]LogSlate: Window 'BPC_DamgeSystem' being destroyed
+[2025.11.18-18.48.03:755][583]LogSlate: Window 'BPC_DamgeSystem' being destroyed
+[2025.11.18-18.48.03:798][583]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.11.18-18.48.03:801][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.18-18.48.05:585][583]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.11.18-18.48.05:585][583]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.11.18-18.48.05:585][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.18-18.48.06:594][583]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.11.18-18.48.06:594][583]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.11.18-18.48.06:594][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.18-18.48.07:909][583]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.11.18-18.48.07:909][583]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.11.18-18.48.07:910][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.18-18.48.09:396][583]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.11.18-18.48.09:397][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.18-18.48.10:458][583]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.11.18-18.48.10:458][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.18-18.48.11:115][583]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.11.18-18.48.11:115][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.18-18.48.11:538][583]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.11.18-18.48.11:538][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.18-18.48.11:951][583]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2025.11.18-18.48.16:611][614]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2025.11.18-18.48.16:782][614]LogStall: Shutdown...
+[2025.11.18-18.48.16:783][614]LogStall: Shutdown complete.
+[2025.11.18-18.48.16:939][614]LogSlate: Window 'MyProject - Unreal Editor' being destroyed
+[2025.11.18-18.48.22:893][614]Cmd: QUIT_EDITOR
+[2025.11.18-18.48.22:895][614]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.11.18-18.48.22:921][615]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.11.18-18.48.22:929][615]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.11.18-18.48.22:930][615]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.11.18-18.48.22:956][615]LogWorld: UWorld::CleanupWorld for L_Hybrid, bSessionEnded=true, bCleanupResources=true
+[2025.11.18-18.48.22:966][615]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.18-18.48.22:971][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.18-18.48.23:069][615]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.11.18-18.48.23:073][615]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.11.18-18.48.23:096][615]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.11.18-18.48.23:366][615]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.11.18-18.48.23:366][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.18-18.48.23:403][615]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.11.18-18.48.23:407][615]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.11.18-18.48.23:427][615]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.11.18-18.48.23:893][615]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.11.18-18.48.23:893][615]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.11.18-18.48.23:894][615]LogAudio: Display: Audio Device unregistered from world 'L_Hybrid'.
+[2025.11.18-18.48.23:897][615]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.11.18-18.48.23:908][615]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.11.18-18.48.23:953][615]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.11.18-18.48.24:023][615]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.11.18-18.48.24:024][615]LogAudio: Display: Audio Device Manager Shutdown
+[2025.11.18-18.48.24:038][615]LogWindowsTextInputMethodSystem: Activated input method: Español (España, internacional) - (Keyboard).
+[2025.11.18-18.48.24:071][615]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.11.18-18.48.24:074][615]LogExit: Preparing to exit.
+[2025.11.18-18.48.24:691][615]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2025.11.18-18.48.24:791][615]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.18-18.48.24:794][615]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.18-18.48.24:801][615]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.18-18.48.24:804][615]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.18-18.48.24:804][615]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.18-18.48.24:804][615]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.18-18.48.24:804][615]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.18-18.48.24:804][615]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.18-18.48.24:804][615]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.18-18.48.24:805][615]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.18-18.48.24:805][615]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.18-18.48.24:805][615]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.18-18.48.24:805][615]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.18-18.48.24:805][615]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.18-18.48.24:805][615]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.18-18.48.24:805][615]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.18-18.48.24:805][615]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.18-18.48.24:805][615]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.18-18.48.24:805][615]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.18-18.48.24:805][615]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.18-18.48.24:805][615]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.18-18.48.30:074][615]LogEditorDataStorage: Deinitializing
+[2025.11.18-18.48.31:156][615]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.11.18-18.48.31:815][615]LogExit: Editor shut down
+[2025.11.18-18.48.31:990][615]LogExit: Transaction tracking system shut down
+[2025.11.18-18.48.35:200][615]LogExit: Object subsystem successfully closed.
+[2025.11.18-18.48.35:274][615]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.11.18-18.48.36:532][615]LogMemoryProfiler: Shutdown
+[2025.11.18-18.48.36:533][615]LogNetworkingProfiler: Shutdown
+[2025.11.18-18.48.36:534][615]LoadingProfiler: Shutdown
+[2025.11.18-18.48.36:535][615]LogTimingProfiler: Shutdown
+[2025.11.18-18.48.36:552][615]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.11.18-18.48.36:553][615]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.11.18-18.48.39:581][615]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.11.18-18.48.39:588][615]LogNFORDenoise: NFORDenoise function shutting down
+[2025.11.18-18.48.39:613][615]RenderDocPlugin: plugin has been unloaded.
+[2025.11.18-18.48.39:671][615]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.11.18-18.48.39:671][615]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BECB444A5-41C7-89F7-C30C-DBA1241E7099%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=d5aa5a7348598c357231f486fef1d068%7C1fa2c89ba5e8472b99b7a311b24f8444%7C58b145d0-9a5f-4ca2-9469-be78d4762098&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.11.18-18.48.40:268][615]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.11.18-18.48.40:278][615]LogXGEController: Cleaning working directory: C:/Users/Alekxander/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.11.18-18.48.40:327][615]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.11.18-18.48.40:327][615]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.11.18-18.48.40:329][615]LogPakFile: Destroying PakPlatformFile
+[2025.11.18-18.48.40:740][615]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.11.18-18.48.40:876][615]LogExit: Exiting.
+[2025.11.18-18.48.41:069][615]Log file closed, 11/18/25 13:48:41
