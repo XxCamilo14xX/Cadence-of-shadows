@@ -17,7 +17,9 @@
 				"D:/.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/TopDownHybrid/Maps/L_Hybrid.umap",
 				"D:/.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/DamageSystem/Enemy/IA/BTT_Attack.uasset",
 				"D:/.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/TopDownHybrid/Input/Actions/IA_Block.uasset",
-				"D:/.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/TopDownHybrid/Input/IMC_Hybrid.uasset"
+				"D:/.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/TopDownHybrid/Input/IMC_Hybrid.uasset",
+				"D:/.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/Widgets/Wid/W_HUD.uasset",
+				"D:/.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/DamageSystem/BPC_DamgeSystem.uasset"
 			]
 		}
 	]
