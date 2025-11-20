@@ -1584,3 +1584,33 @@ LogConfig: Set CVar [[r.VRS.EnableSoftware:1]]
 [2025.11.20-22.38.34:570][565]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
 [2025.11.20-22.38.34:570][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.11.20-22.38.35:077][565]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2025.11.20-22.41.47:682][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2025.11.20-22.41.50:500][ 96]LogSlate: Window 'Save Content' being destroyed
+[2025.11.20-22.41.50:531][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.20-22.41.50:874][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2025.11.20-22.41.50:961][ 96]LogSavePackage: Moving output files for package: /Game/TopDownHybrid/Maps/L_Hybrid
+[2025.11.20-22.41.50:963][ 96]LogSavePackage: Moving 'C:/Users/camil/OneDrive/Documentos/Unreal Projects/Lastsong/MyProject/Saved/L_Hybrid847FB2D54EACF5CB2DB2568C4F382181.tmp' to 'C:/Users/camil/OneDrive/Documentos/Unreal Projects/Lastsong/MyProject/Content/TopDownHybrid/Maps/L_Hybrid.umap'
+[2025.11.20-22.41.51:000][ 96]LogFileHelpers: Saving map 'L_Hybrid' took 0.293
+[2025.11.20-22.41.51:001][ 96]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownHybrid/Maps/_GENERATED/camil/Box_19B4970B] ([1] browsable assets)...
+[2025.11.20-22.41.51:001][ 96]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownHybrid/Maps/_GENERATED/camil/Box_19B4970B]
+[2025.11.20-22.41.51:023][ 96]LogSavePackage: Moving output files for package: /Game/TopDownHybrid/Maps/_GENERATED/camil/Box_19B4970B
+[2025.11.20-22.41.51:023][ 96]LogSavePackage: Moving 'C:/Users/camil/OneDrive/Documentos/Unreal Projects/Lastsong/MyProject/Saved/Box_19B4970B896904A040F73CFB515E53AC71713656.tmp' to 'C:/Users/camil/OneDrive/Documentos/Unreal Projects/Lastsong/MyProject/Content/TopDownHybrid/Maps/_GENERATED/camil/Box_19B4970B.uasset'
+[2025.11.20-22.41.51:028][ 96]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Cubito] ([2] browsable assets)...
+[2025.11.20-22.41.51:248][ 96]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Cubito.Cubito]
+[2025.11.20-22.41.51:249][ 96]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cubito]
+[2025.11.20-22.41.51:249][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cubito" FILE="C:/Users/camil/OneDrive/Documentos/Unreal Projects/Lastsong/MyProject/Content/Cubito.uasset" SILENT=true
+[2025.11.20-22.41.51:331][ 96]LogSavePackage: Moving output files for package: /Game/Cubito
+[2025.11.20-22.41.51:331][ 96]LogSavePackage: Moving 'C:/Users/camil/OneDrive/Documentos/Unreal Projects/Lastsong/MyProject/Saved/CubitoC94D544E4195CDEC837C59BA486D96D2.tmp' to 'C:/Users/camil/OneDrive/Documentos/Unreal Projects/Lastsong/MyProject/Content/Cubito.uasset'
+[2025.11.20-22.41.51:417][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave took 885.779 ms (total: 1.06 sec)
+[2025.11.20-22.41.51:536][ 96]LogContentValidation: Display: Starting to validate 3 assets
+[2025.11.20-22.41.51:537][ 96]LogContentValidation: Enabled validators:
+[2025.11.20-22.41.51:537][ 96]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.20-22.41.51:537][ 96]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.20-22.41.51:537][ 96]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.20-22.41.51:537][ 96]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.20-22.41.51:537][ 96]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.20-22.41.51:537][ 96]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.20-22.41.51:537][ 96]AssetCheck: /Game/TopDownHybrid/Maps/L_Hybrid Validating asset
+[2025.11.20-22.41.51:537][ 96]AssetCheck: /Game/TopDownHybrid/Maps/_GENERATED/camil/Box_19B4970B Validating asset
+[2025.11.20-22.41.51:537][ 96]AssetCheck: /Game/Cubito Validating asset
+[2025.11.20-22.41.51:609][ 96]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/camil/OneDrive/Documentos/Unreal Projects/Lastsong/MyProject/Saved/SourceControl/UncontrolledChangelists.json
