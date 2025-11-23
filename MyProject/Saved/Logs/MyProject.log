@@ -3752,3 +3752,46 @@ Make sure 'BPC_Interaction_Systemm' has been compiled for  Invalid Message Node
 [2025.11.23-21.30.56:175][866]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/L_Hybrid_Auto29779418C4E35D6F9687398A93E2AE814.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/Autosaves/Game/Maps/L_Hybrid_Auto2.umap'
 [2025.11.23-21.30.56:179][866]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Hybrid' took 0.127
 [2025.11.23-21.30.56:179][866]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.127
+[2025.11.23-21.31.32:483][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2025.11.23-21.31.33:548][ 31]LogSlate: Window 'Save Content' being destroyed
+[2025.11.23-21.31.33:578][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.23-21.31.33:801][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.11.23-21.31.33:806][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/L_Hybrid" FILE="../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/Maps/L_Hybrid.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.23-21.31.33:931][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.11.23-21.31.34:017][ 31]LogSavePackage: Moving output files for package: /Game/Maps/L_Hybrid
+[2025.11.23-21.31.34:020][ 31]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/L_HybridECFCB58F4621051D30117984368AA5CE.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/Maps/L_Hybrid.umap'
+[2025.11.23-21.31.34:064][ 31]LogFileHelpers: Saving map 'L_Hybrid' took 0.259
+[2025.11.23-21.31.34:065][ 31]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Components/BPC_Interaction_Systemm] ([2] browsable assets)...
+[2025.11.23-21.31.34:065][ 31]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Components/BPC_Interaction_Systemm]
+[2025.11.23-21.31.34:180][ 31]LogSavePackage: Moving output files for package: /Game/Blueprints/Components/BPC_Interaction_Systemm
+[2025.11.23-21.31.34:181][ 31]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/BPC_Interaction_Systemm762B379E45874780E22073867630F26C.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/Blueprints/Components/BPC_Interaction_Systemm.uasset'
+[2025.11.23-21.31.34:184][ 31]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player_Enemies/Player/BP_Mannequin] ([2] browsable assets)...
+[2025.11.23-21.31.34:184][ 31]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player_Enemies/Player/BP_Mannequin]
+[2025.11.23-21.31.34:346][ 31]LogSavePackage: Moving output files for package: /Game/Player_Enemies/Player/BP_Mannequin
+[2025.11.23-21.31.34:347][ 31]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/BP_Mannequin6941B9E64D461285F2CC909C5C3C48DC.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/Player_Enemies/Player/BP_Mannequin.uasset'
+[2025.11.23-21.31.34:361][ 31]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PlayerController] ([2] browsable assets)...
+[2025.11.23-21.31.34:361][ 31]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerController]
+[2025.11.23-21.31.34:361][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerController" FILE="../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/Blueprints/BP_PlayerController.uasset" SILENT=true
+[2025.11.23-21.31.34:403][ 31]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerController
+[2025.11.23-21.31.34:404][ 31]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/BP_PlayerController99EA5ED84C962C00E61214A964E17AA2.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/Blueprints/BP_PlayerController.uasset'
+[2025.11.23-21.31.34:408][ 31]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Interactuable] ([2] browsable assets)...
+[2025.11.23-21.31.34:850][ 31]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Interactuable.Interactuable]
+[2025.11.23-21.31.34:850][ 31]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interactuable]
+[2025.11.23-21.31.34:850][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactuable" FILE="../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/Interactuable.uasset" SILENT=true
+[2025.11.23-21.31.34:915][ 31]LogSavePackage: Moving output files for package: /Game/Interactuable
+[2025.11.23-21.31.34:916][ 31]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/InteractuableC3C924D547A74FD24C8BF7B4AF7B5B9A.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/Interactuable.uasset'
+[2025.11.23-21.31.34:957][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.37 sec (total: 10.9 sec)
+[2025.11.23-21.31.35:088][ 31]LogContentValidation: Display: Starting to validate 5 assets
+[2025.11.23-21.31.35:088][ 31]LogContentValidation: Enabled validators:
+[2025.11.23-21.31.35:088][ 31]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.23-21.31.35:088][ 31]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.23-21.31.35:088][ 31]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.23-21.31.35:088][ 31]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.23-21.31.35:088][ 31]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.23-21.31.35:088][ 31]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.23-21.31.35:089][ 31]AssetCheck: /Game/Maps/L_Hybrid Validating asset
+[2025.11.23-21.31.35:089][ 31]AssetCheck: /Game/Blueprints/Components/BPC_Interaction_Systemm Validating asset
+[2025.11.23-21.31.35:089][ 31]AssetCheck: /Game/Player_Enemies/Player/BP_Mannequin Validating asset
+[2025.11.23-21.31.35:090][ 31]AssetCheck: /Game/Blueprints/BP_PlayerController Validating asset
+[2025.11.23-21.31.35:090][ 31]AssetCheck: /Game/Interactuable Validating asset
+[2025.11.23-21.31.35:154][ 31]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/SourceControl/UncontrolledChangelists.json
