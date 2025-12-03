@@ -8187,3 +8187,128 @@ Continue: Skip saving this asset only.
 [2025.12.03-20.06.00:392][555]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
 [2025.12.03-20.06.00:465][556]LogPlayLevel: Display: Destroying online subsystem :Context_80
 [2025.12.03-20.06.19:838][349]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-20.06.34:928][394]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-20.06.47:439][617]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2025.12.03-20.06.49:570][617]LogSlate: Window 'Save Content' being destroyed
+[2025.12.03-20.06.53:801][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.12.03-20.06.54:803][745]LogSlate: Window 'Save Content' being destroyed
+[2025.12.03-20.06.54:844][745]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-20.06.55:047][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.12.03-20.06.55:092][745]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Components/BPC_Inventorycomponent] ([2] browsable assets)...
+[2025.12.03-20.06.55:092][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Components/BPC_Inventorycomponent]
+[2025.12.03-20.06.55:488][745]LogSavePackage: Moving output files for package: /Game/Blueprints/Components/BPC_Inventorycomponent
+[2025.12.03-20.06.55:501][745]LogSavePackage: Moving '../../../../../../LastSong/Lastsonggg/MyProject/Saved/BPC_Inventorycomponent6B0C34BD4A25A17C8026D9A218A306B6.tmp' to '../../../../../../LastSong/Lastsonggg/MyProject/Content/Blueprints/Components/BPC_Inventorycomponent.uasset'
+[2025.12.03-20.06.55:622][745]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Inventory/Widget/WB_slot] ([2] browsable assets)...
+[2025.12.03-20.06.55:749][745]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Inventory/Widget/WB_slot.WB_slot]
+[2025.12.03-20.06.55:749][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inventory/Widget/WB_slot]
+[2025.12.03-20.06.55:749][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Inventory/Widget/WB_slot" FILE="../../../../../../LastSong/Lastsonggg/MyProject/Content/Blueprints/Inventory/Widget/WB_slot.uasset" SILENT=true
+[2025.12.03-20.06.55:864][745]LogSavePackage: Moving output files for package: /Game/Blueprints/Inventory/Widget/WB_slot
+[2025.12.03-20.06.55:865][745]LogSavePackage: Moving '../../../../../../LastSong/Lastsonggg/MyProject/Saved/WB_slot702D10224BB036D8A4AA46818ACB6859.tmp' to '../../../../../../LastSong/Lastsonggg/MyProject/Content/Blueprints/Inventory/Widget/WB_slot.uasset'
+[2025.12.03-20.06.55:882][745]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.03 sec (total: 23.8 sec)
+[2025.12.03-20.06.56:011][745]LogContentValidation: Display: Starting to validate 2 assets
+[2025.12.03-20.06.56:012][745]LogContentValidation: Enabled validators:
+[2025.12.03-20.06.56:012][745]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-20.06.56:012][745]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-20.06.56:012][745]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-20.06.56:012][745]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-20.06.56:012][745]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-20.06.56:012][745]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-20.06.56:024][745]AssetCheck: /Game/Blueprints/Components/BPC_Inventorycomponent Validating asset
+[2025.12.03-20.06.56:025][745]AssetCheck: /Game/Blueprints/Inventory/Widget/WB_slot Validating asset
+[2025.12.03-20.06.57:782][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2025.12.03-20.06.58:724][839]LogSlate: Window 'Save Content' being destroyed
+[2025.12.03-20.06.58:742][839]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-20.06.58:863][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.12.03-20.06.58:883][839]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.484 ms (total: 23.9 sec)
+[2025.12.03-20.07.00:354][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.12.03-20.07.01:437][921]LogSlate: Window 'Save Content' being destroyed
+[2025.12.03-20.07.01:452][921]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-20.07.01:572][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.12.03-20.07.01:593][921]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.448 ms (total: 24.0 sec)
+[2025.12.03-20.07.06:236][164]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-20.07.06:303][164]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Inventory/Widget/WB_inventory] ([2] browsable assets)...
+[2025.12.03-20.07.06:307][164]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Inventory/Widget/WB_inventory.WB_inventory]
+[2025.12.03-20.07.06:307][164]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inventory/Widget/WB_inventory]
+[2025.12.03-20.07.06:307][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Inventory/Widget/WB_inventory" FILE="../../../../../../LastSong/Lastsonggg/MyProject/Content/Blueprints/Inventory/Widget/WB_inventory.uasset" SILENT=true
+[2025.12.03-20.07.06:328][164]LogSavePackage: Moving output files for package: /Game/Blueprints/Inventory/Widget/WB_inventory
+[2025.12.03-20.07.06:328][164]LogSavePackage: Moving '../../../../../../LastSong/Lastsonggg/MyProject/Saved/WB_inventoryD9F63B0A476EC9B6F1B24C9E7EE405DD.tmp' to '../../../../../../LastSong/Lastsonggg/MyProject/Content/Blueprints/Inventory/Widget/WB_inventory.uasset'
+[2025.12.03-20.07.06:344][164]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.585 ms (total: 24.2 sec)
+[2025.12.03-20.07.06:399][164]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-20.07.06:399][164]LogContentValidation: Enabled validators:
+[2025.12.03-20.07.06:399][164]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-20.07.06:399][164]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-20.07.06:399][164]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-20.07.06:399][164]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-20.07.06:399][164]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-20.07.06:399][164]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-20.07.06:400][164]AssetCheck: /Game/Blueprints/Inventory/Widget/WB_inventory Validating asset
+[2025.12.03-20.07.07:263][215]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-20.07.07:318][215]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Components/BPC_Inventorycomponent] ([2] browsable assets)...
+[2025.12.03-20.07.07:318][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Components/BPC_Inventorycomponent]
+[2025.12.03-20.07.07:341][215]LogSavePackage: Moving output files for package: /Game/Blueprints/Components/BPC_Inventorycomponent
+[2025.12.03-20.07.07:342][215]LogSavePackage: Moving '../../../../../../LastSong/Lastsonggg/MyProject/Saved/BPC_Inventorycomponent8161EB9044F5DE9C4A9022BCA71D2D87.tmp' to '../../../../../../LastSong/Lastsonggg/MyProject/Content/Blueprints/Components/BPC_Inventorycomponent.uasset'
+[2025.12.03-20.07.07:363][215]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.876 ms (total: 24.3 sec)
+[2025.12.03-20.07.07:416][215]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-20.07.07:417][215]LogContentValidation: Enabled validators:
+[2025.12.03-20.07.07:417][215]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-20.07.07:417][215]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-20.07.07:417][215]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-20.07.07:417][215]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-20.07.07:417][215]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-20.07.07:417][215]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-20.07.07:417][215]AssetCheck: /Game/Blueprints/Components/BPC_Inventorycomponent Validating asset
+[2025.12.03-20.07.09:157][314]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-20.07.09:218][314]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Models/BPC_item] ([2] browsable assets)...
+[2025.12.03-20.07.09:218][314]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Models/BPC_item]
+[2025.12.03-20.07.09:218][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Models/BPC_item" FILE="../../../../../../LastSong/Lastsonggg/MyProject/Content/Blueprints/Models/BPC_item.uasset" SILENT=true
+[2025.12.03-20.07.09:448][314]LogSavePackage: Moving output files for package: /Game/Blueprints/Models/BPC_item
+[2025.12.03-20.07.09:449][314]LogSavePackage: Moving '../../../../../../LastSong/Lastsonggg/MyProject/Saved/BPC_item631CAD9C4534F717007A81AE37FE705A.tmp' to '../../../../../../LastSong/Lastsonggg/MyProject/Content/Blueprints/Models/BPC_item.uasset'
+[2025.12.03-20.07.09:467][314]LogFileHelpers: InternalPromptForCheckoutAndSave took 309.761 ms (total: 24.6 sec)
+[2025.12.03-20.07.09:526][314]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-20.07.09:526][314]LogContentValidation: Enabled validators:
+[2025.12.03-20.07.09:526][314]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-20.07.09:526][314]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-20.07.09:526][314]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-20.07.09:526][314]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-20.07.09:526][314]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-20.07.09:526][314]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-20.07.09:526][314]AssetCheck: /Game/Blueprints/Models/BPC_item Validating asset
+[2025.12.03-20.07.10:962][389]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-20.07.11:007][389]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Inventory/Widget/WB_slot] ([2] browsable assets)...
+[2025.12.03-20.07.11:007][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inventory/Widget/WB_slot]
+[2025.12.03-20.07.11:007][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Inventory/Widget/WB_slot" FILE="../../../../../../LastSong/Lastsonggg/MyProject/Content/Blueprints/Inventory/Widget/WB_slot.uasset" SILENT=true
+[2025.12.03-20.07.11:031][389]LogSavePackage: Moving output files for package: /Game/Blueprints/Inventory/Widget/WB_slot
+[2025.12.03-20.07.11:032][389]LogSavePackage: Moving '../../../../../../LastSong/Lastsonggg/MyProject/Saved/WB_slot564005AC4F770DE278EB30A0E25BD800.tmp' to '../../../../../../LastSong/Lastsonggg/MyProject/Content/Blueprints/Inventory/Widget/WB_slot.uasset'
+[2025.12.03-20.07.11:047][389]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.555 ms (total: 24.6 sec)
+[2025.12.03-20.07.11:087][389]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-20.07.11:087][389]LogContentValidation: Enabled validators:
+[2025.12.03-20.07.11:087][389]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-20.07.11:087][389]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-20.07.11:087][389]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-20.07.11:087][389]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-20.07.11:087][389]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-20.07.11:087][389]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-20.07.11:088][389]AssetCheck: /Game/Blueprints/Inventory/Widget/WB_slot Validating asset
+[2025.12.03-20.07.12:515][463]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-20.07.12:708][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Components/BPC_Interaction_Systemm] ([2] browsable assets)...
+[2025.12.03-20.07.12:708][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Components/BPC_Interaction_Systemm]
+[2025.12.03-20.07.12:801][463]LogSavePackage: Moving output files for package: /Game/Blueprints/Components/BPC_Interaction_Systemm
+[2025.12.03-20.07.12:801][463]LogSavePackage: Moving '../../../../../../LastSong/Lastsonggg/MyProject/Saved/BPC_Interaction_SystemmC4736C494A29457D928CBBBAD00F38FF.tmp' to '../../../../../../LastSong/Lastsonggg/MyProject/Content/Blueprints/Components/BPC_Interaction_Systemm.uasset'
+[2025.12.03-20.07.12:847][463]LogFileHelpers: InternalPromptForCheckoutAndSave took 332.865 ms (total: 25.0 sec)
+[2025.12.03-20.07.12:911][463]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-20.07.12:911][463]LogContentValidation: Enabled validators:
+[2025.12.03-20.07.12:911][463]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-20.07.12:911][463]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-20.07.12:911][463]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-20.07.12:911][463]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-20.07.12:911][463]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-20.07.12:912][463]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-20.07.12:912][463]AssetCheck: /Game/Blueprints/Components/BPC_Interaction_Systemm Validating asset
+[2025.12.03-20.07.12:994][463]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../LastSong/Lastsonggg/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.03-20.07.14:781][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.12.03-20.07.17:752][557]LogSlate: Window 'Save Content' being destroyed
+[2025.12.03-20.07.23:022][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2025.12.03-20.07.24:081][840]LogSlate: Window 'Save Content' being destroyed
+[2025.12.03-20.07.24:102][840]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-20.07.24:229][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.12.03-20.07.24:249][840]LogFileHelpers: InternalPromptForCheckoutAndSave took 146.403 ms (total: 25.1 sec)
