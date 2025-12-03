@@ -3406,3 +3406,786 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.03-17.17.08:496][ 82]AssetCheck: /Game/Blueprints/Inventory/Widget/WB_slot Validating asset
 [2025.12.03-17.17.20:318][450]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2025.12.03-17.17.35:876][497]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-17.17.54:171][552]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-17.18.17:433][622]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-17.19.26:176][980]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3351.659912
+[2025.12.03-17.19.27:183][983]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-17.19.27:183][984]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3352.327393, Update Interval: 310.743134
+[2025.12.03-17.20.49:174][922]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.12.03-17.20.49:174][922]LogStreaming: Display: FlushAsyncLoading(620): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.03-17.20.57:166][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2025.12.03-17.20.58:213][382]LogSlate: Window 'Delete Assets' being destroyed
+[2025.12.03-17.20.58:312][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.12.03-17.20.58:352][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.12.03-17.20.58:392][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.12.03-17.20.58:420][382]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../LastSong/Lastsonggg/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.03-17.21.07:372][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.12.03-17.21.08:358][891]LogSlate: Window 'Delete Assets' being destroyed
+[2025.12.03-17.21.08:410][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.12.03-17.21.08:448][891]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.12.03-17.21.08:487][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.12.03-17.21.08:662][891]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../LastSong/Lastsonggg/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.03-17.21.08:999][898]LogStreaming: Display: FlushAsyncLoading(622): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.03-17.21.28:465][997]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-17.21.28:475][997]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.03-17.21.28:475][997]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-17.21.28:482][997]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006425s)
+[2025.12.03-17.21.28:482][997]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Hybrid.L_Hybrid to /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid (0.006465s)
+[2025.12.03-17.21.28:522][997]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2025.12.03-17.21.28:524][997]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Hybrid
+[2025.12.03-17.21.28:527][997]LogPlayLevel: PIE: World Init took: (0.002808s)
+[2025.12.03-17.21.28:529][997]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.12.03-17.21.28:529][997]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.03-17.21.28:529][997]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.03-17.21.28:530][997]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.03-17.21.28:530][997]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.03-17.21.28:530][997]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.03-17.21.28:530][997]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.03-17.21.28:530][997]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.03-17.21.28:530][997]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.03-17.21.28:530][997]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.03-17.21.28:530][997]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.03-17.21.28:530][997]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.03-17.21.28:533][997]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.03-17.21.28:586][997]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2025.12.03-17.21.28:586][997]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.03-17.21.28:586][997]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.03-17.21.28:586][997]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.03-17.21.28:587][997]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.12.03-17.21.28:587][997]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.12.03-17.21.28:590][997]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.12.03-17.21.28:590][997]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.12.03-17.21.28:590][997]LogInit: FAudioDevice initialized with ID 9.
+[2025.12.03-17.21.28:590][997]LogAudio: Display: Audio Device (ID: 9) registered with world 'L_Hybrid'.
+[2025.12.03-17.21.28:590][997]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.12.03-17.21.28:594][997]LogLoad: Game class is 'GM_Hybrid_C'
+[2025.12.03-17.21.28:596][997]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid up for play (max tick rate 60) at 2025.12.03-12.21.28
+[2025.12.03-17.21.28:597][997]LogWorld: Bringing up level for play took: 0.002002
+[2025.12.03-17.21.28:600][997]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2025.12.03-17.21.28:602][997]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2025.12.03-17.21.28:602][997]LogScript: Warning: Script Msg: BP_Enemy_C_3 BarControl SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.12.03-17.21.28:602][997]LogScript: Warning: Script Msg called by: BP_Enemy_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Enemy_C_3
+[2025.12.03-17.21.28:604][997]PIE: Server logged in
+[2025.12.03-17.21.28:606][997]PIE: Play in editor total start time 0,133 seconds.
+[2025.12.03-17.21.30:270][  3]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-17.21.31:087][ 13]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 1
+[2025.12.03-17.21.31:776][ 22]LogBlueprintUserMessages: [BP_Mannequin_C_0] End of the combo
+[2025.12.03-17.21.38:536][141]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-17.21.38:544][141]LogBlueprintUserMessages: [BP_Enemy_C_3] HitReaction
+[2025.12.03-17.21.38:544][141]LogBlueprintUserMessages: [BP_Mannequin_C_0] Hit
+[2025.12.03-17.21.38:570][142]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-17.21.38:604][143]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-17.21.38:970][151]LogBlueprintUserMessages: [BP_Mannequin_C_0] HitReaction
+[2025.12.03-17.21.39:268][159]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-17.21.39:302][160]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-17.21.39:340][161]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-17.21.39:340][161]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 1
+[2025.12.03-17.21.39:375][162]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-17.21.39:375][162]LogBlueprintUserMessages: [BP_Enemy_C_3] HitReaction
+[2025.12.03-17.21.39:375][162]LogBlueprintUserMessages: [BP_Mannequin_C_0] Hit
+[2025.12.03-17.21.40:193][181]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 2
+[2025.12.03-17.21.40:830][197]LogBlueprintUserMessages: [BP_Mannequin_C_0] End of the combo
+[2025.12.03-17.21.41:603][211]LogBlueprintUserMessages: [BP_Mannequin_C_0] HitReaction
+[2025.12.03-17.21.41:759][214]LogBlueprintUserMessages: [BP_Mannequin_C_0] Knife
+[2025.12.03-17.21.41:803][215]LogBlueprintUserMessages: [BP_Mannequin_C_0] Knife
+[2025.12.03-17.21.42:560][236]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 1
+[2025.12.03-17.21.43:182][253]LogBlueprintUserMessages: [BP_Mannequin_C_0] Knife
+[2025.12.03-17.21.43:215][254]LogBlueprintUserMessages: [BP_Mannequin_C_0] Knife
+[2025.12.03-17.21.43:249][255]LogBlueprintUserMessages: [BP_Mannequin_C_0] Knife
+[2025.12.03-17.21.43:678][265]LogBlueprintUserMessages: [BP_Mannequin_C_0] Knife
+[2025.12.03-17.21.43:709][266]LogBlueprintUserMessages: [BP_Mannequin_C_0] Knife
+[2025.12.03-17.21.43:744][267]LogBlueprintUserMessages: [BP_Mannequin_C_0] Knife
+[2025.12.03-17.21.43:854][270]LogBlueprintUserMessages: [BP_Mannequin_C_0] Knife
+[2025.12.03-17.21.43:882][271]LogBlueprintUserMessages: [BP_Mannequin_C_0] Knife
+[2025.12.03-17.21.43:917][272]LogBlueprintUserMessages: [BP_Mannequin_C_0] Knife
+[2025.12.03-17.21.43:985][274]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 2
+[2025.12.03-17.21.44:268][280]LogBlueprintUserMessages: [BP_Mannequin_C_0] Knife
+[2025.12.03-17.21.44:268][280]LogBlueprintUserMessages: [BP_Mannequin_C_0] Hit
+[2025.12.03-17.21.44:301][281]LogBlueprintUserMessages: [BP_Mannequin_C_0] Knife
+[2025.12.03-17.21.44:336][282]LogBlueprintUserMessages: [BP_Mannequin_C_0] Knife
+[2025.12.03-17.21.44:443][285]LogBlueprintUserMessages: [BP_Mannequin_C_0] Knife
+[2025.12.03-17.21.44:473][286]LogBlueprintUserMessages: [BP_Mannequin_C_0] Knife
+[2025.12.03-17.21.44:508][287]LogBlueprintUserMessages: [BP_Mannequin_C_0] Knife
+[2025.12.03-17.21.44:611][290]LogBlueprintUserMessages: [BP_Mannequin_C_0] Knife
+[2025.12.03-17.21.44:645][291]LogBlueprintUserMessages: [BP_Mannequin_C_0] Knife
+[2025.12.03-17.21.44:681][292]LogBlueprintUserMessages: [BP_Mannequin_C_0] Knife
+[2025.12.03-17.21.45:091][302]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 3
+[2025.12.03-17.21.45:091][302]LogBlueprintUserMessages: [BP_Mannequin_C_0] End of the combo
+[2025.12.03-17.21.52:549][397]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-17.21.52:549][397]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-17.21.52:549][397]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-17.21.52:549][397]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-17.21.55:090][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-17.21.55:090][427]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-17.21.55:090][427]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.03-17.21.55:090][427]LogWorld: UWorld::CleanupWorld for L_Hybrid, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-17.21.55:090][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-17.21.55:199][427]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.03-17.21.55:205][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-17.21.55:247][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-17.21.55:247][427]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.12.03-17.21.55:247][427]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2025.12.03-17.21.55:252][427]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2025.12.03-17.21.55:264][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2025.12.03-17.21.55:694][428]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2025.12.03-17.21.59:493][558]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-17.21.59:504][558]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.03-17.21.59:540][558]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-17.21.59:546][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005852s)
+[2025.12.03-17.21.59:546][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Hybrid.L_Hybrid to /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid (0.005900s)
+[2025.12.03-17.21.59:582][558]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2025.12.03-17.21.59:584][558]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Hybrid
+[2025.12.03-17.21.59:587][558]LogPlayLevel: PIE: World Init took: (0.002858s)
+[2025.12.03-17.21.59:589][558]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.12.03-17.21.59:589][558]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.03-17.21.59:589][558]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.03-17.21.59:589][558]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.03-17.21.59:589][558]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.03-17.21.59:589][558]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.03-17.21.59:589][558]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.03-17.21.59:589][558]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.03-17.21.59:589][558]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.03-17.21.59:589][558]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.03-17.21.59:589][558]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.03-17.21.59:589][558]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.03-17.21.59:593][558]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.03-17.21.59:638][558]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2025.12.03-17.21.59:638][558]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.03-17.21.59:638][558]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.03-17.21.59:638][558]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.03-17.21.59:639][558]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.12.03-17.21.59:639][558]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.12.03-17.21.59:642][558]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.12.03-17.21.59:642][558]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.12.03-17.21.59:642][558]LogInit: FAudioDevice initialized with ID 10.
+[2025.12.03-17.21.59:642][558]LogAudio: Display: Audio Device (ID: 10) registered with world 'L_Hybrid'.
+[2025.12.03-17.21.59:642][558]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.12.03-17.21.59:650][558]LogLoad: Game class is 'GM_Hybrid_C'
+[2025.12.03-17.21.59:652][558]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid up for play (max tick rate 60) at 2025.12.03-12.21.59
+[2025.12.03-17.21.59:652][558]LogWorld: Bringing up level for play took: 0.001947
+[2025.12.03-17.21.59:655][558]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2025.12.03-17.21.59:657][558]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2025.12.03-17.21.59:658][558]LogScript: Warning: Script Msg: BP_Enemy_C_3 BarControl SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.12.03-17.21.59:658][558]LogScript: Warning: Script Msg called by: BP_Enemy_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Enemy_C_3
+[2025.12.03-17.21.59:659][558]PIE: Server logged in
+[2025.12.03-17.21.59:662][558]PIE: Play in editor total start time 0,158 seconds.
+[2025.12.03-17.22.07:083][947]LogBlueprintUserMessages: [BP_Mannequin_C_0] HitReaction
+[2025.12.03-17.22.08:517][ 33]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-17.22.08:517][ 33]LogBlueprintUserMessages: [BP_Enemy_C_3] HitReaction
+[2025.12.03-17.22.08:517][ 33]LogBlueprintUserMessages: [BP_Mannequin_C_0] Hit
+[2025.12.03-17.22.08:532][ 34]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-17.22.08:549][ 35]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-17.22.08:565][ 36]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-17.22.08:581][ 37]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-17.22.08:599][ 38]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-17.22.08:616][ 39]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-17.22.09:034][ 64]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-17.22.09:049][ 65]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-17.22.09:065][ 66]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-17.22.09:082][ 67]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-17.22.09:099][ 68]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-17.22.09:316][ 81]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 1
+[2025.12.03-17.22.09:916][117]LogBlueprintUserMessages: [BP_Mannequin_C_0] End of the combo
+[2025.12.03-17.22.10:234][136]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-17.22.10:234][136]LogBlueprintUserMessages: [BP_Enemy_C_3] HitReaction
+[2025.12.03-17.22.10:234][136]LogBlueprintUserMessages: [BP_Mannequin_C_0] Hit
+[2025.12.03-17.22.10:249][137]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-17.22.10:265][138]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-17.22.10:282][139]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-17.22.10:298][140]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-17.22.10:315][141]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-17.22.10:467][150]LogBlueprintUserMessages: [BP_Mannequin_C_0] HitReaction
+[2025.12.03-17.22.10:852][173]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-17.22.10:866][174]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-17.22.10:883][175]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-17.22.10:900][176]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-17.22.10:916][177]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-17.22.10:933][178]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-17.22.10:950][179]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-17.22.11:034][184]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 1
+[2025.12.03-17.22.11:301][200]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-17.22.11:302][200]LogBlueprintUserMessages: [BP_Mannequin_C_0] Hit
+[2025.12.03-17.22.11:316][201]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-17.22.11:333][202]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-17.22.11:350][203]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-17.22.11:366][204]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-17.22.11:383][205]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-17.22.11:400][206]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-17.22.12:114][247]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 2
+[2025.12.03-17.22.12:727][283]LogBlueprintUserMessages: [BP_Mannequin_C_0] End of the combo
+[2025.12.03-17.22.15:258][430]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-17.22.15:258][430]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-17.22.19:359][676]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-17.22.19:360][676]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-17.22.19:360][676]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-17.22.19:360][676]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-17.22.19:558][688]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-17.22.19:558][688]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-17.22.21:231][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-17.22.21:231][786]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-17.22.21:231][786]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.03-17.22.21:231][786]LogWorld: UWorld::CleanupWorld for L_Hybrid, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-17.22.21:231][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-17.22.21:233][786]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.03-17.22.21:240][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-17.22.21:275][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-17.22.21:275][786]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.12.03-17.22.21:275][786]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2025.12.03-17.22.21:279][786]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2025.12.03-17.22.21:290][786]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2025.12.03-17.22.21:428][787]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2025.12.03-17.22.48:101][232]LogDerivedDataCache: C:/Users/camil/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.03-17.24.22:281][768]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-17.24.39:554][930]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.12.03-17.24.39:565][930]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.12.03-17.24.39:578][930]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.12.03-17.24.39:598][931]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.12.03-17.25.02:858][772]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Inventory
+[2025.12.03-17.25.02:870][772]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.12.03-17.25.09:875][128]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3695.349365
+[2025.12.03-17.25.10:047][138]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-17.25.10:047][138]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3695.499756, Update Interval: 310.389709
+[2025.12.03-17.25.12:567][286]LogContentBrowser: Attempting asset rename: BP_Inventory -> BP_Inventorycomponent
+[2025.12.03-17.25.12:728][286]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-17.25.12:729][286]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Components/BP_Inventorycomponent] ([2] browsable assets)...
+[2025.12.03-17.25.12:729][286]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Components/BP_Inventorycomponent]
+[2025.12.03-17.25.12:762][286]LogSavePackage: Moving output files for package: /Game/Blueprints/Components/BP_Inventorycomponent
+[2025.12.03-17.25.12:762][286]LogSavePackage: Moving '../../../../../../LastSong/Lastsonggg/MyProject/Saved/BP_InventorycomponentF52B312E4C3B511AFC32B892BFE3E877.tmp' to '../../../../../../LastSong/Lastsonggg/MyProject/Content/Blueprints/Components/BP_Inventorycomponent.uasset'
+[2025.12.03-17.25.12:768][286]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.982 ms (total: 8.36 sec)
+[2025.12.03-17.25.12:822][286]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2025.12.03-17.25.12:854][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.12.03-17.25.12:892][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.12.03-17.25.12:953][286]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-17.25.12:953][286]LogContentValidation: Enabled validators:
+[2025.12.03-17.25.12:953][286]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-17.25.12:953][286]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-17.25.12:953][286]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-17.25.12:953][286]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-17.25.12:953][286]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-17.25.12:953][286]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-17.25.12:953][286]AssetCheck: /Game/Blueprints/Components/BP_Inventorycomponent Validating asset
+[2025.12.03-17.25.13:025][286]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../LastSong/Lastsonggg/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.03-17.26.00:030][494]LogStreaming: Display: FlushAsyncLoading(623): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.03-17.26.00:226][494]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player_Enemies/Mannequin/BP_Player.BP_Player
+[2025.12.03-17.26.00:227][494]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2025.12.03-17.27.00:401][417]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-17.27.12:589][454]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-17.27.44:652][670]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-17.28.08:728][317]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-17.28.08:728][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-17.28.08:872][317]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2025.12.03-17.28.27:825][ 72]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player_Enemies/Player/BP_Mannequin.BP_Mannequin
+[2025.12.03-17.28.27:825][ 72]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2025.12.03-17.29.00:217][ 87]LogSlate: Window 'WB_inventory' being destroyed
+[2025.12.03-17.29.00:229][ 87]LogSlate: Window 'WB_inventory' being destroyed
+[2025.12.03-17.29.00:250][ 87]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-17.29.00:250][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-17.29.00:263][ 87]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-17.29.00:263][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-17.29.00:341][ 87]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-17.29.00:341][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-17.29.00:353][ 87]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-17.29.00:353][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-17.29.00:483][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2025.12.03-17.29.57:522][128]LogContentBrowser: Attempting asset rename: BP_Inventorycomponent -> BPC_Inventorycomponent
+[2025.12.03-17.29.57:638][128]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-17.29.57:638][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Components/BPC_Inventorycomponent] ([2] browsable assets)...
+[2025.12.03-17.29.57:638][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Components/BPC_Inventorycomponent]
+[2025.12.03-17.29.57:651][128]LogSavePackage: Moving output files for package: /Game/Blueprints/Components/BPC_Inventorycomponent
+[2025.12.03-17.29.57:651][128]LogSavePackage: Moving '../../../../../../LastSong/Lastsonggg/MyProject/Saved/BPC_Inventorycomponent5A5E6108489BE8244487ED845678E944.tmp' to '../../../../../../LastSong/Lastsonggg/MyProject/Content/Blueprints/Components/BPC_Inventorycomponent.uasset'
+[2025.12.03-17.29.57:660][128]LogFileHelpers: InternalPromptForCheckoutAndSave took 22.950 ms (total: 8.39 sec)
+[2025.12.03-17.29.57:726][128]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2025.12.03-17.29.57:773][128]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2025.12.03-17.29.57:812][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.12.03-17.29.57:874][128]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-17.29.57:874][128]LogContentValidation: Enabled validators:
+[2025.12.03-17.29.57:874][128]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-17.29.57:874][128]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-17.29.57:874][128]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-17.29.57:874][128]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-17.29.57:874][128]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-17.29.57:874][128]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-17.29.57:874][128]AssetCheck: /Game/Blueprints/Components/BPC_Inventorycomponent Validating asset
+[2025.12.03-17.29.57:951][128]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../LastSong/Lastsonggg/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.03-17.30.43:765][ 46]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Inventory/Widget/WB_inventory.WB_inventory
+[2025.12.03-17.30.43:765][ 46]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2025.12.03-17.30.43:778][ 46]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2025.12.03-17.30.46:439][122]LogSlate: Window 'WB_inventory' being destroyed
+[2025.12.03-17.30.47:935][206]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Inventory/Widget/WB_slot.WB_slot
+[2025.12.03-17.30.47:936][206]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2025.12.03-17.30.47:946][206]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2025.12.03-17.31.02:078][859]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4047.547607
+[2025.12.03-17.31.03:078][862]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-17.31.03:078][862]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4048.217285, Update Interval: 324.251221
+[2025.12.03-17.31.23:090][306]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Components/BPC_Inventorycomponent.BPC_Inventorycomponent
+[2025.12.03-17.31.23:091][306]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2025.12.03-17.31.41:397][940]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2025.12.03-17.31.43:694][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2025.12.03-17.31.44:672][ 69]LogSlate: Window 'Save Content' being destroyed
+[2025.12.03-17.31.44:685][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-17.31.44:777][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Components/BPC_Inventorycomponent] ([2] browsable assets)...
+[2025.12.03-17.31.44:777][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Components/BPC_Inventorycomponent]
+[2025.12.03-17.31.44:810][ 69]LogSavePackage: Moving output files for package: /Game/Blueprints/Components/BPC_Inventorycomponent
+[2025.12.03-17.31.44:810][ 69]LogSavePackage: Moving '../../../../../../LastSong/Lastsonggg/MyProject/Saved/BPC_Inventorycomponent88432AF2435E2D1C45E05E901600A20D.tmp' to '../../../../../../LastSong/Lastsonggg/MyProject/Content/Blueprints/Components/BPC_Inventorycomponent.uasset'
+[2025.12.03-17.31.44:814][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player_Enemies/Player/BP_Mannequin] ([2] browsable assets)...
+[2025.12.03-17.31.44:814][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player_Enemies/Player/BP_Mannequin]
+[2025.12.03-17.31.44:814][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Enemies/Player/BP_Mannequin" FILE="../../../../../../LastSong/Lastsonggg/MyProject/Content/Player_Enemies/Player/BP_Mannequin.uasset" SILENT=true
+[2025.12.03-17.31.44:988][ 69]LogSavePackage: Moving output files for package: /Game/Player_Enemies/Player/BP_Mannequin
+[2025.12.03-17.31.44:988][ 69]LogSavePackage: Moving '../../../../../../LastSong/Lastsonggg/MyProject/Saved/BP_MannequinA3D6B93A466E13DE1EBDA095708DD717.tmp' to '../../../../../../LastSong/Lastsonggg/MyProject/Content/Player_Enemies/Player/BP_Mannequin.uasset'
+[2025.12.03-17.31.45:004][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player_Enemies/Mannequin/BP_Player] ([2] browsable assets)...
+[2025.12.03-17.31.45:005][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player_Enemies/Mannequin/BP_Player]
+[2025.12.03-17.31.45:005][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Enemies/Mannequin/BP_Player" FILE="../../../../../../LastSong/Lastsonggg/MyProject/Content/Player_Enemies/Mannequin/BP_Player.uasset" SILENT=true
+[2025.12.03-17.31.45:034][ 69]LogSavePackage: Moving output files for package: /Game/Player_Enemies/Mannequin/BP_Player
+[2025.12.03-17.31.45:034][ 69]LogSavePackage: Moving '../../../../../../LastSong/Lastsonggg/MyProject/Saved/BP_PlayerD8D526C84EB6D363911817A6E37E93DE.tmp' to '../../../../../../LastSong/Lastsonggg/MyProject/Content/Player_Enemies/Mannequin/BP_Player.uasset'
+[2025.12.03-17.31.45:045][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave took 360.059 ms (total: 8.75 sec)
+[2025.12.03-17.31.45:093][ 69]LogContentValidation: Display: Starting to validate 3 assets
+[2025.12.03-17.31.45:093][ 69]LogContentValidation: Enabled validators:
+[2025.12.03-17.31.45:093][ 69]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-17.31.45:093][ 69]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-17.31.45:093][ 69]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-17.31.45:093][ 69]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-17.31.45:093][ 69]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-17.31.45:093][ 69]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-17.31.45:093][ 69]AssetCheck: /Game/Blueprints/Components/BPC_Inventorycomponent Validating asset
+[2025.12.03-17.31.45:093][ 69]AssetCheck: /Game/Player_Enemies/Player/BP_Mannequin Validating asset
+[2025.12.03-17.31.45:093][ 69]AssetCheck: /Game/Player_Enemies/Mannequin/BP_Player Validating asset
+[2025.12.03-17.31.45:114][ 69]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../LastSong/Lastsonggg/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.03-17.31.45:931][119]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-17.31.45:945][119]LogPlayLevel: [PlayLevel] Compiling BP_Mannequin before play...
+[2025.12.03-17.31.46:120][119]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2025.12.03-17.31.46:182][119]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2025.12.03-17.31.46:184][119]LogPlayLevel: PlayLevel: Blueprint regeneration took 241 ms (2 blueprints)
+[2025.12.03-17.31.46:184][119]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-17.31.46:191][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007162s)
+[2025.12.03-17.31.46:191][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Hybrid.L_Hybrid to /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid (0.007209s)
+[2025.12.03-17.31.46:232][119]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2025.12.03-17.31.46:233][119]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Hybrid
+[2025.12.03-17.31.46:236][119]LogPlayLevel: PIE: World Init took: (0.002684s)
+[2025.12.03-17.31.46:238][119]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.12.03-17.31.46:238][119]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.03-17.31.46:238][119]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.03-17.31.46:238][119]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.03-17.31.46:238][119]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.03-17.31.46:238][119]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.03-17.31.46:238][119]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.03-17.31.46:238][119]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.03-17.31.46:238][119]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.03-17.31.46:238][119]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.03-17.31.46:238][119]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.03-17.31.46:238][119]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.03-17.31.46:241][119]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.03-17.31.46:297][119]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2025.12.03-17.31.46:297][119]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.03-17.31.46:297][119]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.03-17.31.46:297][119]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.03-17.31.46:297][119]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.12.03-17.31.46:297][119]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.12.03-17.31.46:301][119]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.12.03-17.31.46:301][119]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.12.03-17.31.46:301][119]LogInit: FAudioDevice initialized with ID 11.
+[2025.12.03-17.31.46:301][119]LogAudio: Display: Audio Device (ID: 11) registered with world 'L_Hybrid'.
+[2025.12.03-17.31.46:301][119]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.12.03-17.31.46:357][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-17.31.46:358][119]LogLoad: Game class is 'GM_Hybrid_C'
+[2025.12.03-17.31.46:360][119]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid up for play (max tick rate 60) at 2025.12.03-12.31.46
+[2025.12.03-17.31.46:361][119]LogWorld: Bringing up level for play took: 0.003104
+[2025.12.03-17.31.46:364][119]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2025.12.03-17.31.46:367][119]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2025.12.03-17.31.46:367][119]LogScript: Warning: Script Msg: BP_Enemy_C_3 BarControl SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.12.03-17.31.46:367][119]LogScript: Warning: Script Msg called by: BP_Enemy_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Enemy_C_3
+[2025.12.03-17.31.46:368][119]LogBlueprintUserMessages: [BPC_Inventorycomponent] Hello
+[2025.12.03-17.31.46:370][119]PIE: Server logged in
+[2025.12.03-17.31.46:371][119]PIE: Play in editor total start time 0,43 seconds.
+[2025.12.03-17.31.46:411][120]LogCsvProfiler: Display: Metadata set : systemresolution.resx="1280"
+[2025.12.03-17.31.46:411][120]LogCsvProfiler: Display: Metadata set : systemresolution.resy="720"
+[2025.12.03-17.31.51:146][159]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-17.31.51:960][168]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 1
+[2025.12.03-17.31.52:636][175]LogBlueprintUserMessages: [BP_Mannequin_C_0] End of the combo
+[2025.12.03-17.32.00:581][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-17.32.00:581][263]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-17.32.00:581][263]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.03-17.32.00:583][263]LogSlate: Window 'MyProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.12.03-17.32.00:877][263]LogWorld: UWorld::CleanupWorld for L_Hybrid, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-17.32.00:878][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-17.32.00:880][263]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.03-17.32.00:897][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-17.32.00:944][263]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.12.03-17.32.00:944][263]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2025.12.03-17.32.00:948][263]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2025.12.03-17.32.00:961][263]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2025.12.03-17.32.01:026][264]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2025.12.03-17.32.10:786][374]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-17.32.15:617][546]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-17.32.15:630][546]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.03-17.32.15:650][546]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-17.32.15:656][546]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006009s)
+[2025.12.03-17.32.15:656][546]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Hybrid.L_Hybrid to /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid (0.006057s)
+[2025.12.03-17.32.15:696][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2025.12.03-17.32.15:698][546]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Hybrid
+[2025.12.03-17.32.15:700][546]LogPlayLevel: PIE: World Init took: (0.002772s)
+[2025.12.03-17.32.15:702][546]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.12.03-17.32.15:702][546]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.03-17.32.15:702][546]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.03-17.32.15:702][546]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.03-17.32.15:702][546]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.03-17.32.15:702][546]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.03-17.32.15:702][546]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.03-17.32.15:702][546]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.03-17.32.15:702][546]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.03-17.32.15:702][546]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.03-17.32.15:702][546]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.03-17.32.15:702][546]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.03-17.32.15:705][546]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.03-17.32.15:762][546]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2025.12.03-17.32.15:762][546]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.03-17.32.15:762][546]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.03-17.32.15:762][546]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.03-17.32.15:763][546]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.12.03-17.32.15:763][546]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.12.03-17.32.15:766][546]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.12.03-17.32.15:766][546]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.12.03-17.32.15:766][546]LogInit: FAudioDevice initialized with ID 12.
+[2025.12.03-17.32.15:766][546]LogAudio: Display: Audio Device (ID: 12) registered with world 'L_Hybrid'.
+[2025.12.03-17.32.15:766][546]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.12.03-17.32.15:771][546]LogLoad: Game class is 'GM_Hybrid_C'
+[2025.12.03-17.32.15:773][546]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid up for play (max tick rate 60) at 2025.12.03-12.32.15
+[2025.12.03-17.32.15:773][546]LogWorld: Bringing up level for play took: 0.001993
+[2025.12.03-17.32.15:776][546]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2025.12.03-17.32.15:779][546]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2025.12.03-17.32.15:779][546]LogScript: Warning: Script Msg: BP_Enemy_C_3 BarControl SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.12.03-17.32.15:779][546]LogScript: Warning: Script Msg called by: BP_Enemy_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Enemy_C_3
+[2025.12.03-17.32.15:779][546]LogBlueprintUserMessages: [BPC_Inventorycomponent] Hello
+[2025.12.03-17.32.15:781][546]PIE: Server logged in
+[2025.12.03-17.32.15:784][546]PIE: Play in editor total start time 0,155 seconds.
+[2025.12.03-17.32.19:115][632]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-17.32.19:130][633]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-17.32.19:147][634]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-17.32.19:164][635]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-17.32.19:181][636]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-17.32.19:197][637]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-17.32.19:214][638]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-17.32.19:914][680]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 1
+[2025.12.03-17.32.20:514][716]LogBlueprintUserMessages: [BP_Mannequin_C_0] End of the combo
+[2025.12.03-17.32.26:561][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-17.32.26:561][ 70]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-17.32.26:561][ 70]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.03-17.32.26:561][ 70]LogWorld: UWorld::CleanupWorld for L_Hybrid, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-17.32.26:562][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-17.32.26:563][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.03-17.32.26:570][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-17.32.26:605][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-17.32.26:605][ 70]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.12.03-17.32.26:605][ 70]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2025.12.03-17.32.26:608][ 70]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2025.12.03-17.32.26:621][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2025.12.03-17.32.26:857][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2025.12.03-17.33.06:081][246]LogContentBrowser: Attempting asset rename: IA_Sprint1 -> IA_Inventory
+[2025.12.03-17.33.06:210][246]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-17.33.06:210][246]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Input/Actions/IA_Inventory] ([1] browsable assets)...
+[2025.12.03-17.33.06:210][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Input/Actions/IA_Inventory]
+[2025.12.03-17.33.06:210][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Input/Actions/IA_Inventory" FILE="../../../../../../LastSong/Lastsonggg/MyProject/Content/Blueprints/Input/Actions/IA_Inventory.uasset" SILENT=true
+[2025.12.03-17.33.06:230][246]LogSavePackage: Moving output files for package: /Game/Blueprints/Input/Actions/IA_Inventory
+[2025.12.03-17.33.06:230][246]LogSavePackage: Moving '../../../../../../LastSong/Lastsonggg/MyProject/Saved/IA_Inventory0C48908E4AB80B417D26438828FA4997.tmp' to '../../../../../../LastSong/Lastsonggg/MyProject/Content/Blueprints/Input/Actions/IA_Inventory.uasset'
+[2025.12.03-17.33.06:233][246]LogFileHelpers: InternalPromptForCheckoutAndSave took 23.890 ms (total: 8.77 sec)
+[2025.12.03-17.33.06:297][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2025.12.03-17.33.06:345][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2025.12.03-17.33.06:384][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.12.03-17.33.06:428][246]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-17.33.06:428][246]LogContentValidation: Enabled validators:
+[2025.12.03-17.33.06:428][246]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-17.33.06:428][246]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-17.33.06:428][246]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-17.33.06:428][246]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-17.33.06:428][246]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-17.33.06:428][246]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-17.33.06:429][246]AssetCheck: /Game/Blueprints/Input/Actions/IA_Inventory Validating asset
+[2025.12.03-17.33.06:491][246]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../LastSong/Lastsonggg/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.03-17.33.07:684][305]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Blueprints/Input/Actions/IA_Inventory.IA_Inventory
+[2025.12.03-17.33.36:703][952]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Blueprints/Input/IMC_Hybrid.IMC_Hybrid
+[2025.12.03-17.34.16:132][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.12.03-17.34.16:995][155]LogSlate: Window 'Save Content' being destroyed
+[2025.12.03-17.34.17:012][155]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-17.34.17:066][155]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Input/Actions/IA_Inventory] ([1] browsable assets)...
+[2025.12.03-17.34.17:066][155]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Input/Actions/IA_Inventory]
+[2025.12.03-17.34.17:066][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Input/Actions/IA_Inventory" FILE="../../../../../../LastSong/Lastsonggg/MyProject/Content/Blueprints/Input/Actions/IA_Inventory.uasset" SILENT=true
+[2025.12.03-17.34.17:078][155]LogSavePackage: Moving output files for package: /Game/Blueprints/Input/Actions/IA_Inventory
+[2025.12.03-17.34.17:079][155]LogSavePackage: Moving '../../../../../../LastSong/Lastsonggg/MyProject/Saved/IA_Inventory4D63CBA747BD12B1F7746F8B7166314A.tmp' to '../../../../../../LastSong/Lastsonggg/MyProject/Content/Blueprints/Input/Actions/IA_Inventory.uasset'
+[2025.12.03-17.34.17:082][155]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Input/IMC_Hybrid] ([1] browsable assets)...
+[2025.12.03-17.34.17:082][155]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Input/IMC_Hybrid]
+[2025.12.03-17.34.17:082][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Input/IMC_Hybrid" FILE="../../../../../../LastSong/Lastsonggg/MyProject/Content/Blueprints/Input/IMC_Hybrid.uasset" SILENT=true
+[2025.12.03-17.34.17:096][155]LogSavePackage: Moving output files for package: /Game/Blueprints/Input/IMC_Hybrid
+[2025.12.03-17.34.17:097][155]LogSavePackage: Moving '../../../../../../LastSong/Lastsonggg/MyProject/Saved/IMC_Hybrid43D02E7940563DBF82331FB619B6CB0F.tmp' to '../../../../../../LastSong/Lastsonggg/MyProject/Content/Blueprints/Input/IMC_Hybrid.uasset'
+[2025.12.03-17.34.17:112][155]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.764 ms (total: 8.87 sec)
+[2025.12.03-17.34.17:165][155]LogContentValidation: Display: Starting to validate 2 assets
+[2025.12.03-17.34.17:165][155]LogContentValidation: Enabled validators:
+[2025.12.03-17.34.17:165][155]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-17.34.17:165][155]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-17.34.17:165][155]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-17.34.17:165][155]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-17.34.17:165][155]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-17.34.17:165][155]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-17.34.17:166][155]AssetCheck: /Game/Blueprints/Input/Actions/IA_Inventory Validating asset
+[2025.12.03-17.34.17:166][155]AssetCheck: /Game/Blueprints/Input/IMC_Hybrid Validating asset
+[2025.12.03-17.34.17:196][155]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../LastSong/Lastsonggg/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.03-17.34.49:731][  5]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-17.34.49:743][  5]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.03-17.34.49:779][  5]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-17.34.49:785][  5]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005469s)
+[2025.12.03-17.34.49:785][  5]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Hybrid.L_Hybrid to /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid (0.005513s)
+[2025.12.03-17.34.49:822][  5]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2025.12.03-17.34.49:826][  5]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Hybrid
+[2025.12.03-17.34.49:829][  5]LogPlayLevel: PIE: World Init took: (0.002868s)
+[2025.12.03-17.34.49:831][  5]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.12.03-17.34.49:832][  5]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.03-17.34.49:832][  5]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.03-17.34.49:832][  5]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.03-17.34.49:832][  5]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.03-17.34.49:832][  5]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.03-17.34.49:832][  5]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.03-17.34.49:832][  5]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.03-17.34.49:832][  5]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.03-17.34.49:832][  5]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.03-17.34.49:832][  5]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.03-17.34.49:832][  5]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.03-17.34.49:835][  5]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.03-17.34.49:885][  5]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2025.12.03-17.34.49:886][  5]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.03-17.34.49:886][  5]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.03-17.34.49:886][  5]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.03-17.34.49:887][  5]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.12.03-17.34.49:887][  5]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.12.03-17.34.49:890][  5]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.12.03-17.34.49:890][  5]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.12.03-17.34.49:890][  5]LogInit: FAudioDevice initialized with ID 13.
+[2025.12.03-17.34.49:890][  5]LogAudio: Display: Audio Device (ID: 13) registered with world 'L_Hybrid'.
+[2025.12.03-17.34.49:890][  5]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.12.03-17.34.49:895][  5]LogLoad: Game class is 'GM_Hybrid_C'
+[2025.12.03-17.34.49:897][  5]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid up for play (max tick rate 60) at 2025.12.03-12.34.49
+[2025.12.03-17.34.49:898][  5]LogWorld: Bringing up level for play took: 0.001918
+[2025.12.03-17.34.49:900][  5]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2025.12.03-17.34.49:903][  5]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2025.12.03-17.34.49:903][  5]LogScript: Warning: Script Msg: BP_Enemy_C_3 BarControl SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.12.03-17.34.49:903][  5]LogScript: Warning: Script Msg called by: BP_Enemy_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Enemy_C_3
+[2025.12.03-17.34.49:903][  5]LogBlueprintUserMessages: [BPC_Inventorycomponent] Hello
+[2025.12.03-17.34.49:905][  5]PIE: Server logged in
+[2025.12.03-17.34.49:908][  5]PIE: Play in editor total start time 0,164 seconds.
+[2025.12.03-17.35.25:301][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-17.35.25:301][361]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-17.35.25:301][361]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.03-17.35.25:301][361]LogWorld: UWorld::CleanupWorld for L_Hybrid, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-17.35.25:301][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-17.35.25:303][361]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.03-17.35.25:313][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-17.35.25:355][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-17.35.25:356][361]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.12.03-17.35.25:356][361]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=4
+[2025.12.03-17.35.25:360][361]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=2
+[2025.12.03-17.35.25:372][361]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2025.12.03-17.35.25:636][362]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2025.12.03-17.36.13:698][745]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Widgets/BP_HUD.BP_HUD
+[2025.12.03-17.36.13:698][745]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2025.12.03-17.37.12:426][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2025.12.03-17.37.14:663][183]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-17.37.14:673][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.03-17.37.14:700][183]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-17.37.14:707][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007472s)
+[2025.12.03-17.37.14:707][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Hybrid.L_Hybrid to /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid (0.007532s)
+[2025.12.03-17.37.14:758][183]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2025.12.03-17.37.14:761][183]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Hybrid
+[2025.12.03-17.37.14:764][183]LogPlayLevel: PIE: World Init took: (0.002771s)
+[2025.12.03-17.37.14:766][183]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.12.03-17.37.14:766][183]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.03-17.37.14:766][183]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.03-17.37.14:766][183]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.03-17.37.14:766][183]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.03-17.37.14:766][183]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.03-17.37.14:766][183]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.03-17.37.14:766][183]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.03-17.37.14:766][183]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.03-17.37.14:767][183]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.03-17.37.14:767][183]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.03-17.37.14:767][183]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.03-17.37.14:769][183]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.03-17.37.14:820][183]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2025.12.03-17.37.14:821][183]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.03-17.37.14:821][183]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.03-17.37.14:821][183]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.03-17.37.14:821][183]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.12.03-17.37.14:821][183]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.12.03-17.37.14:824][183]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.12.03-17.37.14:825][183]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.12.03-17.37.14:825][183]LogInit: FAudioDevice initialized with ID 14.
+[2025.12.03-17.37.14:825][183]LogAudio: Display: Audio Device (ID: 14) registered with world 'L_Hybrid'.
+[2025.12.03-17.37.14:825][183]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.12.03-17.37.14:830][183]LogLoad: Game class is 'GM_Hybrid_C'
+[2025.12.03-17.37.14:832][183]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid up for play (max tick rate 60) at 2025.12.03-12.37.14
+[2025.12.03-17.37.14:832][183]LogWorld: Bringing up level for play took: 0.002215
+[2025.12.03-17.37.14:835][183]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2025.12.03-17.37.14:837][183]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2025.12.03-17.37.14:838][183]LogScript: Warning: Script Msg: BP_Enemy_C_3 BarControl SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.12.03-17.37.14:838][183]LogScript: Warning: Script Msg called by: BP_Enemy_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Enemy_C_3
+[2025.12.03-17.37.14:838][183]LogBlueprintUserMessages: [BPC_Inventorycomponent] Hello
+[2025.12.03-17.37.14:840][183]PIE: Server logged in
+[2025.12.03-17.37.14:843][183]PIE: Play in editor total start time 0,169 seconds.
+[2025.12.03-17.37.17:683][213]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-17.37.18:541][224]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 1
+[2025.12.03-17.37.19:190][232]LogBlueprintUserMessages: [BP_Mannequin_C_0] End of the combo
+[2025.12.03-17.37.21:891][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-17.37.21:891][263]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-17.37.21:891][263]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.03-17.37.21:891][263]LogWorld: UWorld::CleanupWorld for L_Hybrid, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-17.37.21:891][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-17.37.22:012][263]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.03-17.37.22:020][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-17.37.22:060][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-17.37.22:061][263]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.12.03-17.37.22:061][263]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=4
+[2025.12.03-17.37.22:065][263]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=2
+[2025.12.03-17.37.22:078][263]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2025.12.03-17.37.23:113][264]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2025.12.03-17.37.26:170][429]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4431.677734
+[2025.12.03-17.37.26:339][438]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-17.37.26:339][438]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4431.815430, Update Interval: 319.609375
+[2025.12.03-17.37.27:883][520]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2025.12.03-17.38.01:061][341]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.12.03-17.38.01:070][341]LogContentBrowser: Creating deferred item: NewFolder
+[2025.12.03-17.38.01:082][342]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.12.03-17.38.06:378][657]LogContentBrowser: Attempting asset rename: NewFolder -> Bluepri
+[2025.12.03-17.38.06:378][657]LogContentBrowser: End creating deferred item NewFolder
+[2025.12.03-17.38.06:479][657]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2025.12.03-17.38.06:484][657]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Hybrid' took 0.044
+[2025.12.03-17.38.06:485][657]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Widgets/BP_HUD] ([2] browsable assets)...
+[2025.12.03-17.38.06:485][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Widgets/BP_HUD]
+[2025.12.03-17.38.06:525][657]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Widgets/BP_HUD_Auto3
+[2025.12.03-17.38.06:525][657]LogSavePackage: Moving '../../../../../../LastSong/Lastsonggg/MyProject/Saved/BP_HUD_Auto32F4B0E3F4552742B4DBCE29B00CBF195.tmp' to '../../../../../../LastSong/Lastsonggg/MyProject/Saved/Autosaves/Game/Blueprints/Widgets/BP_HUD_Auto3.uasset'
+[2025.12.03-17.38.06:527][657]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Components/BPC_Inventorycomponent] ([2] browsable assets)...
+[2025.12.03-17.38.06:527][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Components/BPC_Inventorycomponent]
+[2025.12.03-17.38.06:543][657]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Components/BPC_Inventorycomponent_Auto3
+[2025.12.03-17.38.06:543][657]LogSavePackage: Moving '../../../../../../LastSong/Lastsonggg/MyProject/Saved/BPC_Inventorycomponent_Auto396E717644E4013A65E2BFEBA0F0C2CFA.tmp' to '../../../../../../LastSong/Lastsonggg/MyProject/Saved/Autosaves/Game/Blueprints/Components/BPC_Inventorycomponent_Auto3.uasset'
+[2025.12.03-17.38.06:544][657]LogFileHelpers: Auto-saving content packages took 0.060
+[2025.12.03-17.38.13:868][ 32]LogContentBrowser: Attempting asset rename: Bluepri -> Bluepri
+[2025.12.03-17.38.19:663][373]LogContentBrowser: Attempting asset rename: Bluepri -> Blueprints
+[2025.12.03-17.38.36:065][712]LogContentBrowser: Attempting asset rename: Blueprints -> planps
+[2025.12.03-17.38.58:915][143]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-17.39.09:775][362]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-17.39.29:265][884]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-17.39.46:903][937]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-17.40.05:355][992]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-17.40.10:847][217]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2025.12.03-17.40.10:856][217]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2025.12.03-17.40.10:874][218]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedStruct).
+[2025.12.03-17.40.19:263][722]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> S_ItemStruct
+[2025.12.03-17.40.19:556][722]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2025.12.03-17.40.20:765][793]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Structures/S_ItemStruct.S_ItemStruct
+[2025.12.03-17.40.48:530][681]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-17.41.13:338][755]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-17.41.19:955][852]LogSlate: Took 0.044037 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.12.03-17.43.24:256][931]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4789.769531
+[2025.12.03-17.43.24:395][941]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-17.43.24:396][941]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4789.891113, Update Interval: 359.756470
+[2025.12.03-17.43.33:641][294]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-17.43.36:345][302]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-17.43.36:416][302]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Structures/S_ItemStruct] ([1] browsable assets)...
+[2025.12.03-17.43.36:416][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Structures/S_ItemStruct]
+[2025.12.03-17.43.36:416][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Structures/S_ItemStruct" FILE="../../../../../../LastSong/Lastsonggg/MyProject/Content/Blueprints/Structures/S_ItemStruct.uasset" SILENT=true
+[2025.12.03-17.43.36:431][302]LogSavePackage: Moving output files for package: /Game/Blueprints/Structures/S_ItemStruct
+[2025.12.03-17.43.36:431][302]LogSavePackage: Moving '../../../../../../LastSong/Lastsonggg/MyProject/Saved/S_ItemStruct4F90C103451A4EFC482C178B6CB72FFD.tmp' to '../../../../../../LastSong/Lastsonggg/MyProject/Content/Blueprints/Structures/S_ItemStruct.uasset'
+[2025.12.03-17.43.36:449][302]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.118 ms (total: 8.97 sec)
+[2025.12.03-17.43.36:494][302]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-17.43.36:494][302]LogContentValidation: Enabled validators:
+[2025.12.03-17.43.36:494][302]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-17.43.36:494][302]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-17.43.36:494][302]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-17.43.36:494][302]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-17.43.36:494][302]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-17.43.36:494][302]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-17.43.36:494][302]AssetCheck: /Game/Blueprints/Structures/S_ItemStruct Validating asset
+[2025.12.03-17.43.36:515][302]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../LastSong/Lastsonggg/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.03-17.43.39:559][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2025.12.03-17.43.40:393][477]LogSlate: Window 'Save Content' being destroyed
+[2025.12.03-17.43.40:409][477]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-17.43.40:467][477]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Components/BPC_Inventorycomponent] ([2] browsable assets)...
+[2025.12.03-17.43.40:467][477]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Components/BPC_Inventorycomponent]
+[2025.12.03-17.43.40:486][477]LogSavePackage: Moving output files for package: /Game/Blueprints/Components/BPC_Inventorycomponent
+[2025.12.03-17.43.40:487][477]LogSavePackage: Moving '../../../../../../LastSong/Lastsonggg/MyProject/Saved/BPC_Inventorycomponent02532EDD42DC8A3E18F874891F94E6D2.tmp' to '../../../../../../LastSong/Lastsonggg/MyProject/Content/Blueprints/Components/BPC_Inventorycomponent.uasset'
+[2025.12.03-17.43.40:489][477]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Widgets/BP_HUD] ([2] browsable assets)...
+[2025.12.03-17.43.40:489][477]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Widgets/BP_HUD]
+[2025.12.03-17.43.40:489][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/BP_HUD" FILE="../../../../../../LastSong/Lastsonggg/MyProject/Content/Blueprints/Widgets/BP_HUD.uasset" SILENT=true
+[2025.12.03-17.43.40:533][477]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/BP_HUD
+[2025.12.03-17.43.40:534][477]LogSavePackage: Moving '../../../../../../LastSong/Lastsonggg/MyProject/Saved/BP_HUD48882EC540E0135BBF08C0A649069DC9.tmp' to '../../../../../../LastSong/Lastsonggg/MyProject/Content/Blueprints/Widgets/BP_HUD.uasset'
+[2025.12.03-17.43.40:549][477]LogFileHelpers: InternalPromptForCheckoutAndSave took 140.486 ms (total: 9.11 sec)
+[2025.12.03-17.43.40:616][477]LogContentValidation: Display: Starting to validate 2 assets
+[2025.12.03-17.43.40:616][477]LogContentValidation: Enabled validators:
+[2025.12.03-17.43.40:616][477]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-17.43.40:616][477]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-17.43.40:616][477]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-17.43.40:616][477]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-17.43.40:616][477]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-17.43.40:617][477]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-17.43.40:617][477]AssetCheck: /Game/Blueprints/Components/BPC_Inventorycomponent Validating asset
+[2025.12.03-17.43.40:617][477]AssetCheck: /Game/Blueprints/Widgets/BP_HUD Validating asset
+[2025.12.03-17.43.40:648][477]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../LastSong/Lastsonggg/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.03-17.43.53:494][141]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-17.44.42:088][272]Cmd: TRANSACTION UNDO
+[2025.12.03-17.44.42:088][272]LogEditorTransaction: Undo Change Parameter Type
+[2025.12.03-17.44.43:954][353]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2025.12.03-17.44.45:204][353]LogSlate: Window 'Delete Assets' being destroyed
+[2025.12.03-17.44.45:274][353]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2025.12.03-17.44.45:338][353]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2025.12.03-17.44.45:384][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.12.03-17.45.04:061][308]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-17.45.04:062][308]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Models/Cubito] ([2] browsable assets)...
+[2025.12.03-17.45.04:062][308]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Models/Cubito]
+[2025.12.03-17.45.04:062][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Models/Cubito" FILE="../../../../../../LastSong/Lastsonggg/MyProject/Content/Blueprints/Models/Cubito.uasset" SILENT=true
+[2025.12.03-17.45.04:075][308]LogSavePackage: Moving output files for package: /Game/Blueprints/Models/Cubito
+[2025.12.03-17.45.04:075][308]LogSavePackage: Moving '../../../../../../LastSong/Lastsonggg/MyProject/Saved/Cubito94B418134A6828B1648CA7A4816C6752.tmp' to '../../../../../../LastSong/Lastsonggg/MyProject/Content/Blueprints/Models/Cubito.uasset'
+[2025.12.03-17.45.04:084][308]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cubito] ([5] browsable assets)...
+[2025.12.03-17.45.04:084][308]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cubito]
+[2025.12.03-17.45.04:084][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cubito" FILE="../../../../../../LastSong/Lastsonggg/MyProject/Content/Cubito.uasset" SILENT=true
+[2025.12.03-17.45.04:094][308]LogSavePackage: Moving output files for package: /Game/Cubito
+[2025.12.03-17.45.04:095][308]LogSavePackage: Moving '../../../../../../LastSong/Lastsonggg/MyProject/Saved/CubitoD92C466B4BA17C04FD09E99769A3E57C.tmp' to '../../../../../../LastSong/Lastsonggg/MyProject/Content/Cubito.uasset'
+[2025.12.03-17.45.04:119][308]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.738 ms (total: 9.17 sec)
+[2025.12.03-17.45.04:170][308]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.12.03-17.45.04:170][308]LogContentValidation: Display: Starting to validate 4 assets
+[2025.12.03-17.45.04:170][308]LogContentValidation: Enabled validators:
+[2025.12.03-17.45.04:170][308]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-17.45.04:171][308]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-17.45.04:171][308]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-17.45.04:171][308]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-17.45.04:171][308]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-17.45.04:171][308]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-17.45.04:171][308]AssetCheck: /Game/Blueprints/Models/Cubito Validating asset
+[2025.12.03-17.45.04:171][308]AssetCheck: /Game/Cubito Validating asset
+[2025.12.03-17.45.04:171][308]AssetCheck: /Game/Cubito Validating asset
+[2025.12.03-17.45.04:171][308]AssetCheck: /Game/Cubito Validating asset
+[2025.12.03-17.45.04:197][308]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../LastSong/Lastsonggg/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.03-17.45.08:353][483]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-17.45.08:356][483]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Models/Interactuable] ([2] browsable assets)...
+[2025.12.03-17.45.08:356][483]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Models/Interactuable]
+[2025.12.03-17.45.08:356][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Models/Interactuable" FILE="../../../../../../LastSong/Lastsonggg/MyProject/Content/Blueprints/Models/Interactuable.uasset" SILENT=true
+[2025.12.03-17.45.08:381][483]LogSavePackage: Moving output files for package: /Game/Blueprints/Models/Interactuable
+[2025.12.03-17.45.08:381][483]LogSavePackage: Moving '../../../../../../LastSong/Lastsonggg/MyProject/Saved/Interactuable222DB6F0404B0ED3830020ABD5ED2305.tmp' to '../../../../../../LastSong/Lastsonggg/MyProject/Content/Blueprints/Models/Interactuable.uasset'
+[2025.12.03-17.45.08:393][483]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Interactuable] ([5] browsable assets)...
+[2025.12.03-17.45.08:393][483]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interactuable]
+[2025.12.03-17.45.08:393][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactuable" FILE="../../../../../../LastSong/Lastsonggg/MyProject/Content/Interactuable.uasset" SILENT=true
+[2025.12.03-17.45.08:403][483]LogSavePackage: Moving output files for package: /Game/Interactuable
+[2025.12.03-17.45.08:404][483]LogSavePackage: Moving '../../../../../../LastSong/Lastsonggg/MyProject/Saved/InteractuableA6A12F0746F5801198D9FE8B350FEADA.tmp' to '../../../../../../LastSong/Lastsonggg/MyProject/Content/Interactuable.uasset'
+[2025.12.03-17.45.08:439][483]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.606 ms (total: 9.26 sec)
+[2025.12.03-17.45.08:473][483]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.12.03-17.45.08:473][483]LogContentValidation: Display: Starting to validate 4 assets
+[2025.12.03-17.45.08:473][483]LogContentValidation: Enabled validators:
+[2025.12.03-17.45.08:473][483]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-17.45.08:473][483]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-17.45.08:473][483]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-17.45.08:473][483]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-17.45.08:473][483]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-17.45.08:473][483]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-17.45.08:473][483]AssetCheck: /Game/Blueprints/Models/Interactuable Validating asset
+[2025.12.03-17.45.08:473][483]AssetCheck: /Game/Interactuable Validating asset
+[2025.12.03-17.45.08:473][483]AssetCheck: /Game/Interactuable Validating asset
+[2025.12.03-17.45.08:473][483]AssetCheck: /Game/Interactuable Validating asset
+[2025.12.03-17.45.08:486][483]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../LastSong/Lastsonggg/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.03-17.45.27:841][955]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-17.46.01:482][ 55]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-17.46.20:758][113]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-17.46.35:165][156]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
