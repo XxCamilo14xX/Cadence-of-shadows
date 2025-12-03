@@ -2407,3 +2407,549 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.03-14.26.49:006][478]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.03-14.26.49:006][478]AssetCheck: /Game/Blueprints/Components/BPC_Iventory Validating asset
 [2025.12.03-14.26.49:102][478]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.03-14.27.13:719][599]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Components/BPC_Iventory.BPC_Iventory
+[2025.12.03-14.27.13:719][599]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.12.03-14.31.50:942][659]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2025.12.03-14.31.52:271][704]LogSlate: Window 'BPC_Iventory' being destroyed
+[2025.12.03-14.32.24:476][925]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5754.245117
+[2025.12.03-14.32.25:473][928]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-14.32.25:473][928]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5754.908203, Update Interval: 304.894562
+[2025.12.03-14.33.37:864][420]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2025.12.03-14.33.37:866][420]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Hybrid' took 0.045
+[2025.12.03-14.33.37:867][420]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Components/BPC_Iventory] ([2] browsable assets)...
+[2025.12.03-14.33.37:867][420]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Components/BPC_Iventory]
+[2025.12.03-14.33.37:884][420]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Components/BPC_Iventory_Auto7
+[2025.12.03-14.33.37:884][420]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/BPC_Iventory_Auto785349E714B30D2A751C9D78B92C1EB2F.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/Autosaves/Game/Blueprints/Components/BPC_Iventory_Auto7.uasset'
+[2025.12.03-14.33.37:885][420]LogFileHelpers: Auto-saving content packages took 0.019
+[2025.12.03-14.34.34:780][591]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Cirrus Logic Superior High Definition Audio), InstanceID=1
+[2025.12.03-14.34.34:780][591]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{446f5b68-24ee-4aac-9669-f14f35d26847}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.12.03-14.34.34:792][591]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{446f5b68-24ee-4aac-9669-f14f35d26847}]
+[2025.12.03-14.34.34:792][591]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.12.03-14.34.34:793][591]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.12.03-14.34.35:130][592]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{446f5b68-24ee-4aac-9669-f14f35d26847}, Name=Headphones (Cirrus Logic Superior High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=62.68
+[2025.12.03-14.34.35:134][592]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.12.03-14.34.35:134][592]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.12.03-14.34.35:137][592]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.12.03-14.34.47:781][630]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-14.35.20:532][842]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-14.35.33:516][900]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-14.35.33:562][900]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.03-14.35.33:563][900]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-14.35.33:589][900]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026857s)
+[2025.12.03-14.35.33:589][900]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Hybrid.L_Hybrid to /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid (0.027091s)
+[2025.12.03-14.35.33:700][900]LogUObjectHash: Compacting FUObjectHashTables data took   6.57ms
+[2025.12.03-14.35.33:705][900]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Hybrid
+[2025.12.03-14.35.33:713][900]LogPlayLevel: PIE: World Init took: (0.008850s)
+[2025.12.03-14.35.33:718][900]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.12.03-14.35.33:718][900]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.03-14.35.33:718][900]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.03-14.35.33:718][900]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.03-14.35.33:718][900]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.03-14.35.33:719][900]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.03-14.35.33:719][900]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.03-14.35.33:719][900]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.03-14.35.33:719][900]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.03-14.35.33:719][900]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.03-14.35.33:719][900]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.03-14.35.33:720][900]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.03-14.35.33:728][900]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.03-14.35.33:890][900]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Cirrus Logic Superior High Definition Audio)
+[2025.12.03-14.35.33:893][900]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.03-14.35.33:893][900]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.03-14.35.33:893][900]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.03-14.35.33:902][900]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.12.03-14.35.33:902][900]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.12.03-14.35.33:910][900]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.12.03-14.35.33:910][900]LogInit: FAudioDevice initialized with ID 6.
+[2025.12.03-14.35.33:910][900]LogAudio: Display: Audio Device (ID: 6) registered with world 'L_Hybrid'.
+[2025.12.03-14.35.33:910][900]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.12.03-14.35.33:910][900]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.12.03-14.35.33:930][900]LogLoad: Game class is 'GM_Hybrid_C'
+[2025.12.03-14.35.33:940][900]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid up for play (max tick rate 60) at 2025.12.03-09.35.33
+[2025.12.03-14.35.33:942][900]LogWorld: Bringing up level for play took: 0.011335
+[2025.12.03-14.35.33:952][900]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.12.03-14.35.33:962][900]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2025.12.03-14.35.33:963][900]LogScript: Warning: Script Msg: BP_Enemy_C_3 BarControl SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.12.03-14.35.33:964][900]LogScript: Warning: Script Msg called by: BP_Enemy_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Enemy_C_3
+[2025.12.03-14.35.33:970][900]PIE: Server logged in
+[2025.12.03-14.35.33:979][900]PIE: Play in editor total start time 0,419 seconds.
+[2025.12.03-14.35.48:063][969]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.48:950][981]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 1
+[2025.12.03-14.35.49:167][982]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.49:199][983]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.49:237][984]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.49:974][997]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 2
+[2025.12.03-14.35.50:294][  3]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.51:140][ 18]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 3
+[2025.12.03-14.35.51:140][ 18]LogBlueprintUserMessages: [BP_Mannequin_C_0] End of the combo
+[2025.12.03-14.35.52:466][ 42]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.53:217][ 55]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.53:272][ 56]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.53:274][ 56]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 1
+[2025.12.03-14.35.53:457][ 59]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.53:514][ 60]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.53:637][ 62]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.53:685][ 63]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.53:863][ 66]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.53:986][ 68]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.54:032][ 69]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.54:148][ 71]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.54:394][ 71]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-14.35.54:463][ 72]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.54:466][ 72]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 2
+[2025.12.03-14.35.54:527][ 73]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.54:637][ 75]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.54:674][ 76]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.54:780][ 78]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.54:827][ 79]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.54:972][ 81]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.55:028][ 82]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.55:144][ 84]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.55:203][ 85]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.55:312][ 87]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.55:362][ 88]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.55:365][ 88]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 3
+[2025.12.03-14.35.55:366][ 88]LogBlueprintUserMessages: [BP_Mannequin_C_0] End of the combo
+[2025.12.03-14.35.55:487][ 90]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.55:536][ 91]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.55:653][ 93]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.55:710][ 94]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.56:195][102]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.56:313][104]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 1
+[2025.12.03-14.35.56:374][105]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.56:430][106]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.56:559][108]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.56:600][109]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.56:791][112]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.56:982][115]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.57:178][118]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.57:230][119]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 2
+[2025.12.03-14.35.57:333][121]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.57:509][124]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.57:551][125]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.57:695][127]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.58:141][135]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 3
+[2025.12.03-14.35.58:141][135]LogBlueprintUserMessages: [BP_Mannequin_C_0] End of the combo
+[2025.12.03-14.35.58:652][144]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.58:701][145]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.58:880][148]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.59:463][158]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 1
+[2025.12.03-14.35.59:816][164]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.59:871][165]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.35.59:999][167]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.00:168][170]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.00:343][173]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.00:524][176]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.00:644][178]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 2
+[2025.12.03-14.36.01:264][189]LogBlueprintUserMessages: [BP_Mannequin_C_0] End of the combo
+[2025.12.03-14.36.01:586][195]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.01:637][196]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.01:814][199]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.01:996][202]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.02:163][205]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.02:343][208]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.02:398][209]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 1
+[2025.12.03-14.36.02:515][211]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.02:698][214]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.02:874][217]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.02:928][218]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.03:110][221]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.03:276][224]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.03:324][225]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.03:326][225]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 2
+[2025.12.03-14.36.03:936][232]LogBlueprintUserMessages: [BP_Mannequin_C_0] End of the combo
+[2025.12.03-14.36.04:262][238]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.04:322][239]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.04:780][247]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.04:831][248]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.04:996][251]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.05:050][252]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.05:107][253]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 1
+[2025.12.03-14.36.05:166][254]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.05:213][255]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.05:396][258]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.05:553][261]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.05:601][262]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.05:731][264]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.06:024][269]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 2
+[2025.12.03-14.36.06:639][280]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.06:687][281]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.07:111][288]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.07:153][289]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.07:206][290]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.07:332][292]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.07:377][293]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.07:439][294]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 3
+[2025.12.03-14.36.07:439][294]LogBlueprintUserMessages: [BP_Mannequin_C_0] End of the combo
+[2025.12.03-14.36.07:503][295]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.07:676][298]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.08:327][310]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.08:330][310]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 1
+[2025.12.03-14.36.08:376][311]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.08:661][316]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.09:177][325]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.09:218][326]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.09:222][326]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 2
+[2025.12.03-14.36.09:348][328]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.09:394][329]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.09:572][332]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.36.10:158][342]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 3
+[2025.12.03-14.36.10:159][342]LogBlueprintUserMessages: [BP_Mannequin_C_0] End of the combo
+[2025.12.03-14.36.17:243][469]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.17:279][470]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.18:089][484]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 1
+[2025.12.03-14.36.18:733][496]LogBlueprintUserMessages: [BP_Mannequin_C_0] End of the combo
+[2025.12.03-14.36.19:073][502]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.19:122][503]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.19:180][504]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.19:236][505]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.19:282][506]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.19:341][507]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.19:394][508]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.19:451][509]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.19:508][510]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.19:558][511]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.19:618][512]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.19:672][513]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.19:718][514]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.19:785][515]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.19:839][516]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.19:886][517]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.19:890][517]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 1
+[2025.12.03-14.36.19:945][518]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.20:010][519]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.20:059][520]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.20:117][521]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.20:175][522]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.20:218][523]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.20:281][524]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.20:337][525]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.20:383][526]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.20:438][527]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.20:496][528]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.20:560][529]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.20:616][530]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.20:670][531]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.20:728][532]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.20:782][533]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.20:783][533]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 2
+[2025.12.03-14.36.20:840][534]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.20:892][535]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.20:948][536]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.21:001][537]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.21:047][538]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.21:110][539]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.21:153][540]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.21:216][541]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.21:274][542]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.21:325][543]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.21:376][544]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.21:436][545]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.21:482][546]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.21:544][547]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.21:596][548]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.21:647][549]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.21:648][549]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 3
+[2025.12.03-14.36.21:649][549]LogBlueprintUserMessages: [BP_Mannequin_C_0] End of the combo
+[2025.12.03-14.36.21:709][550]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.21:764][551]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.21:814][552]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.21:875][553]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.21:921][554]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.21:980][555]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.22:549][565]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 1
+[2025.12.03-14.36.23:185][577]LogBlueprintUserMessages: [BP_Mannequin_C_0] End of the combo
+[2025.12.03-14.36.25:875][621]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.25:879][621]LogBlueprintUserMessages: [BP_Mannequin_C_0] HitReaction
+[2025.12.03-14.36.25:923][622]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.25:975][623]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.26:034][624]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.26:081][625]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.26:138][626]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.26:191][627]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.26:252][628]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.26:311][629]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.26:362][630]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.26:409][631]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.26:472][632]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.26:515][633]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.26:570][634]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.26:627][635]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.26:690][636]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.26:693][636]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 1
+[2025.12.03-14.36.26:745][637]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.26:749][637]LogBlueprintUserMessages: [BP_Mannequin_C_0] Hit
+[2025.12.03-14.36.26:789][638]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.26:849][639]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.26:905][640]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.26:954][641]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.27:011][642]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.27:058][643]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.27:112][644]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.27:176][645]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.27:220][646]LogBlueprintUserMessages: [BP_Mannequin_C_0] Machete
+[2025.12.03-14.36.27:573][652]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 2
+[2025.12.03-14.36.28:216][664]LogBlueprintUserMessages: [BP_Mannequin_C_0] End of the combo
+[2025.12.03-14.36.33:244][756]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-14.36.33:244][756]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-14.36.37:631][838]LogBlueprintUserMessages: [Interactuable_C_1] curo
+[2025.12.03-14.36.37:632][838]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-14.36.37:633][838]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-14.36.37:633][838]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-14.36.37:633][838]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-14.36.37:745][840]LogScript: Warning: Attempted to access BPC_Interaction_Systemm via property PlayerInteraction, but BPC_Interaction_Systemm is not valid (pending kill or garbage)
+	BP_PlayerController_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_PlayerController_C_0
+	Function /Game/Blueprints/BP_PlayerController.BP_PlayerController_C:ExecuteUbergraph_BP_PlayerController:0437
+[2025.12.03-14.36.37:747][840]PIE: Error: Blueprint Runtime Error: "Attempted to access BPC_Interaction_Systemm via property PlayerInteraction, but BPC_Interaction_Systemm is not valid (pending kill or garbage)". Node:  Unbind all Events from On Interact Press Ongoing Graph:  EventGraph Function:  Execute Ubergraph BP Player Controller Blueprint:  BP_PlayerController
+[2025.12.03-14.36.37:747][840]LogScript: Warning: Attempted to access BPC_Interaction_Systemm via property PlayerInteraction, but BPC_Interaction_Systemm is not valid (pending kill or garbage)
+	BP_PlayerController_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_PlayerController_C_0
+	Function /Game/Blueprints/BP_PlayerController.BP_PlayerController_C:ExecuteUbergraph_BP_PlayerController:0461
+[2025.12.03-14.36.37:748][840]PIE: Error: Blueprint Runtime Error: "Attempted to access BPC_Interaction_Systemm via property PlayerInteraction, but BPC_Interaction_Systemm is not valid (pending kill or garbage)". Node:  Call On Interact Ended Graph:  EventGraph Function:  Execute Ubergraph BP Player Controller Blueprint:  BP_PlayerController
+[2025.12.03-14.36.39:917][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-14.36.39:917][879]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-14.36.39:917][879]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.03-14.36.39:917][879]LogWorld: UWorld::CleanupWorld for L_Hybrid, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-14.36.39:919][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-14.36.39:926][879]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.03-14.36.39:947][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-14.36.40:032][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-14.36.40:033][879]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.12.03-14.36.40:033][879]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2025.12.03-14.36.40:038][879]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2025.12.03-14.36.40:062][879]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2025.12.03-14.36.40:745][880]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.12.03-14.36.43:465][908]LogSlate: Window 'Message Log' being destroyed
+[2025.12.03-14.36.43:709][908]LogSlate: Window 'Message Log' being destroyed
+[2025.12.03-14.37.11:081][469]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player_Enemies/Player/BP_Mannequin.BP_Mannequin
+[2025.12.03-14.37.11:083][469]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.12.03-14.37.56:122][574]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-14.38.01:238][589]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6090.996582
+[2025.12.03-14.38.02:240][592]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-14.38.02:240][592]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6091.663574, Update Interval: 348.225952
+[2025.12.03-14.38.24:034][658]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-14.38.34:852][690]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-14.38.54:071][931]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Interactuable.Interactuable
+[2025.12.03-14.38.54:073][931]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.12.03-14.39.37:967][635]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-14.39.54:667][685]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-14.40.09:321][729]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-14.40.29:008][788]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-14.40.41:848][826]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-14.41.05:126][896]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-14.41.18:337][936]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-14.41.31:064][974]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-14.41.43:668][ 12]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-14.41.56:774][ 51]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-14.42.07:742][ 84]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-14.43.15:865][860]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2025.12.03-14.43.27:678][104]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-14.43.27:828][104]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Components/BPC_Iventory] ([2] browsable assets)...
+[2025.12.03-14.43.27:828][104]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Components/BPC_Iventory]
+[2025.12.03-14.43.27:861][104]LogSavePackage: Moving output files for package: /Game/Blueprints/Components/BPC_Iventory
+[2025.12.03-14.43.27:862][104]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/BPC_IventoryCB3C410549F7E53F9F637795BFE95D65.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/Blueprints/Components/BPC_Iventory.uasset'
+[2025.12.03-14.43.27:899][104]LogFileHelpers: InternalPromptForCheckoutAndSave took 221.802 ms (total: 1.57 sec)
+[2025.12.03-14.43.28:018][104]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-14.43.28:018][104]LogContentValidation: Enabled validators:
+[2025.12.03-14.43.28:018][104]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-14.43.28:018][104]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-14.43.28:019][104]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-14.43.28:019][104]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-14.43.28:019][104]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-14.43.28:019][104]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-14.43.28:019][104]AssetCheck: /Game/Blueprints/Components/BPC_Iventory Validating asset
+[2025.12.03-14.43.33:648][278]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Components/BPC_DamgeSystem.BPC_DamgeSystem
+[2025.12.03-14.43.33:649][278]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.12.03-14.43.56:452][934]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2025.12.03-14.44.13:792][127]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Widgets/BP_HUD.BP_HUD
+[2025.12.03-14.44.13:793][127]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.12.03-14.44.50:193][150]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6499.941895
+[2025.12.03-14.44.50:747][152]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-14.44.51:194][153]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-14.44.51:195][153]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6500.611328, Update Interval: 356.709503
+[2025.12.03-14.45.07:107][543]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-14.45.25:129][107]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2025.12.03-14.45.33:167][285]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-14.45.33:228][285]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.03-14.45.33:229][285]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-14.45.33:254][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025536s)
+[2025.12.03-14.45.33:255][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Hybrid.L_Hybrid to /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid (0.025730s)
+[2025.12.03-14.45.33:349][285]LogUObjectHash: Compacting FUObjectHashTables data took   6.24ms
+[2025.12.03-14.45.33:356][285]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Hybrid
+[2025.12.03-14.45.33:363][285]LogPlayLevel: PIE: World Init took: (0.006423s)
+[2025.12.03-14.45.33:368][285]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.12.03-14.45.33:368][285]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.03-14.45.33:368][285]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.03-14.45.33:368][285]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.03-14.45.33:368][285]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.03-14.45.33:368][285]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.03-14.45.33:369][285]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.03-14.45.33:369][285]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.03-14.45.33:369][285]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.03-14.45.33:369][285]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.03-14.45.33:369][285]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.03-14.45.33:369][285]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.03-14.45.33:378][285]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.03-14.45.33:495][285]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Cirrus Logic Superior High Definition Audio)
+[2025.12.03-14.45.33:496][285]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.03-14.45.33:496][285]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.03-14.45.33:497][285]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.03-14.45.33:499][285]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.12.03-14.45.33:499][285]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.12.03-14.45.33:505][285]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.12.03-14.45.33:505][285]LogInit: FAudioDevice initialized with ID 7.
+[2025.12.03-14.45.33:505][285]LogAudio: Display: Audio Device (ID: 7) registered with world 'L_Hybrid'.
+[2025.12.03-14.45.33:505][285]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.12.03-14.45.33:505][285]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.12.03-14.45.33:515][285]LogLoad: Game class is 'GM_Hybrid_C'
+[2025.12.03-14.45.33:521][285]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid up for play (max tick rate 60) at 2025.12.03-09.45.33
+[2025.12.03-14.45.33:522][285]LogWorld: Bringing up level for play took: 0.005771
+[2025.12.03-14.45.33:528][285]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2025.12.03-14.45.33:532][285]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2025.12.03-14.45.33:533][285]LogScript: Warning: Script Msg: BP_Enemy_C_3 BarControl SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.12.03-14.45.33:533][285]LogScript: Warning: Script Msg called by: BP_Enemy_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Enemy_C_3
+[2025.12.03-14.45.33:537][285]PIE: Server logged in
+[2025.12.03-14.45.33:543][285]PIE: Play in editor total start time 0,346 seconds.
+[2025.12.03-14.45.38:264][319]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.45.38:303][320]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.45.38:347][321]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.45.39:086][331]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 1
+[2025.12.03-14.45.39:683][343]LogBlueprintUserMessages: [BP_Mannequin_C_0] End of the combo
+[2025.12.03-14.45.40:158][353]LogBlueprintUserMessages: [BP_Mannequin_C_0] HitReaction
+[2025.12.03-14.45.41:969][386]LogBlueprintUserMessages: [BP_Mannequin_C_0] HitReaction
+[2025.12.03-14.45.44:986][460]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-14.45.44:987][460]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-14.45.44:988][460]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-14.45.44:988][460]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-14.45.48:653][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-14.45.48:653][547]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-14.45.48:653][547]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.03-14.45.48:654][547]LogWorld: UWorld::CleanupWorld for L_Hybrid, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-14.45.48:654][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-14.45.48:713][547]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.03-14.45.48:733][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-14.45.48:803][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-14.45.48:804][547]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.12.03-14.45.48:804][547]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2025.12.03-14.45.48:808][547]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2025.12.03-14.45.48:828][547]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2025.12.03-14.45.49:080][548]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2025.12.03-14.45.56:543][635]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-14.46.17:962][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2025.12.03-14.46.19:538][ 96]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-14.46.19:581][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.03-14.46.19:581][ 96]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-14.46.19:605][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024045s)
+[2025.12.03-14.46.19:605][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Hybrid.L_Hybrid to /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid (0.024211s)
+[2025.12.03-14.46.19:702][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2025.12.03-14.46.19:708][ 96]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Hybrid
+[2025.12.03-14.46.19:712][ 96]LogPlayLevel: PIE: World Init took: (0.004772s)
+[2025.12.03-14.46.19:717][ 96]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.12.03-14.46.19:717][ 96]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.03-14.46.19:717][ 96]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.03-14.46.19:717][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.03-14.46.19:717][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.03-14.46.19:718][ 96]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.03-14.46.19:718][ 96]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.03-14.46.19:718][ 96]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.03-14.46.19:718][ 96]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.03-14.46.19:718][ 96]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.03-14.46.19:718][ 96]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.03-14.46.19:718][ 96]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.03-14.46.19:722][ 96]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.03-14.46.19:811][ 96]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Cirrus Logic Superior High Definition Audio)
+[2025.12.03-14.46.19:811][ 96]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.03-14.46.19:811][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.03-14.46.19:811][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.03-14.46.19:813][ 96]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.12.03-14.46.19:813][ 96]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.12.03-14.46.19:818][ 96]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.12.03-14.46.19:818][ 96]LogInit: FAudioDevice initialized with ID 8.
+[2025.12.03-14.46.19:818][ 96]LogAudio: Display: Audio Device (ID: 8) registered with world 'L_Hybrid'.
+[2025.12.03-14.46.19:818][ 96]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.12.03-14.46.19:819][ 96]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.12.03-14.46.19:827][ 96]LogLoad: Game class is 'GM_Hybrid_C'
+[2025.12.03-14.46.19:832][ 96]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid up for play (max tick rate 60) at 2025.12.03-09.46.19
+[2025.12.03-14.46.19:834][ 96]LogWorld: Bringing up level for play took: 0.005264
+[2025.12.03-14.46.19:839][ 96]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.12.03-14.46.19:843][ 96]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2025.12.03-14.46.19:844][ 96]LogScript: Warning: Script Msg: BP_Enemy_C_3 BarControl SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.12.03-14.46.19:844][ 96]LogScript: Warning: Script Msg called by: BP_Enemy_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Enemy_C_3
+[2025.12.03-14.46.19:849][ 96]PIE: Server logged in
+[2025.12.03-14.46.19:855][ 96]PIE: Play in editor total start time 0,283 seconds.
+[2025.12.03-14.46.24:981][124]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.46.25:019][125]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-14.46.25:783][140]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 1
+[2025.12.03-14.46.26:445][150]LogBlueprintUserMessages: [BP_Mannequin_C_0] End of the combo
+[2025.12.03-14.46.27:005][162]LogBlueprintUserMessages: [BP_Mannequin_C_0] HitReaction
+[2025.12.03-14.46.28:764][204]LogBlueprintUserMessages: [BP_Mannequin_C_0] HitReaction
+[2025.12.03-14.46.31:921][278]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-14.46.31:921][278]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-14.46.31:921][278]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-14.46.31:922][278]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-14.46.38:354][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-14.46.38:354][420]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-14.46.38:354][420]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.03-14.46.38:355][420]LogWorld: UWorld::CleanupWorld for L_Hybrid, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-14.46.38:356][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-14.46.38:406][420]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.03-14.46.38:428][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-14.46.38:508][420]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.03-14.46.38:508][420]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.12.03-14.46.38:509][420]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2025.12.03-14.46.38:518][420]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2025.12.03-14.46.38:533][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-14.46.38:543][420]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2025.12.03-14.46.38:845][421]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.12.03-14.46.54:795][619]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-14.47.07:433][673]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-14.47.24:981][726]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-14.47.30:385][741]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2025.12.03-14.47.30:388][741]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Hybrid' took 0.071
+[2025.12.03-14.47.30:390][741]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Components/BPC_DamgeSystem] ([2] browsable assets)...
+[2025.12.03-14.47.30:391][741]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Components/BPC_DamgeSystem]
+[2025.12.03-14.47.30:478][741]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Components/BPC_DamgeSystem_Auto8
+[2025.12.03-14.47.30:478][741]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/BPC_DamgeSystem_Auto82FBA13FD4C8AF56C34044FBAEC31FD9A.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/Autosaves/Game/Blueprints/Components/BPC_DamgeSystem_Auto8.uasset'
+[2025.12.03-14.47.30:483][741]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Widgets/BP_HUD] ([2] browsable assets)...
+[2025.12.03-14.47.30:483][741]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Widgets/BP_HUD]
+[2025.12.03-14.47.30:563][741]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Widgets/BP_HUD_Auto8
+[2025.12.03-14.47.30:563][741]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/BP_HUD_Auto86C80DF214A3EB77E7A92D090161337CE.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/Autosaves/Game/Blueprints/Widgets/BP_HUD_Auto8.uasset'
+[2025.12.03-14.47.30:566][741]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Interactuable] ([2] browsable assets)...
+[2025.12.03-14.47.31:095][741]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Interactuable.Interactuable]
+[2025.12.03-14.47.31:098][741]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interactuable]
+[2025.12.03-14.47.31:099][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactuable" FILE="../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/Autosaves/Game/Interactuable_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2025.12.03-14.47.31:199][741]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Interactuable_Auto8
+[2025.12.03-14.47.31:199][741]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/Interactuable_Auto80AB8341541EDCE9C68157CBA6A89B5D1.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/Autosaves/Game/Interactuable_Auto8.uasset'
+[2025.12.03-14.47.31:201][741]LogFileHelpers: Auto-saving content packages took 0.814
+[2025.12.03-14.47.48:196][793]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-14.48.05:670][845]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-14.48.26:496][908]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-14.48.37:100][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2025.12.03-14.48.38:012][976]LogSlate: Window 'Save Content' being destroyed
+[2025.12.03-14.48.38:047][976]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-14.48.38:132][976]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Components/BPC_DamgeSystem] ([2] browsable assets)...
+[2025.12.03-14.48.38:132][976]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Components/BPC_DamgeSystem]
+[2025.12.03-14.48.38:204][976]LogSavePackage: Moving output files for package: /Game/Blueprints/Components/BPC_DamgeSystem
+[2025.12.03-14.48.38:205][976]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/BPC_DamgeSystemCA89BEB345E7536EDEA5FB9F1FF82AC6.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/Blueprints/Components/BPC_DamgeSystem.uasset'
+[2025.12.03-14.48.38:209][976]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Widgets/BP_HUD] ([2] browsable assets)...
+[2025.12.03-14.48.38:209][976]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Widgets/BP_HUD]
+[2025.12.03-14.48.38:209][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/BP_HUD" FILE="../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/Blueprints/Widgets/BP_HUD.uasset" SILENT=true
+[2025.12.03-14.48.38:288][976]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/BP_HUD
+[2025.12.03-14.48.38:290][976]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/BP_HUD32051DCF47F447DF8C2F49B6F3B9661A.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/Blueprints/Widgets/BP_HUD.uasset'
+[2025.12.03-14.48.38:297][976]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Interactuable] ([2] browsable assets)...
+[2025.12.03-14.48.38:298][976]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interactuable]
+[2025.12.03-14.48.38:298][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactuable" FILE="../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/Interactuable.uasset" SILENT=true
+[2025.12.03-14.48.38:355][976]LogSavePackage: Moving output files for package: /Game/Interactuable
+[2025.12.03-14.48.38:356][976]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/Interactuable51FC710947E50D160312F7BF60041242.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/Interactuable.uasset'
+[2025.12.03-14.48.38:388][976]LogFileHelpers: InternalPromptForCheckoutAndSave took 341.579 ms (total: 1.91 sec)
+[2025.12.03-14.48.38:493][976]LogContentValidation: Display: Starting to validate 3 assets
+[2025.12.03-14.48.38:493][976]LogContentValidation: Enabled validators:
+[2025.12.03-14.48.38:493][976]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-14.48.38:493][976]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-14.48.38:493][976]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-14.48.38:493][976]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-14.48.38:493][976]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-14.48.38:493][976]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-14.48.38:495][976]AssetCheck: /Game/Blueprints/Components/BPC_DamgeSystem Validating asset
+[2025.12.03-14.48.38:495][976]AssetCheck: /Game/Blueprints/Widgets/BP_HUD Validating asset
+[2025.12.03-14.48.38:495][976]AssetCheck: /Game/Interactuable Validating asset
+[2025.12.03-14.48.40:865][ 10]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
