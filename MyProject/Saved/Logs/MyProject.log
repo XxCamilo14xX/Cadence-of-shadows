@@ -3854,3 +3854,45 @@ Make sure 'BPC_Inventory_C' has been compiled for  Add Item
 [2025.12.03-22.03.39:392][909]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2025.12.03-22.04.07:393][993]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2025.12.03-22.04.19:259][ 28]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-22.05.13:137][422]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-22.05.19:046][456]LogUObjectHash: Compacting FUObjectHashTables data took   6.54ms
+[2025.12.03-22.05.20:254][456]LogSlate: Window 'Save Content' being destroyed
+[2025.12.03-22.05.20:293][456]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-22.05.20:441][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/L_Hybrid" FILE="../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/Maps/L_Hybrid.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.03-22.05.20:604][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.12.03-22.05.20:697][456]LogSavePackage: Moving output files for package: /Game/Maps/L_Hybrid
+[2025.12.03-22.05.20:698][456]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/L_HybridD5867E55487684A1A15F6FB1BFA70F62.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/Maps/L_Hybrid.umap'
+[2025.12.03-22.05.20:745][456]LogFileHelpers: Saving map 'L_Hybrid' took 0.304
+[2025.12.03-22.05.20:746][456]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Components/BPC_Inventory] ([2] browsable assets)...
+[2025.12.03-22.05.20:746][456]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Components/BPC_Inventory]
+[2025.12.03-22.05.20:833][456]LogSavePackage: Moving output files for package: /Game/Blueprints/Components/BPC_Inventory
+[2025.12.03-22.05.20:835][456]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/BPC_InventoryD7F070CE486CBAE34D6B25AA0D866A23.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/Blueprints/Components/BPC_Inventory.uasset'
+[2025.12.03-22.05.20:845][456]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player_Enemies/Player/BP_Mannequin] ([2] browsable assets)...
+[2025.12.03-22.05.20:845][456]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player_Enemies/Player/BP_Mannequin]
+[2025.12.03-22.05.21:186][456]LogSavePackage: Moving output files for package: /Game/Player_Enemies/Player/BP_Mannequin
+[2025.12.03-22.05.21:188][456]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/BP_Mannequin3CD59B514DF0661D7B134DAEDFC3778D.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/Player_Enemies/Player/BP_Mannequin.uasset'
+[2025.12.03-22.05.21:192][456]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Models/BP_item] ([2] browsable assets)...
+[2025.12.03-22.05.22:955][456]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Models/BP_item.BP_item]
+[2025.12.03-22.05.22:955][456]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Models/BP_item]
+[2025.12.03-22.05.22:955][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Models/BP_item" FILE="../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/Blueprints/Models/BP_item.uasset" SILENT=true
+[2025.12.03-22.05.23:067][456]LogSavePackage: Moving output files for package: /Game/Blueprints/Models/BP_item
+[2025.12.03-22.05.23:069][456]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/BP_item93A18EB34655896607855299D1153574.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/Blueprints/Models/BP_item.uasset'
+[2025.12.03-22.05.23:074][456]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Models/pastel_minecraft/StaticMeshes/pastel_minecraft] ([1] browsable assets)...
+[2025.12.03-22.05.23:075][456]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Models/pastel_minecraft/StaticMeshes/pastel_minecraft]
+[2025.12.03-22.05.23:129][456]LogSavePackage: Moving output files for package: /Game/Blueprints/Models/pastel_minecraft/StaticMeshes/pastel_minecraft
+[2025.12.03-22.05.23:132][456]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/pastel_minecraft86D860024D2EC90C715C35ADCCC5AE4C.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/Blueprints/Models/pastel_minecraft/StaticMeshes/pastel_minecraft.uasset'
+[2025.12.03-22.05.23:166][456]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.87 sec (total: 7.44 sec)
+[2025.12.03-22.05.23:312][456]LogContentValidation: Display: Starting to validate 5 assets
+[2025.12.03-22.05.23:313][456]LogContentValidation: Enabled validators:
+[2025.12.03-22.05.23:313][456]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-22.05.23:313][456]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-22.05.23:313][456]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-22.05.23:313][456]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-22.05.23:313][456]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-22.05.23:313][456]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-22.05.23:314][456]AssetCheck: /Game/Maps/L_Hybrid Validating asset
+[2025.12.03-22.05.23:314][456]AssetCheck: /Game/Blueprints/Components/BPC_Inventory Validating asset
+[2025.12.03-22.05.23:315][456]AssetCheck: /Game/Player_Enemies/Player/BP_Mannequin Validating asset
+[2025.12.03-22.05.23:315][456]AssetCheck: /Game/Blueprints/Models/BP_item Validating asset
+[2025.12.03-22.05.23:317][456]AssetCheck: /Game/Blueprints/Models/pastel_minecraft/StaticMeshes/pastel_minecraft Validating asset
+[2025.12.03-22.05.23:383][456]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/SourceControl/UncontrolledChangelists.json
