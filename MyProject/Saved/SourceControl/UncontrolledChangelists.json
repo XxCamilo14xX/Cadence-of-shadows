@@ -63,6 +63,7 @@
 				"D:/.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/Blueprints/Structures/S_MeleeWeapons.uasset",
 				"D:/.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/Blueprints/Input/Actions/IA_SwitchWeaponType.uasset",
 				"D:/.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/Blueprints/Enums/E_MeleeWeapons.uasset",
+				"D:/.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/Blueprints/DataTables/DT_MeleeWeapons.uasset",
 				"D:/.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/Widgets/BP_HUD.uasset",
 				"D:/.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/DamageSystem/Player/BP_Mannequin.uasset",
 				"D:/.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/DamageSystem/Enemy/IA/BT_Enemy.uasset",
