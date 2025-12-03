@@ -3896,3 +3896,4 @@ Make sure 'BPC_Inventory_C' has been compiled for  Add Item
 [2025.12.03-22.05.23:315][456]AssetCheck: /Game/Blueprints/Models/BP_item Validating asset
 [2025.12.03-22.05.23:317][456]AssetCheck: /Game/Blueprints/Models/pastel_minecraft/StaticMeshes/pastel_minecraft Validating asset
 [2025.12.03-22.05.23:383][456]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.03-22.05.36:988][498]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
