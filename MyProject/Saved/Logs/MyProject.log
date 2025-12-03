@@ -2854,3 +2854,1003 @@ Script call stack:
 [2025.12.03-21.19.29:563][540]AssetCheck: /Game/Maps/L_Hybrid Validating asset
 [2025.12.03-21.19.29:563][540]AssetCheck: /Game/Player_Enemies/Player/BP_Mannequin Validating asset
 [2025.12.03-21.19.29:564][540]AssetCheck: /Game/Blueprints/Components/BPC_Inventory Validating asset
+[2025.12.03-21.21.37:831][556]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2025.12.03-21.21.42:380][710]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-21.21.42:414][710]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.03-21.21.42:415][710]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-21.21.42:445][710]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029322s)
+[2025.12.03-21.21.42:445][710]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Hybrid.L_Hybrid to /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid (0.029528s)
+[2025.12.03-21.21.42:547][710]LogUObjectHash: Compacting FUObjectHashTables data took   6.36ms
+[2025.12.03-21.21.42:554][710]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Hybrid
+[2025.12.03-21.21.42:560][710]LogPlayLevel: PIE: World Init took: (0.005788s)
+[2025.12.03-21.21.42:563][710]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.12.03-21.21.42:564][710]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.03-21.21.42:564][710]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.03-21.21.42:564][710]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.03-21.21.42:564][710]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.03-21.21.42:564][710]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.03-21.21.42:564][710]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.03-21.21.42:564][710]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.03-21.21.42:564][710]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.03-21.21.42:565][710]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.03-21.21.42:565][710]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.03-21.21.42:565][710]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.03-21.21.42:570][710]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.03-21.21.42:659][710]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Cirrus Logic Superior High Definition Audio)
+[2025.12.03-21.21.42:659][710]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.03-21.21.42:660][710]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.03-21.21.42:660][710]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.03-21.21.42:662][710]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.12.03-21.21.42:662][710]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.12.03-21.21.42:667][710]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.12.03-21.21.42:667][710]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.12.03-21.21.42:667][710]LogInit: FAudioDevice initialized with ID 16.
+[2025.12.03-21.21.42:667][710]LogAudio: Display: Audio Device (ID: 16) registered with world 'L_Hybrid'.
+[2025.12.03-21.21.42:667][710]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.12.03-21.21.42:675][710]LogLoad: Game class is 'GM_Hybrid_C'
+[2025.12.03-21.21.42:681][710]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid up for play (max tick rate 60) at 2025.12.03-16.21.42
+[2025.12.03-21.21.42:682][710]LogWorld: Bringing up level for play took: 0.005529
+[2025.12.03-21.21.42:687][710]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2025.12.03-21.21.42:693][710]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2025.12.03-21.21.42:693][710]LogScript: Warning: Script Msg: BP_Enemy_C_3 BarControl SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.12.03-21.21.42:694][710]LogScript: Warning: Script Msg called by: BP_Enemy_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Enemy_C_3
+[2025.12.03-21.21.42:701][710]PIE: Server logged in
+[2025.12.03-21.21.42:706][710]PIE: Play in editor total start time 0,294 seconds.
+[2025.12.03-21.21.47:514][748]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-21.21.48:323][762]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 1
+[2025.12.03-21.21.48:945][772]LogBlueprintUserMessages: [BP_Mannequin_C_0] End of the combo
+[2025.12.03-21.21.50:448][797]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.21.50:448][797]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.21.50:449][797]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.21.50:449][797]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.21.52:104][825]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.21.52:104][825]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.21.53:222][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-21.21.53:222][848]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-21.21.53:222][848]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.03-21.21.53:223][848]LogWorld: UWorld::CleanupWorld for L_Hybrid, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-21.21.53:224][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-21.21.53:289][848]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.03-21.21.53:312][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-21.21.53:383][848]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.03-21.21.53:383][848]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.12.03-21.21.53:384][848]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=4
+[2025.12.03-21.21.53:388][848]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=2
+[2025.12.03-21.21.53:401][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-21.21.53:409][848]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2025.12.03-21.21.53:567][849]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2025.12.03-21.21.56:924][942]LogEditorTransaction: Undo Move Node
+[2025.12.03-21.21.57:195][944]LogEditorTransaction: Undo Create Pin Link
+[2025.12.03-21.21.57:475][947]LogEditorTransaction: Undo Create Pin Link
+[2025.12.03-21.21.57:750][959]LogEditorTransaction: Undo Create Pin Link
+[2025.12.03-21.21.58:052][970]LogEditorTransaction: Undo Move Node
+[2025.12.03-21.21.58:338][979]LogEditorTransaction: Undo Move Node
+[2025.12.03-21.21.58:647][990]LogEditorTransaction: Undo Add Node
+[2025.12.03-21.21.58:917][999]LogEditorTransaction: Undo Move Node
+[2025.12.03-21.21.59:483][ 19]LogEditorTransaction: Undo Add Node
+[2025.12.03-21.22.01:365][ 91]LogEditorTransaction: Undo Move Node
+[2025.12.03-21.22.11:241][387]LogSlate: Window 'Message' being destroyed
+[2025.12.03-21.22.11:257][387]Message dialog closed, result: Yes, title: Message, text: Would you like to transfer the interface functions to be part of your blueprint?
+[2025.12.03-21.22.12:625][422]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2025.12.03-21.22.14:440][458]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-21.22.14:477][458]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.03-21.22.14:477][458]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-21.22.14:510][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032284s)
+[2025.12.03-21.22.14:510][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Hybrid.L_Hybrid to /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid (0.032499s)
+[2025.12.03-21.22.14:618][458]LogUObjectHash: Compacting FUObjectHashTables data took   6.52ms
+[2025.12.03-21.22.14:629][458]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Hybrid
+[2025.12.03-21.22.14:638][458]LogPlayLevel: PIE: World Init took: (0.008231s)
+[2025.12.03-21.22.14:644][458]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.12.03-21.22.14:644][458]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.03-21.22.14:644][458]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.03-21.22.14:644][458]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.03-21.22.14:645][458]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.03-21.22.14:645][458]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.03-21.22.14:645][458]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.03-21.22.14:645][458]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.03-21.22.14:645][458]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.03-21.22.14:645][458]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.03-21.22.14:646][458]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.03-21.22.14:646][458]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.03-21.22.14:652][458]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.03-21.22.14:797][458]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Cirrus Logic Superior High Definition Audio)
+[2025.12.03-21.22.14:798][458]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.03-21.22.14:798][458]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.03-21.22.14:798][458]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.03-21.22.14:801][458]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.12.03-21.22.14:801][458]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.12.03-21.22.14:808][458]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.12.03-21.22.14:808][458]LogInit: FAudioDevice initialized with ID 17.
+[2025.12.03-21.22.14:808][458]LogAudio: Display: Audio Device (ID: 17) registered with world 'L_Hybrid'.
+[2025.12.03-21.22.14:808][458]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.12.03-21.22.14:808][458]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.12.03-21.22.14:828][458]LogLoad: Game class is 'GM_Hybrid_C'
+[2025.12.03-21.22.14:836][458]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid up for play (max tick rate 60) at 2025.12.03-16.22.14
+[2025.12.03-21.22.14:838][458]LogWorld: Bringing up level for play took: 0.009844
+[2025.12.03-21.22.14:845][458]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2025.12.03-21.22.14:851][458]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2025.12.03-21.22.14:852][458]LogScript: Warning: Script Msg: BP_Enemy_C_3 BarControl SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.12.03-21.22.14:852][458]LogScript: Warning: Script Msg called by: BP_Enemy_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Enemy_C_3
+[2025.12.03-21.22.14:860][458]PIE: Server logged in
+[2025.12.03-21.22.14:866][458]PIE: Play in editor total start time 0,39 seconds.
+[2025.12.03-21.22.19:378][497]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-21.22.20:218][511]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 1
+[2025.12.03-21.22.20:842][521]LogBlueprintUserMessages: [BP_Mannequin_C_0] End of the combo
+[2025.12.03-21.22.26:924][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-21.22.26:924][632]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-21.22.26:924][632]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.03-21.22.26:926][632]LogWorld: UWorld::CleanupWorld for L_Hybrid, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-21.22.26:928][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-21.22.26:978][632]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.03-21.22.26:998][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-21.22.27:071][632]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.03-21.22.27:072][632]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.12.03-21.22.27:072][632]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=4
+[2025.12.03-21.22.27:077][632]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=2
+[2025.12.03-21.22.27:089][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-21.22.27:096][632]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2025.12.03-21.22.27:265][633]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2025.12.03-21.22.43:751][ 65]LogSlate: Window 'Delete Function' being destroyed
+[2025.12.03-21.22.43:854][ 65]LogBlueprint: Warning: FMemberReference::ResolveMember (AddItem) bSelfContext == true, but no scope supplied!
+[2025.12.03-21.22.43:854][ 65]LogBlueprint: Warning: FMemberReference::ResolveMember (AddItem) bSelfContext == true, but no scope supplied!
+[2025.12.03-21.22.46:214][140]LogBlueprint: Error: [AssetLog] D:\.Universidad\Arquitectura\guego\Lastsonggg\MyProject\Content\Player_Enemies\Player\BP_Mannequin.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Add Item . Please refresh node or break links to remove pin.
+[2025.12.03-21.22.46:214][140]LogBlueprint: Error: [AssetLog] D:\.Universidad\Arquitectura\guego\Lastsonggg\MyProject\Content\Player_Enemies\Player\BP_Mannequin.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Add Item . Please refresh node or break links to remove pin.
+[2025.12.03-21.22.46:215][140]LogBlueprint: Error: [AssetLog] D:\.Universidad\Arquitectura\guego\Lastsonggg\MyProject\Content\Player_Enemies\Player\BP_Mannequin.uasset: [Compiler] In use pin  Target  no longer exists on node  Add Item . Please refresh node or break links to remove pin.
+[2025.12.03-21.22.46:215][140]LogBlueprint: Error: [AssetLog] D:\.Universidad\Arquitectura\guego\Lastsonggg\MyProject\Content\Player_Enemies\Player\BP_Mannequin.uasset: [Compiler] In use pin  Item  no longer exists on node  Add Item . Please refresh node or break links to remove pin.
+[2025.12.03-21.22.46:215][140]LogBlueprint: Error: [AssetLog] D:\.Universidad\Arquitectura\guego\Lastsonggg\MyProject\Content\Player_Enemies\Player\BP_Mannequin.uasset: [Compiler] In use pin  Was Aded  no longer exists on node  Add Item . Please refresh node or break links to remove pin.
+[2025.12.03-21.22.46:215][140]LogBlueprint: Error: [AssetLog] D:\.Universidad\Arquitectura\guego\Lastsonggg\MyProject\Content\Player_Enemies\Player\BP_Mannequin.uasset: [Compiler] Could not find a function named "AddItem" in 'BPC_Inventory_C'.
+Make sure 'BPC_Inventory_C' has been compiled for  Add Item
+[2025.12.03-21.22.46:404][140]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2025.12.03-21.23.00:055][582]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2025.12.03-21.23.12:355][ 40]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4378.858887
+[2025.12.03-21.23.12:534][ 46]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-21.23.12:534][ 46]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4379.005859, Update Interval: 306.407043
+[2025.12.03-21.23.12:712][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2025.12.03-21.23.15:578][ 91]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-21.23.15:604][ 91]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.03-21.23.15:605][ 91]BlueprintLog: Warning: Blueprint failed to compile:  BP_Mannequin
+[2025.12.03-21.23.20:681][ 91]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2025.12.03-21.23.24:240][181]LogSlate: Window 'Message Log' being destroyed
+[2025.12.03-21.23.24:308][181]LogSlate: Window 'Message Log' being destroyed
+[2025.12.03-21.23.43:203][824]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-21.23.43:329][824]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Components/BPC_Inventory] ([2] browsable assets)...
+[2025.12.03-21.23.43:330][824]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Components/BPC_Inventory]
+[2025.12.03-21.23.43:382][824]LogSavePackage: Moving output files for package: /Game/Blueprints/Components/BPC_Inventory
+[2025.12.03-21.23.43:384][824]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/BPC_Inventory1658895A4459018FA3FBCAB49126E2CC.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/Blueprints/Components/BPC_Inventory.uasset'
+[2025.12.03-21.23.43:424][824]LogFileHelpers: InternalPromptForCheckoutAndSave took 221.356 ms (total: 4.57 sec)
+[2025.12.03-21.23.43:558][824]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-21.23.43:558][824]LogContentValidation: Enabled validators:
+[2025.12.03-21.23.43:558][824]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-21.23.43:558][824]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-21.23.43:558][824]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-21.23.43:558][824]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-21.23.43:559][824]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-21.23.43:559][824]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-21.23.43:559][824]AssetCheck: /Game/Blueprints/Components/BPC_Inventory Validating asset
+[2025.12.03-21.23.56:851][201]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2025.12.03-21.24.02:271][392]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2025.12.03-21.24.04:047][438]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-21.24.04:088][438]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.03-21.24.04:088][438]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-21.24.04:116][438]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028310s)
+[2025.12.03-21.24.04:117][438]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Hybrid.L_Hybrid to /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid (0.028527s)
+[2025.12.03-21.24.04:216][438]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2025.12.03-21.24.04:223][438]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Hybrid
+[2025.12.03-21.24.04:228][438]LogPlayLevel: PIE: World Init took: (0.005708s)
+[2025.12.03-21.24.04:232][438]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.12.03-21.24.04:232][438]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.03-21.24.04:232][438]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.03-21.24.04:232][438]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.03-21.24.04:232][438]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.03-21.24.04:232][438]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.03-21.24.04:233][438]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.03-21.24.04:233][438]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.03-21.24.04:233][438]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.03-21.24.04:233][438]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.03-21.24.04:233][438]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.03-21.24.04:233][438]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.03-21.24.04:238][438]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.03-21.24.04:323][438]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Cirrus Logic Superior High Definition Audio)
+[2025.12.03-21.24.04:324][438]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.03-21.24.04:324][438]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.03-21.24.04:324][438]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.03-21.24.04:327][438]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.12.03-21.24.04:327][438]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2025.12.03-21.24.04:331][438]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.12.03-21.24.04:331][438]LogInit: FAudioDevice initialized with ID 18.
+[2025.12.03-21.24.04:331][438]LogAudio: Display: Audio Device (ID: 18) registered with world 'L_Hybrid'.
+[2025.12.03-21.24.04:332][438]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.12.03-21.24.04:332][438]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.12.03-21.24.04:342][438]LogLoad: Game class is 'GM_Hybrid_C'
+[2025.12.03-21.24.04:348][438]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid up for play (max tick rate 60) at 2025.12.03-16.24.04
+[2025.12.03-21.24.04:350][438]LogWorld: Bringing up level for play took: 0.006680
+[2025.12.03-21.24.04:354][438]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2025.12.03-21.24.04:359][438]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2025.12.03-21.24.04:360][438]LogScript: Warning: Script Msg: BP_Enemy_C_3 BarControl SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.12.03-21.24.04:360][438]LogScript: Warning: Script Msg called by: BP_Enemy_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Enemy_C_3
+[2025.12.03-21.24.04:367][438]PIE: Server logged in
+[2025.12.03-21.24.04:371][438]PIE: Play in editor total start time 0,285 seconds.
+[2025.12.03-21.24.08:998][478]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-21.24.09:840][492]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 1
+[2025.12.03-21.24.10:460][502]LogBlueprintUserMessages: [BP_Mannequin_C_0] End of the combo
+[2025.12.03-21.24.19:116][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-21.24.19:117][651]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-21.24.19:117][651]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.03-21.24.19:118][651]LogWorld: UWorld::CleanupWorld for L_Hybrid, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-21.24.19:120][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-21.24.19:199][651]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.03-21.24.19:220][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-21.24.19:310][651]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.03-21.24.19:311][651]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.12.03-21.24.19:312][651]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=4
+[2025.12.03-21.24.19:317][651]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=2
+[2025.12.03-21.24.19:341][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-21.24.19:351][651]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2025.12.03-21.24.19:561][652]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2025.12.03-21.24.32:462][878]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-21.24.43:221][911]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-21.25.09:754][991]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-21.26.17:472][194]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-21.26.44:518][607]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-21.28.24:567][903]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2025.12.03-21.28.36:858][989]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-21.28.36:906][989]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.03-21.28.36:906][989]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-21.28.36:948][989]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040876s)
+[2025.12.03-21.28.36:948][989]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Hybrid.L_Hybrid to /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid (0.041112s)
+[2025.12.03-21.28.37:078][989]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2025.12.03-21.28.37:087][989]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Hybrid
+[2025.12.03-21.28.37:095][989]LogPlayLevel: PIE: World Init took: (0.008873s)
+[2025.12.03-21.28.37:102][989]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.12.03-21.28.37:102][989]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.03-21.28.37:102][989]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.03-21.28.37:102][989]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.03-21.28.37:102][989]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.03-21.28.37:103][989]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.03-21.28.37:103][989]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.03-21.28.37:103][989]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.03-21.28.37:103][989]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.03-21.28.37:104][989]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.03-21.28.37:104][989]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.03-21.28.37:104][989]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.03-21.28.37:111][989]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.03-21.28.37:274][989]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Cirrus Logic Superior High Definition Audio)
+[2025.12.03-21.28.37:277][989]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.03-21.28.37:278][989]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.03-21.28.37:278][989]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.03-21.28.37:285][989]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.12.03-21.28.37:285][989]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2025.12.03-21.28.37:292][989]LogInit: FAudioDevice initialized with ID 19.
+[2025.12.03-21.28.37:292][989]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.12.03-21.28.37:292][989]LogAudio: Display: Audio Device (ID: 19) registered with world 'L_Hybrid'.
+[2025.12.03-21.28.37:292][989]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.12.03-21.28.37:293][989]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.12.03-21.28.37:315][989]LogLoad: Game class is 'GM_Hybrid_C'
+[2025.12.03-21.28.37:326][989]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid up for play (max tick rate 60) at 2025.12.03-16.28.37
+[2025.12.03-21.28.37:329][989]LogWorld: Bringing up level for play took: 0.013711
+[2025.12.03-21.28.37:341][989]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2025.12.03-21.28.37:349][989]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2025.12.03-21.28.37:349][989]LogScript: Warning: Script Msg: BP_Enemy_C_3 BarControl SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.12.03-21.28.37:349][989]LogScript: Warning: Script Msg called by: BP_Enemy_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Enemy_C_3
+[2025.12.03-21.28.37:363][989]PIE: Server logged in
+[2025.12.03-21.28.37:372][989]PIE: Play in editor total start time 0,468 seconds.
+[2025.12.03-21.28.42:415][ 19]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-21.28.43:252][ 28]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 1
+[2025.12.03-21.28.43:896][ 36]LogBlueprintUserMessages: [BP_Mannequin_C_0] End of the combo
+[2025.12.03-21.28.52:713][155]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.28.52:713][155]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.28.57:923][221]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.28.57:923][221]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.28.57:923][221]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.28.57:923][221]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.29.06:035][325]LogBlueprintUserMessages: [BP_Mannequin_C_0] HitReaction
+[2025.12.03-21.29.08:041][349]LogBlueprintUserMessages: [BP_Mannequin_C_0] HitReaction
+[2025.12.03-21.29.14:537][431]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4741.065918
+[2025.12.03-21.29.14:838][435]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-21.29.14:838][435]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4741.276367, Update Interval: 323.504150
+[2025.12.03-21.29.17:000][463]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.29.17:000][463]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.29.17:327][467]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.29.17:327][467]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.29.17:596][470]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.29.17:596][470]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.29.18:226][478]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.29.18:227][478]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.29.19:004][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-21.29.19:004][487]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-21.29.19:004][487]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.03-21.29.19:005][487]LogWorld: UWorld::CleanupWorld for L_Hybrid, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-21.29.19:006][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-21.29.19:111][487]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.03-21.29.19:135][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-21.29.19:228][487]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.03-21.29.19:229][487]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.12.03-21.29.19:229][487]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=4
+[2025.12.03-21.29.19:235][487]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=2
+[2025.12.03-21.29.19:255][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-21.29.19:268][487]LogUObjectHash: Compacting FUObjectHashTables data took   7.24ms
+[2025.12.03-21.29.19:568][488]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2025.12.03-21.32.13:337][536]Cmd: DELETE
+[2025.12.03-21.32.13:338][536]Cmd: ACTOR DELETE
+[2025.12.03-21.32.13:414][536]LogEditorActor: Deleted Actor: BP_item_C
+[2025.12.03-21.32.13:607][536]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2025.12.03-21.32.13:615][536]LogEditorActor: Deleted 1 Actors (0.233 secs)
+[2025.12.03-21.32.15:243][552]Cmd: DELETE
+[2025.12.03-21.32.15:243][552]Cmd: ACTOR DELETE
+[2025.12.03-21.32.15:250][552]LogEditorActor: Deleted Actor: BP_item_C
+[2025.12.03-21.32.15:372][552]LogUObjectHash: Compacting FUObjectHashTables data took   7.15ms
+[2025.12.03-21.32.15:384][552]LogEditorActor: Deleted 1 Actors (0.141 secs)
+[2025.12.03-21.32.16:812][566]Cmd: DELETE
+[2025.12.03-21.32.16:812][566]Cmd: ACTOR DELETE
+[2025.12.03-21.32.16:822][566]LogEditorActor: Deleted Actor: BP_item_C
+[2025.12.03-21.32.16:937][566]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2025.12.03-21.32.16:944][566]LogEditorActor: Deleted 1 Actors (0.132 secs)
+[2025.12.03-21.32.59:395][934]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Blueprints/Models/Cake_JE2.Cake_JE2
+[2025.12.03-21.33.01:386][934]LogDeviceProfileManager: Display: Deviceprofile Android_ASTC not found.
+[2025.12.03-21.33.01:393][934]LogDeviceProfileManager: Display: Deviceprofile Android_DXT not found.
+[2025.12.03-21.33.01:394][934]LogDeviceProfileManager: Display: Deviceprofile Android_ETC2 not found.
+[2025.12.03-21.33.01:394][934]LogDeviceProfileManager: Display: Deviceprofile Android_Multi not found.
+[2025.12.03-21.33.08:424][ 18]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.12.03-21.33.22:900][126]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Blueprints/Models/pastel_minecraft/StaticMeshes/pastel_minecraft.pastel_minecraft
+[2025.12.03-21.33.22:901][126]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Blueprints/Models/pastel_minecraft/StaticMeshes/pastel_minecraft.pastel_minecraft
+[2025.12.03-21.33.22:903][126]LogActorFactory: Actor Factory spawned StaticMesh /Game/Blueprints/Models/pastel_minecraft/StaticMeshes/pastel_minecraft.pastel_minecraft as actor: StaticMeshActor /Game/Maps/L_Hybrid.L_Hybrid:PersistentLevel.StaticMeshActor_9
+[2025.12.03-21.33.24:068][131]LogUObjectHash: Compacting FUObjectHashTables data took  11.03ms
+[2025.12.03-21.33.24:080][131]LogEditorActor: Deleted 0 Actors (0.249 secs)
+[2025.12.03-21.34.22:706][620]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Blueprints/Models/pastel_minecraft/StaticMeshes/pastel_minecraft.pastel_minecraft
+[2025.12.03-21.34.23:200][620]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.12.03-21.34.23:479][620]LogStreaming: Display: FlushAsyncLoading(529): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.03-21.34.23:634][620]LogStaticMesh: Display: Building static mesh Sphere_inversenormals (Required Memory Estimate: 1.522745 MB)...
+[2025.12.03-21.34.23:748][620]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2025.12.03-21.34.23:764][620]LogStaticMesh: Built static mesh [0.14s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2025.12.03-21.34.23:848][620]LogStaticMesh: Display: Building static mesh Floor_Mesh (Required Memory Estimate: 0.022237 MB)...
+[2025.12.03-21.34.23:856][620]LogStaticMesh: Built static mesh [0.01s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2025.12.03-21.34.27:482][620]LogMeshUtilities: Finished distance field build in 3.6s - 126x126x21 sparse distance field, 0.5Mb total, 0.0Mb always loaded, 80% occupied, 0 triangles, Floor_Mesh
+[2025.12.03-21.34.32:633][627]LogPSOHitching: Encountered 50 PSO creation hitches so far (29 graphics, 21 compute). 0 of them were precached.
+[2025.12.03-21.34.50:347][693]LogShaderCompilers: Display: ================================================
+[2025.12.03-21.34.50:347][693]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.03-21.34.50:348][693]LogShaderCompilers: Display: Total job queries 520, among them cache hits 120 (23.08%), DDC hits 362 (69.62%), Duplicates 16 (3.08%)
+[2025.12.03-21.34.50:348][693]LogShaderCompilers: Display: Tracking 384 distinct input hashes that result in 275 distinct outputs (71.61%)
+[2025.12.03-21.34.50:348][693]LogShaderCompilers: Display: RAM used: 3,97 MiB of 716,80 MiB budget. Usage: 0.55%
+[2025.12.03-21.34.50:348][693]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.03-21.34.50:348][693]LogShaderCompilers: Display: Shaders Compiled: 20
+[2025.12.03-21.34.50:348][693]LogShaderCompilers: Display: Jobs assigned 22, completed 20 (90.91%)
+[2025.12.03-21.34.50:349][693]LogShaderCompilers: Display: Average time worker was idle: 2455.75 s
+[2025.12.03-21.34.50:349][693]LogShaderCompilers: Display: Time job spent in pending queue: average 7.37 s, longest 50.49 s
+[2025.12.03-21.34.50:349][693]LogShaderCompilers: Display: Job execution time: average 55.26 s, max 93.59 s
+[2025.12.03-21.34.50:349][693]LogShaderCompilers: Display: Job life time (pending + execution): average 63.37 s, max 95.45
+[2025.12.03-21.34.50:349][693]LogShaderCompilers: Display: Shader code size: total 619,222 KiB, numShaders 20, average 30,961 KiB, min 6,969 KiB, max 41,344 KiB
+[2025.12.03-21.34.50:350][693]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 113.96 s
+[2025.12.03-21.34.50:350][693]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.12.03-21.34.50:350][693]LogShaderCompilers: Display: Jobs were issued in 15 batches (only local compilation was used), average 1.47 jobs/batch
+[2025.12.03-21.34.50:350][693]LogShaderCompilers: Display: Average processing rate: 0.18 jobs/sec
+[2025.12.03-21.34.50:350][693]LogShaderCompilers: Display: Total thread time: 447,58 s
+[2025.12.03-21.34.50:350][693]LogShaderCompilers: Display: Total thread preprocess time: 54,569 s
+[2025.12.03-21.34.50:350][693]LogShaderCompilers: Display: Percentage time preprocessing: 12.19%
+[2025.12.03-21.34.50:350][693]LogShaderCompilers: Display: Effective parallelization: 3.93 (times faster than compiling all shaders on one thread). Compare with number of workers: 4 - 0.981896
+[2025.12.03-21.34.50:350][693]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.03-21.34.50:350][693]LogShaderCompilers: Display:                TBasePassCSFCachedPointIndirectLightingPolicy (compiled    1 times, average 41.51 sec, max 41.51 sec, min 41.51 sec)
+[2025.12.03-21.34.50:351][693]LogShaderCompilers: Display:               TBasePassCSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 38.01 sec, max 38.01 sec, min 38.01 sec)
+[2025.12.03-21.34.50:351][693]LogShaderCompilers: Display:      TBasePassCSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 35.99 sec, max 35.99 sec, min 35.99 sec)
+[2025.12.03-21.34.50:351][693]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 33.29 sec, max 33.29 sec, min 33.29 sec)
+[2025.12.03-21.34.50:351][693]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 26.03 sec, max 26.03 sec, min 26.03 sec)
+[2025.12.03-21.34.50:351][693]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.03-21.34.50:351][693]LogShaderCompilers: Display:                                                 FLumenCardCS - 16.60% of total time (compiled    3 times, average 24.76 sec, max 40.53 sec, min 12.17 sec)
+[2025.12.03-21.34.50:351][693]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 14.59% of total time (compiled    3 times, average 21.77 sec, max 28.26 sec, min 17.86 sec)
+[2025.12.03-21.34.50:352][693]LogShaderCompilers: Display:                TBasePassCSFCachedPointIndirectLightingPolicy - 9.27% of total time (compiled    1 times, average 41.51 sec, max 41.51 sec, min 41.51 sec)
+[2025.12.03-21.34.50:352][693]LogShaderCompilers: Display:               TBasePassCSFCachedVolumeIndirectLightingPolicy - 8.49% of total time (compiled    1 times, average 38.01 sec, max 38.01 sec, min 38.01 sec)
+[2025.12.03-21.34.50:352][693]LogShaderCompilers: Display:      TBasePassCSFPrecomputedVolumetricLightmapLightingPolicy - 8.04% of total time (compiled    1 times, average 35.99 sec, max 35.99 sec, min 35.99 sec)
+[2025.12.03-21.34.50:353][693]LogShaderCompilers: Display: === Material stats ===
+[2025.12.03-21.34.50:353][693]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.03-21.34.50:353][693]LogShaderCompilers: Display: Materials Translated:    152
+[2025.12.03-21.34.50:353][693]LogShaderCompilers: Display: Material Total Translate Time: 0.76 s
+[2025.12.03-21.34.50:353][693]LogShaderCompilers: Display: Material Translation Only: 0.43 s (57%)
+[2025.12.03-21.34.50:353][693]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (1%)
+[2025.12.03-21.34.50:354][693]LogShaderCompilers: Display: Material Cache Hits: 37 (24%)
+[2025.12.03-21.34.50:354][693]LogShaderCompilers: Display: ================================================
+[2025.12.03-21.35.13:137][792]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5099.663574
+[2025.12.03-21.35.13:648][795]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-21.35.13:648][795]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5099.990234, Update Interval: 300.869781
+[2025.12.03-21.35.41:458][930]LogSlate: Window 'pastel_minecraft' being destroyed
+[2025.12.03-21.36.00:287][ 91]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-21.36.00:398][ 91]LogPlayLevel: [PlayLevel] Compiling BP_item before play...
+[2025.12.03-21.36.00:891][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   7.47ms
+[2025.12.03-21.36.00:902][ 91]LogPlayLevel: PlayLevel: Blueprint regeneration took 526 ms (1 blueprints)
+[2025.12.03-21.36.00:902][ 91]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-21.36.00:927][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025572s)
+[2025.12.03-21.36.00:927][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Hybrid.L_Hybrid to /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid (0.025727s)
+[2025.12.03-21.36.01:007][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2025.12.03-21.36.01:010][ 91]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Hybrid
+[2025.12.03-21.36.01:015][ 91]LogPlayLevel: PIE: World Init took: (0.005323s)
+[2025.12.03-21.36.01:020][ 91]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.12.03-21.36.01:020][ 91]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.03-21.36.01:020][ 91]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.03-21.36.01:020][ 91]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.03-21.36.01:020][ 91]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.03-21.36.01:020][ 91]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.03-21.36.01:020][ 91]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.03-21.36.01:021][ 91]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.03-21.36.01:021][ 91]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.03-21.36.01:021][ 91]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.03-21.36.01:021][ 91]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.03-21.36.01:021][ 91]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.03-21.36.01:027][ 91]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.03-21.36.01:130][ 91]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Cirrus Logic Superior High Definition Audio)
+[2025.12.03-21.36.01:131][ 91]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.03-21.36.01:132][ 91]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.03-21.36.01:132][ 91]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.03-21.36.01:135][ 91]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.12.03-21.36.01:135][ 91]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2025.12.03-21.36.01:142][ 91]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.12.03-21.36.01:142][ 91]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.12.03-21.36.01:142][ 91]LogInit: FAudioDevice initialized with ID 20.
+[2025.12.03-21.36.01:142][ 91]LogAudio: Display: Audio Device (ID: 20) registered with world 'L_Hybrid'.
+[2025.12.03-21.36.01:142][ 91]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.12.03-21.36.01:157][ 91]LogLoad: Game class is 'GM_Hybrid_C'
+[2025.12.03-21.36.01:162][ 91]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid up for play (max tick rate 60) at 2025.12.03-16.36.01
+[2025.12.03-21.36.01:163][ 91]LogWorld: Bringing up level for play took: 0.006216
+[2025.12.03-21.36.01:170][ 91]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2025.12.03-21.36.01:176][ 91]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2025.12.03-21.36.01:177][ 91]LogScript: Warning: Script Msg: BP_Enemy_C_3 BarControl SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.12.03-21.36.01:177][ 91]LogScript: Warning: Script Msg called by: BP_Enemy_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Enemy_C_3
+[2025.12.03-21.36.01:185][ 91]PIE: Server logged in
+[2025.12.03-21.36.01:190][ 91]PIE: Play in editor total start time 0,839 seconds.
+[2025.12.03-21.36.07:842][122]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-21.36.08:648][131]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 1
+[2025.12.03-21.36.09:289][138]LogBlueprintUserMessages: [BP_Mannequin_C_0] End of the combo
+[2025.12.03-21.36.23:498][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-21.36.23:498][293]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-21.36.23:498][293]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.03-21.36.23:499][293]LogWorld: UWorld::CleanupWorld for L_Hybrid, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-21.36.23:500][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-21.36.23:634][293]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.03-21.36.23:657][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-21.36.23:770][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-21.36.23:773][293]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.12.03-21.36.23:773][293]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=4
+[2025.12.03-21.36.23:780][293]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=2
+[2025.12.03-21.36.23:826][293]LogUObjectHash: Compacting FUObjectHashTables data took  12.82ms
+[2025.12.03-21.36.24:189][294]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2025.12.03-21.36.27:508][322]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-21.36.27:561][322]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.03-21.36.27:562][322]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-21.36.27:588][322]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027568s)
+[2025.12.03-21.36.27:589][322]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Hybrid.L_Hybrid to /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid (0.027773s)
+[2025.12.03-21.36.27:711][322]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2025.12.03-21.36.27:716][322]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Hybrid
+[2025.12.03-21.36.27:724][322]LogPlayLevel: PIE: World Init took: (0.008501s)
+[2025.12.03-21.36.27:730][322]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.12.03-21.36.27:731][322]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.03-21.36.27:731][322]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.03-21.36.27:731][322]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.03-21.36.27:731][322]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.03-21.36.27:731][322]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.03-21.36.27:731][322]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.03-21.36.27:731][322]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.03-21.36.27:732][322]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.03-21.36.27:732][322]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.03-21.36.27:732][322]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.03-21.36.27:732][322]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.03-21.36.27:743][322]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.03-21.36.27:876][322]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Cirrus Logic Superior High Definition Audio)
+[2025.12.03-21.36.27:877][322]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.03-21.36.27:877][322]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.03-21.36.27:877][322]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.03-21.36.27:878][322]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.12.03-21.36.27:879][322]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2025.12.03-21.36.27:890][322]LogInit: FAudioDevice initialized with ID 21.
+[2025.12.03-21.36.27:891][322]LogAudio: Display: Audio Device (ID: 21) registered with world 'L_Hybrid'.
+[2025.12.03-21.36.27:891][322]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.12.03-21.36.27:891][322]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.12.03-21.36.27:891][322]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.12.03-21.36.27:907][322]LogLoad: Game class is 'GM_Hybrid_C'
+[2025.12.03-21.36.27:917][322]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid up for play (max tick rate 60) at 2025.12.03-16.36.27
+[2025.12.03-21.36.27:920][322]LogWorld: Bringing up level for play took: 0.011179
+[2025.12.03-21.36.27:931][322]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2025.12.03-21.36.27:942][322]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2025.12.03-21.36.27:944][322]LogScript: Warning: Script Msg: BP_Enemy_C_3 BarControl SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.12.03-21.36.27:944][322]LogScript: Warning: Script Msg called by: BP_Enemy_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Enemy_C_3
+[2025.12.03-21.36.27:966][322]PIE: Server logged in
+[2025.12.03-21.36.27:977][322]PIE: Play in editor total start time 0,435 seconds.
+[2025.12.03-21.36.35:531][351]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-21.36.36:333][359]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 1
+[2025.12.03-21.36.36:990][362]LogBlueprintUserMessages: [BP_Mannequin_C_0] End of the combo
+[2025.12.03-21.36.45:533][461]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.36.45:533][461]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.36.46:086][469]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.36.46:087][469]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.36.47:038][482]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.36.47:039][482]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.36.47:342][486]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.36.47:342][486]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.36.48:225][498]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.36.48:225][498]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.36.49:939][519]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.36.49:939][519]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.36.49:939][519]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.36.49:939][519]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.36.52:303][550]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.36.52:303][550]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.36.54:178][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-21.36.54:178][574]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-21.36.54:178][574]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.03-21.36.54:180][574]LogWorld: UWorld::CleanupWorld for L_Hybrid, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-21.36.54:187][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-21.36.54:269][574]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.03-21.36.54:292][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-21.36.54:383][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-21.36.54:384][574]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.12.03-21.36.54:385][574]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=4
+[2025.12.03-21.36.54:390][574]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=2
+[2025.12.03-21.36.54:413][574]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2025.12.03-21.36.54:653][575]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2025.12.03-21.37.15:369][737]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Blueprints/Models/legend_of_zelda_master_sword/StaticMeshes/legend_of_zelda_master_sword.legend_of_zelda_master_sword
+[2025.12.03-21.37.15:369][737]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Blueprints/Models/legend_of_zelda_master_sword/StaticMeshes/legend_of_zelda_master_sword.legend_of_zelda_master_sword
+[2025.12.03-21.37.15:371][737]LogActorFactory: Actor Factory spawned StaticMesh /Game/Blueprints/Models/legend_of_zelda_master_sword/StaticMeshes/legend_of_zelda_master_sword.legend_of_zelda_master_sword as actor: StaticMeshActor /Game/Maps/L_Hybrid.L_Hybrid:PersistentLevel.StaticMeshActor_11
+[2025.12.03-21.37.16:480][742]LogUObjectHash: Compacting FUObjectHashTables data took   9.25ms
+[2025.12.03-21.37.16:490][742]LogEditorActor: Deleted 0 Actors (0.136 secs)
+[2025.12.03-21.37.49:618][ 16]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-21.37.49:650][ 16]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.03-21.37.49:651][ 16]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-21.37.49:675][ 16]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023524s)
+[2025.12.03-21.37.49:675][ 16]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Hybrid.L_Hybrid to /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid (0.023708s)
+[2025.12.03-21.37.49:777][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2025.12.03-21.37.49:787][ 16]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Hybrid
+[2025.12.03-21.37.49:796][ 16]LogPlayLevel: PIE: World Init took: (0.008945s)
+[2025.12.03-21.37.49:802][ 16]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.12.03-21.37.49:802][ 16]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.03-21.37.49:803][ 16]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.03-21.37.49:803][ 16]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.03-21.37.49:803][ 16]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.03-21.37.49:803][ 16]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.03-21.37.49:803][ 16]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.03-21.37.49:803][ 16]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.03-21.37.49:803][ 16]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.03-21.37.49:804][ 16]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.03-21.37.49:804][ 16]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.03-21.37.49:804][ 16]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.03-21.37.49:811][ 16]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.03-21.37.49:947][ 16]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Cirrus Logic Superior High Definition Audio)
+[2025.12.03-21.37.49:948][ 16]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.03-21.37.49:948][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.03-21.37.49:948][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.03-21.37.49:950][ 16]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.12.03-21.37.49:950][ 16]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2025.12.03-21.37.49:959][ 16]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.12.03-21.37.49:959][ 16]LogInit: FAudioDevice initialized with ID 22.
+[2025.12.03-21.37.49:960][ 16]LogAudio: Display: Audio Device (ID: 22) registered with world 'L_Hybrid'.
+[2025.12.03-21.37.49:960][ 16]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.12.03-21.37.49:960][ 16]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.12.03-21.37.49:973][ 16]LogLoad: Game class is 'GM_Hybrid_C'
+[2025.12.03-21.37.49:979][ 16]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid up for play (max tick rate 60) at 2025.12.03-16.37.49
+[2025.12.03-21.37.49:983][ 16]LogWorld: Bringing up level for play took: 0.009121
+[2025.12.03-21.37.49:991][ 16]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2025.12.03-21.37.49:998][ 16]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2025.12.03-21.37.49:999][ 16]LogScript: Warning: Script Msg: BP_Enemy_C_3 BarControl SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.12.03-21.37.49:999][ 16]LogScript: Warning: Script Msg called by: BP_Enemy_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Enemy_C_3
+[2025.12.03-21.37.50:010][ 16]PIE: Server logged in
+[2025.12.03-21.37.50:019][ 16]PIE: Play in editor total start time 0,371 seconds.
+[2025.12.03-21.37.51:077][ 18]LogShaderCompilers: Display: ================================================
+[2025.12.03-21.37.51:077][ 18]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.03-21.37.51:077][ 18]LogShaderCompilers: Display: Total job queries 520, among them cache hits 120 (23.08%), DDC hits 362 (69.62%), Duplicates 16 (3.08%)
+[2025.12.03-21.37.51:078][ 18]LogShaderCompilers: Display: Tracking 384 distinct input hashes that result in 277 distinct outputs (72.14%)
+[2025.12.03-21.37.51:078][ 18]LogShaderCompilers: Display: RAM used: 3,99 MiB of 716,80 MiB budget. Usage: 0.56%
+[2025.12.03-21.37.51:078][ 18]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.03-21.37.51:078][ 18]LogShaderCompilers: Display: Shaders Compiled: 22
+[2025.12.03-21.37.51:078][ 18]LogShaderCompilers: Display: Jobs assigned 22, completed 22 (100%)
+[2025.12.03-21.37.51:078][ 18]LogShaderCompilers: Display: Average time worker was idle: 2455.75 s
+[2025.12.03-21.37.51:078][ 18]LogShaderCompilers: Display: Time job spent in pending queue: average 7.37 s, longest 50.49 s
+[2025.12.03-21.37.51:078][ 18]LogShaderCompilers: Display: Job execution time: average 52.00 s, max 93.59 s
+[2025.12.03-21.37.51:078][ 18]LogShaderCompilers: Display: Job life time (pending + execution): average 59.37 s, max 95.45
+[2025.12.03-21.37.51:079][ 18]LogShaderCompilers: Display: Shader code size: total 643,784 KiB, numShaders 24, average 26,824 KiB, min 3,777 KiB, max 41,344 KiB
+[2025.12.03-21.37.51:079][ 18]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 118.04 s
+[2025.12.03-21.37.51:079][ 18]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.12.03-21.37.51:079][ 18]LogShaderCompilers: Display: Jobs were issued in 15 batches (only local compilation was used), average 1.47 jobs/batch
+[2025.12.03-21.37.51:079][ 18]LogShaderCompilers: Display: Average processing rate: 0.19 jobs/sec
+[2025.12.03-21.37.51:079][ 18]LogShaderCompilers: Display: Total thread time: 477,152 s
+[2025.12.03-21.37.51:079][ 18]LogShaderCompilers: Display: Total thread preprocess time: 54,986 s
+[2025.12.03-21.37.51:079][ 18]LogShaderCompilers: Display: Percentage time preprocessing: 11.52%
+[2025.12.03-21.37.51:079][ 18]LogShaderCompilers: Display: Effective parallelization: 4.04 (times faster than compiling all shaders on one thread). Compare with number of workers: 4 - 1.010600
+[2025.12.03-21.37.51:079][ 18]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.03-21.37.51:080][ 18]LogShaderCompilers: Display:                TBasePassCSFCachedPointIndirectLightingPolicy (compiled    1 times, average 41.51 sec, max 41.51 sec, min 41.51 sec)
+[2025.12.03-21.37.51:080][ 18]LogShaderCompilers: Display:               TBasePassCSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 38.01 sec, max 38.01 sec, min 38.01 sec)
+[2025.12.03-21.37.51:080][ 18]LogShaderCompilers: Display:      TBasePassCSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 35.99 sec, max 35.99 sec, min 35.99 sec)
+[2025.12.03-21.37.51:080][ 18]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 33.29 sec, max 33.29 sec, min 33.29 sec)
+[2025.12.03-21.37.51:080][ 18]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 26.03 sec, max 26.03 sec, min 26.03 sec)
+[2025.12.03-21.37.51:080][ 18]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.03-21.37.51:080][ 18]LogShaderCompilers: Display:                                                 FLumenCardCS - 15.57% of total time (compiled    3 times, average 24.76 sec, max 40.53 sec, min 12.17 sec)
+[2025.12.03-21.37.51:081][ 18]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 13.69% of total time (compiled    3 times, average 21.77 sec, max 28.26 sec, min 17.86 sec)
+[2025.12.03-21.37.51:081][ 18]LogShaderCompilers: Display:                TBasePassCSFCachedPointIndirectLightingPolicy - 8.70% of total time (compiled    1 times, average 41.51 sec, max 41.51 sec, min 41.51 sec)
+[2025.12.03-21.37.51:081][ 18]LogShaderCompilers: Display:               TBasePassCSFCachedVolumeIndirectLightingPolicy - 7.97% of total time (compiled    1 times, average 38.01 sec, max 38.01 sec, min 38.01 sec)
+[2025.12.03-21.37.51:081][ 18]LogShaderCompilers: Display:      TBasePassCSFPrecomputedVolumetricLightmapLightingPolicy - 7.54% of total time (compiled    1 times, average 35.99 sec, max 35.99 sec, min 35.99 sec)
+[2025.12.03-21.37.51:081][ 18]LogShaderCompilers: Display: === Material stats ===
+[2025.12.03-21.37.51:081][ 18]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.03-21.37.51:081][ 18]LogShaderCompilers: Display: Materials Translated:    152
+[2025.12.03-21.37.51:081][ 18]LogShaderCompilers: Display: Material Total Translate Time: 0.76 s
+[2025.12.03-21.37.51:081][ 18]LogShaderCompilers: Display: Material Translation Only: 0.43 s (57%)
+[2025.12.03-21.37.51:081][ 18]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (1%)
+[2025.12.03-21.37.51:081][ 18]LogShaderCompilers: Display: Material Cache Hits: 37 (24%)
+[2025.12.03-21.37.51:081][ 18]LogShaderCompilers: Display: ================================================
+[2025.12.03-21.37.57:015][ 45]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-21.37.57:867][ 55]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 1
+[2025.12.03-21.37.58:535][ 63]LogBlueprintUserMessages: [BP_Mannequin_C_0] End of the combo
+[2025.12.03-21.38.00:162][ 83]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.38.00:163][ 83]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.38.00:163][ 83]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.38.00:163][ 83]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.38.03:085][117]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.38.03:086][117]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.38.03:086][117]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.38.03:086][117]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.38.10:172][205]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.38.10:172][205]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.38.10:172][205]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.38.10:174][205]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.38.12:150][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-21.38.12:150][230]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-21.38.12:151][230]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.03-21.38.12:151][230]LogWorld: UWorld::CleanupWorld for L_Hybrid, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-21.38.12:153][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-21.38.12:290][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.03-21.38.12:311][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-21.38.12:417][230]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.03-21.38.12:418][230]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.12.03-21.38.12:418][230]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=4
+[2025.12.03-21.38.12:424][230]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=2
+[2025.12.03-21.38.12:442][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-21.38.12:455][230]LogUObjectHash: Compacting FUObjectHashTables data took   7.01ms
+[2025.12.03-21.38.12:676][231]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2025.12.03-21.38.15:689][257]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-21.38.15:689][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-21.38.15:877][257]LogUObjectHash: Compacting FUObjectHashTables data took   7.36ms
+[2025.12.03-21.39.27:908][362]LogUObjectHash: Compacting FUObjectHashTables data took   6.97ms
+[2025.12.03-21.39.28:104][362]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/L_Hybrid_Auto6
+[2025.12.03-21.39.28:106][362]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/L_Hybrid_Auto6CAC34832421CB2EA07436B8902CD39BE.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/Autosaves/Game/Maps/L_Hybrid_Auto6.umap'
+[2025.12.03-21.39.28:115][362]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Hybrid' took 0.352
+[2025.12.03-21.39.28:115][362]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.352
+[2025.12.03-21.39.28:119][362]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Models/pastel_minecraft/StaticMeshes/pastel_minecraft] ([1] browsable assets)...
+[2025.12.03-21.39.28:742][362]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Blueprints/Models/pastel_minecraft/StaticMeshes/pastel_minecraft.pastel_minecraft]
+[2025.12.03-21.39.28:742][362]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Models/pastel_minecraft/StaticMeshes/pastel_minecraft]
+[2025.12.03-21.39.28:810][362]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Models/pastel_minecraft/StaticMeshes/pastel_minecraft_Auto6
+[2025.12.03-21.39.28:810][362]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/pastel_minecraft_Auto68399A2F344ECD0CDEEE3AC83EA7D7B9A.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/Autosaves/Game/Blueprints/Models/pastel_minecraft/StaticMeshes/pastel_minecraft_Auto6.uasset'
+[2025.12.03-21.39.28:816][362]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player_Enemies/Player/BP_Mannequin] ([2] browsable assets)...
+[2025.12.03-21.39.28:816][362]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player_Enemies/Player/BP_Mannequin]
+[2025.12.03-21.39.29:266][362]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Player_Enemies/Player/BP_Mannequin_Auto6
+[2025.12.03-21.39.29:268][362]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/BP_Mannequin_Auto63EDBC0834563F9F5CC9469A423AC78D8.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/Autosaves/Game/Player_Enemies/Player/BP_Mannequin_Auto6.uasset'
+[2025.12.03-21.39.29:275][362]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Components/BPC_Inventory] ([2] browsable assets)...
+[2025.12.03-21.39.29:275][362]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Components/BPC_Inventory]
+[2025.12.03-21.39.29:350][362]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Components/BPC_Inventory_Auto6
+[2025.12.03-21.39.29:350][362]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/BPC_Inventory_Auto61C9A38F84B9184238E988687EF313236.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/Autosaves/Game/Blueprints/Components/BPC_Inventory_Auto6.uasset'
+[2025.12.03-21.39.29:354][362]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Models/BP_item] ([2] browsable assets)...
+[2025.12.03-21.39.29:480][362]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Models/BP_item.BP_item]
+[2025.12.03-21.39.29:480][362]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Models/BP_item]
+[2025.12.03-21.39.29:601][362]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Models/BP_item_Auto6
+[2025.12.03-21.39.29:601][362]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/BP_item_Auto63E0B85BB435ABABA396424B8E56EF6E2.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/Autosaves/Game/Blueprints/Models/BP_item_Auto6.uasset'
+[2025.12.03-21.39.29:605][362]LogFileHelpers: Auto-saving content packages took 1.489
+[2025.12.03-21.39.34:572][378]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-21.39.56:569][815]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2025.12.03-21.40.03:184][940]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-21.40.03:224][940]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.03-21.40.03:226][940]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-21.40.03:259][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032940s)
+[2025.12.03-21.40.03:259][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Hybrid.L_Hybrid to /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid (0.033191s)
+[2025.12.03-21.40.03:379][940]LogUObjectHash: Compacting FUObjectHashTables data took   6.35ms
+[2025.12.03-21.40.03:389][940]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Hybrid
+[2025.12.03-21.40.03:397][940]LogPlayLevel: PIE: World Init took: (0.008796s)
+[2025.12.03-21.40.03:403][940]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.12.03-21.40.03:403][940]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.03-21.40.03:403][940]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.03-21.40.03:403][940]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.03-21.40.03:403][940]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.03-21.40.03:404][940]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.03-21.40.03:404][940]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.03-21.40.03:404][940]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.03-21.40.03:404][940]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.03-21.40.03:404][940]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.03-21.40.03:404][940]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.03-21.40.03:405][940]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.03-21.40.03:411][940]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.03-21.40.03:553][940]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Cirrus Logic Superior High Definition Audio)
+[2025.12.03-21.40.03:555][940]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.03-21.40.03:555][940]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.03-21.40.03:555][940]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.03-21.40.03:561][940]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.12.03-21.40.03:561][940]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2025.12.03-21.40.03:568][940]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.12.03-21.40.03:568][940]LogInit: FAudioDevice initialized with ID 23.
+[2025.12.03-21.40.03:568][940]LogAudio: Display: Audio Device (ID: 23) registered with world 'L_Hybrid'.
+[2025.12.03-21.40.03:569][940]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.12.03-21.40.03:569][940]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.12.03-21.40.03:582][940]LogLoad: Game class is 'GM_Hybrid_C'
+[2025.12.03-21.40.03:591][940]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid up for play (max tick rate 60) at 2025.12.03-16.40.03
+[2025.12.03-21.40.03:593][940]LogWorld: Bringing up level for play took: 0.008794
+[2025.12.03-21.40.03:605][940]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2025.12.03-21.40.03:613][940]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2025.12.03-21.40.03:614][940]LogScript: Warning: Script Msg: BP_Enemy_C_3 BarControl SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.12.03-21.40.03:615][940]LogScript: Warning: Script Msg called by: BP_Enemy_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Enemy_C_3
+[2025.12.03-21.40.03:627][940]PIE: Server logged in
+[2025.12.03-21.40.03:636][940]PIE: Play in editor total start time 0,413 seconds.
+[2025.12.03-21.40.12:875][  4]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.40.12:875][  4]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.40.12:875][  4]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.40.12:875][  4]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.40.14:949][ 31]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.40.14:949][ 31]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.40.14:950][ 31]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.40.14:950][ 31]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.40.15:433][ 37]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.40.15:434][ 37]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.40.15:753][ 41]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.40.15:754][ 41]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.40.15:754][ 41]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.40.15:754][ 41]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.40.16:141][ 46]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.40.16:141][ 46]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.40.17:583][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-21.40.17:584][ 65]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-21.40.17:584][ 65]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.03-21.40.17:585][ 65]LogWorld: UWorld::CleanupWorld for L_Hybrid, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-21.40.17:585][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-21.40.17:717][ 65]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.03-21.40.17:744][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-21.40.17:849][ 65]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.03-21.40.17:851][ 65]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.12.03-21.40.17:851][ 65]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=4
+[2025.12.03-21.40.17:856][ 65]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=2
+[2025.12.03-21.40.17:875][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-21.40.17:888][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   6.32ms
+[2025.12.03-21.40.18:229][ 66]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2025.12.03-21.40.54:142][851]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5440.665039
+[2025.12.03-21.40.54:343][856]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-21.40.54:344][856]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5440.822266, Update Interval: 353.415314
+[2025.12.03-21.41.54:522][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2025.12.03-21.42.16:982][366]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-21.42.17:024][366]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.03-21.42.17:025][366]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-21.42.17:059][366]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034337s)
+[2025.12.03-21.42.17:059][366]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Hybrid.L_Hybrid to /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid (0.034491s)
+[2025.12.03-21.42.17:172][366]LogUObjectHash: Compacting FUObjectHashTables data took   6.12ms
+[2025.12.03-21.42.17:183][366]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Hybrid
+[2025.12.03-21.42.17:189][366]LogPlayLevel: PIE: World Init took: (0.005976s)
+[2025.12.03-21.42.17:196][366]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.12.03-21.42.17:196][366]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.03-21.42.17:196][366]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.03-21.42.17:196][366]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.03-21.42.17:196][366]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.03-21.42.17:196][366]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.03-21.42.17:196][366]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.03-21.42.17:197][366]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.03-21.42.17:197][366]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.03-21.42.17:197][366]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.03-21.42.17:197][366]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.03-21.42.17:197][366]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.03-21.42.17:203][366]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.03-21.42.17:340][366]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Cirrus Logic Superior High Definition Audio)
+[2025.12.03-21.42.17:343][366]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.03-21.42.17:343][366]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.03-21.42.17:344][366]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.03-21.42.17:353][366]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.12.03-21.42.17:354][366]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2025.12.03-21.42.17:360][366]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.12.03-21.42.17:361][366]LogInit: FAudioDevice initialized with ID 24.
+[2025.12.03-21.42.17:361][366]LogAudio: Display: Audio Device (ID: 24) registered with world 'L_Hybrid'.
+[2025.12.03-21.42.17:361][366]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2025.12.03-21.42.17:361][366]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2025.12.03-21.42.17:375][366]LogLoad: Game class is 'GM_Hybrid_C'
+[2025.12.03-21.42.17:386][366]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid up for play (max tick rate 60) at 2025.12.03-16.42.17
+[2025.12.03-21.42.17:388][366]LogWorld: Bringing up level for play took: 0.010353
+[2025.12.03-21.42.17:395][366]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2025.12.03-21.42.17:402][366]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2025.12.03-21.42.17:403][366]LogScript: Warning: Script Msg: BP_Enemy_C_3 BarControl SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.12.03-21.42.17:403][366]LogScript: Warning: Script Msg called by: BP_Enemy_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Enemy_C_3
+[2025.12.03-21.42.17:416][366]PIE: Server logged in
+[2025.12.03-21.42.17:426][366]PIE: Play in editor total start time 0,404 seconds.
+[2025.12.03-21.42.23:643][394]LogBlueprintUserMessages: [BP_Mannequin_C_0] BasicPucnh
+[2025.12.03-21.42.24:450][403]LogBlueprintUserMessages: [BP_Mannequin_C_0] Attack 1
+[2025.12.03-21.42.25:061][407]LogBlueprintUserMessages: [BP_Mannequin_C_0] End of the combo
+[2025.12.03-21.42.27:452][435]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.42.27:452][435]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.42.28:335][446]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.42.28:336][446]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.42.28:337][446]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.42.28:337][446]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.42.37:300][553]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.42.37:300][553]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.42.37:301][553]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.42.37:301][553]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.42.38:466][568]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.42.38:466][568]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.42.38:976][575]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.42.38:976][575]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.42.38:977][575]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.42.38:977][575]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.42.39:960][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-21.42.39:960][589]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-21.42.39:960][589]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.03-21.42.39:962][589]LogWorld: UWorld::CleanupWorld for L_Hybrid, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-21.42.39:964][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-21.42.40:051][589]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.03-21.42.40:077][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-21.42.40:185][589]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.03-21.42.40:188][589]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2025.12.03-21.42.40:188][589]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=4
+[2025.12.03-21.42.40:195][589]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=2
+[2025.12.03-21.42.40:211][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-21.42.40:224][589]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2025.12.03-21.42.40:446][590]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2025.12.03-21.43.59:742][377]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-21.44.22:775][446]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-21.45.27:223][ 81]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-21.46.02:340][187]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-21.46.30:988][400]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-21.47.41:881][203]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5848.411133
+[2025.12.03-21.47.42:134][207]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-21.47.42:134][207]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5848.594727, Update Interval: 328.153320
+[2025.12.03-21.47.55:366][295]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-21.48.56:208][948]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-21.49.29:755][362]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-21.53.07:042][150]LogEditorTransaction: Undo Create Reroute Node
+[2025.12.03-21.53.48:036][615]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6214.566406
+[2025.12.03-21.53.49:052][618]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-21.53.49:052][618]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6215.242676, Update Interval: 353.514221
+[2025.12.03-21.54.06:046][708]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-21.54.11:750][750]LogUObjectHash: Compacting FUObjectHashTables data took   7.60ms
+[2025.12.03-21.54.11:900][750]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/L_Hybrid_Auto7
+[2025.12.03-21.54.11:900][750]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/L_Hybrid_Auto7C013D0534C8CEF6BDCA79E9DC96BCEFA.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/Autosaves/Game/Maps/L_Hybrid_Auto7.umap'
+[2025.12.03-21.54.11:905][750]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Hybrid' took 0.265
+[2025.12.03-21.54.11:905][750]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.265
+[2025.12.03-21.54.11:907][750]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Models/pastel_minecraft/StaticMeshes/pastel_minecraft] ([1] browsable assets)...
+[2025.12.03-21.54.11:908][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Models/pastel_minecraft/StaticMeshes/pastel_minecraft]
+[2025.12.03-21.54.11:956][750]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Models/pastel_minecraft/StaticMeshes/pastel_minecraft_Auto7
+[2025.12.03-21.54.11:956][750]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/pastel_minecraft_Auto779BC88C1495A42E3B68EDFA4820E2742.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/Autosaves/Game/Blueprints/Models/pastel_minecraft/StaticMeshes/pastel_minecraft_Auto7.uasset'
+[2025.12.03-21.54.11:960][750]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player_Enemies/Player/BP_Mannequin] ([2] browsable assets)...
+[2025.12.03-21.54.11:960][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player_Enemies/Player/BP_Mannequin]
+[2025.12.03-21.54.12:330][750]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Player_Enemies/Player/BP_Mannequin_Auto7
+[2025.12.03-21.54.12:330][750]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/BP_Mannequin_Auto7C03464DC431A4007017F51BE0AC72329.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/Autosaves/Game/Player_Enemies/Player/BP_Mannequin_Auto7.uasset'
+[2025.12.03-21.54.12:336][750]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Components/BPC_Inventory] ([2] browsable assets)...
+[2025.12.03-21.54.12:336][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Components/BPC_Inventory]
+[2025.12.03-21.54.12:404][750]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Components/BPC_Inventory_Auto7
+[2025.12.03-21.54.12:405][750]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/BPC_Inventory_Auto70DAF422247F1C3BFF4F9D4BBCAB31AD5.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/Autosaves/Game/Blueprints/Components/BPC_Inventory_Auto7.uasset'
+[2025.12.03-21.54.12:407][750]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Models/BP_item] ([2] browsable assets)...
+[2025.12.03-21.54.12:887][750]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Models/BP_item.BP_item]
+[2025.12.03-21.54.12:888][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Models/BP_item]
+[2025.12.03-21.54.12:983][750]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Models/BP_item_Auto7
+[2025.12.03-21.54.12:983][750]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/BP_item_Auto7934FADA24E45182DD77BFEB8E6C9B04C.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/Autosaves/Game/Blueprints/Models/BP_item_Auto7.uasset'
+[2025.12.03-21.54.12:985][750]LogFileHelpers: Auto-saving content packages took 1.080
+[2025.12.03-21.56.06:106][316]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-21.57.33:327][507]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2025.12.03-21.57.46:178][628]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-21.57.46:217][628]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.03-21.57.46:218][628]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-21.57.46:246][628]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027619s)
+[2025.12.03-21.57.46:246][628]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Hybrid.L_Hybrid to /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid (0.027790s)
+[2025.12.03-21.57.46:353][628]LogUObjectHash: Compacting FUObjectHashTables data took   6.97ms
+[2025.12.03-21.57.46:363][628]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Hybrid
+[2025.12.03-21.57.46:372][628]LogPlayLevel: PIE: World Init took: (0.009105s)
+[2025.12.03-21.57.46:378][628]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2025.12.03-21.57.46:378][628]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.03-21.57.46:378][628]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.03-21.57.46:378][628]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.03-21.57.46:378][628]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.03-21.57.46:378][628]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.03-21.57.46:378][628]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.03-21.57.46:379][628]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.03-21.57.46:379][628]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.03-21.57.46:379][628]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.03-21.57.46:379][628]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.03-21.57.46:379][628]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.03-21.57.46:386][628]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.03-21.57.46:519][628]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Cirrus Logic Superior High Definition Audio)
+[2025.12.03-21.57.46:520][628]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.03-21.57.46:520][628]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.03-21.57.46:520][628]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.03-21.57.46:527][628]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2025.12.03-21.57.46:527][628]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2025.12.03-21.57.46:534][628]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2025.12.03-21.57.46:534][628]LogInit: FAudioDevice initialized with ID 25.
+[2025.12.03-21.57.46:534][628]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2025.12.03-21.57.46:534][628]LogAudio: Display: Audio Device (ID: 25) registered with world 'L_Hybrid'.
+[2025.12.03-21.57.46:534][628]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2025.12.03-21.57.46:549][628]LogLoad: Game class is 'GM_Hybrid_C'
+[2025.12.03-21.57.46:557][628]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid up for play (max tick rate 60) at 2025.12.03-16.57.46
+[2025.12.03-21.57.46:559][628]LogWorld: Bringing up level for play took: 0.009666
+[2025.12.03-21.57.46:568][628]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2025.12.03-21.57.46:576][628]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2025.12.03-21.57.46:577][628]LogScript: Warning: Script Msg: BP_Enemy_C_3 BarControl SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.12.03-21.57.46:577][628]LogScript: Warning: Script Msg called by: BP_Enemy_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Enemy_C_3
+[2025.12.03-21.57.46:589][628]PIE: Server logged in
+[2025.12.03-21.57.46:596][628]PIE: Play in editor total start time 0,382 seconds.
+[2025.12.03-21.58.08:195][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-21.58.08:195][810]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-21.58.08:195][810]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.03-21.58.08:196][810]LogWorld: UWorld::CleanupWorld for L_Hybrid, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-21.58.08:197][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-21.58.08:353][810]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.03-21.58.08:372][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-21.58.08:465][810]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.03-21.58.08:466][810]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2025.12.03-21.58.08:466][810]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=4
+[2025.12.03-21.58.08:472][810]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=2
+[2025.12.03-21.58.08:498][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-21.58.08:509][810]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2025.12.03-21.58.08:808][811]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2025.12.03-21.58.12:234][835]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-21.58.12:266][835]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.03-21.58.12:267][835]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-21.58.12:294][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026550s)
+[2025.12.03-21.58.12:294][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Hybrid.L_Hybrid to /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid (0.026781s)
+[2025.12.03-21.58.12:387][835]LogUObjectHash: Compacting FUObjectHashTables data took   7.02ms
+[2025.12.03-21.58.12:396][835]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Hybrid
+[2025.12.03-21.58.12:402][835]LogPlayLevel: PIE: World Init took: (0.006629s)
+[2025.12.03-21.58.12:408][835]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2025.12.03-21.58.12:408][835]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.03-21.58.12:408][835]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.03-21.58.12:409][835]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.03-21.58.12:409][835]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.03-21.58.12:409][835]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.03-21.58.12:409][835]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.03-21.58.12:409][835]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.03-21.58.12:409][835]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.03-21.58.12:409][835]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.03-21.58.12:409][835]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.03-21.58.12:410][835]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.03-21.58.12:417][835]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.03-21.58.12:546][835]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Cirrus Logic Superior High Definition Audio)
+[2025.12.03-21.58.12:548][835]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.03-21.58.12:548][835]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.03-21.58.12:548][835]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.03-21.58.12:564][835]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2025.12.03-21.58.12:565][835]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2025.12.03-21.58.12:572][835]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2025.12.03-21.58.12:573][835]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2025.12.03-21.58.12:573][835]LogInit: FAudioDevice initialized with ID 26.
+[2025.12.03-21.58.12:573][835]LogAudio: Display: Audio Device (ID: 26) registered with world 'L_Hybrid'.
+[2025.12.03-21.58.12:573][835]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2025.12.03-21.58.12:614][835]LogLoad: Game class is 'GM_Hybrid_C'
+[2025.12.03-21.58.12:631][835]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid up for play (max tick rate 60) at 2025.12.03-16.58.12
+[2025.12.03-21.58.12:632][835]LogWorld: Bringing up level for play took: 0.016061
+[2025.12.03-21.58.12:641][835]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2025.12.03-21.58.12:651][835]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2025.12.03-21.58.12:654][835]LogScript: Warning: Script Msg: BP_Enemy_C_3 BarControl SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.12.03-21.58.12:654][835]LogScript: Warning: Script Msg called by: BP_Enemy_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Enemy_C_3
+[2025.12.03-21.58.12:672][835]PIE: Server logged in
+[2025.12.03-21.58.12:681][835]PIE: Play in editor total start time 0,415 seconds.
+[2025.12.03-21.58.22:773][854]Set new viewmode: Unlit
+[2025.12.03-21.58.30:268][921]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.58.30:268][921]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.58.30:269][921]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.58.30:269][921]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.58.34:026][960]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.58.34:027][960]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.58.34:141][961]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.58.34:142][961]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.58.34:142][961]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.58.34:142][961]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.58.36:375][982]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=26
+[2025.12.03-21.58.37:432][995]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.58.37:432][995]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.58.37:432][995]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractablesInRange' of length 0 in '/Game/Blueprints/Components/BPC_Interaction_Systemm.BPC_Interaction_Systemm_C'!
+[2025.12.03-21.58.37:432][995]LogScript: Warning: Script Msg called by: BPC_Interaction_Systemm_C /Game/Maps/UEDPIE_0_L_Hybrid.L_Hybrid:PersistentLevel.BP_Mannequin_C_0.BPC_Interaction_Systemm
+[2025.12.03-21.58.55:327][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-21.58.55:327][204]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Hybrid
+[2025.12.03-21.58.55:328][204]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.03-21.58.55:328][204]LogWorld: UWorld::CleanupWorld for L_Hybrid, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-21.58.55:329][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-21.58.55:403][204]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.03-21.58.55:428][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-21.58.55:526][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-21.58.55:527][204]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2025.12.03-21.58.55:527][204]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26, StreamState=4
+[2025.12.03-21.58.55:532][204]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26, StreamState=2
+[2025.12.03-21.58.55:569][204]LogUObjectHash: Compacting FUObjectHashTables data took   6.40ms
+[2025.12.03-21.58.55:784][205]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2025.12.03-21.59.02:820][240]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-21.59.23:013][299]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-22.00.14:100][554]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6600.631836
+[2025.12.03-22.00.14:454][557]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-22.00.14:454][557]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6600.861816, Update Interval: 328.519531
+[2025.12.03-22.00.54:034][903]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-22.01.52:105][ 77]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-22.03.35:478][875]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2025.12.03-22.03.39:392][909]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-22.04.07:393][993]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.03-22.04.19:259][ 28]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
