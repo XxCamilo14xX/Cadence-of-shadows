@@ -2343,3 +2343,67 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.03-14.08.04:989][633]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4294.758301
 [2025.12.03-14.08.05:965][636]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.03-14.08.05:965][636]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4295.384766, Update Interval: 318.107849
+[2025.12.03-14.14.05:537][729]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4655.303223
+[2025.12.03-14.14.28:194][797]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-14.14.28:194][797]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4677.626465, Update Interval: 305.412750
+[2025.12.03-14.20.12:941][831]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5022.708008
+[2025.12.03-14.20.13:943][834]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-14.20.13:943][835]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5023.371094, Update Interval: 329.761047
+[2025.12.03-14.23.36:803][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2025.12.03-14.23.36:805][ 50]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Hybrid' took 0.050
+[2025.12.03-14.23.36:806][ 50]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player_Enemies/Player/BP_Mannequin] ([2] browsable assets)...
+[2025.12.03-14.23.36:806][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player_Enemies/Player/BP_Mannequin]
+[2025.12.03-14.23.36:965][ 50]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Player_Enemies/Player/BP_Mannequin_Auto6
+[2025.12.03-14.23.36:965][ 50]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/BP_Mannequin_Auto665F1A300483961B36F3B45A12B23DCFF.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/Autosaves/Game/Player_Enemies/Player/BP_Mannequin_Auto6.uasset'
+[2025.12.03-14.23.36:969][ 50]LogFileHelpers: Auto-saving content packages took 0.163
+[2025.12.03-14.25.52:562][586]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-14.25.52:629][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player_Enemies/Player/BP_Mannequin] ([2] browsable assets)...
+[2025.12.03-14.25.52:629][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player_Enemies/Player/BP_Mannequin]
+[2025.12.03-14.25.52:784][586]LogSavePackage: Moving output files for package: /Game/Player_Enemies/Player/BP_Mannequin
+[2025.12.03-14.25.52:785][586]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/BP_MannequinB62EE82D4B3E0C5CDBFE589E4C1DE5C9.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/Player_Enemies/Player/BP_Mannequin.uasset'
+[2025.12.03-14.25.52:807][586]LogFileHelpers: InternalPromptForCheckoutAndSave took 245.139 ms (total: 1.31 sec)
+[2025.12.03-14.25.52:881][586]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-14.25.52:881][586]LogContentValidation: Enabled validators:
+[2025.12.03-14.25.52:882][586]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-14.25.52:882][586]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-14.25.52:882][586]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-14.25.52:882][586]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-14.25.52:882][586]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-14.25.52:882][586]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-14.25.52:882][586]AssetCheck: /Game/Player_Enemies/Player/BP_Mannequin Validating asset
+[2025.12.03-14.25.56:522][683]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-14.25.56:523][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-14.25.56:723][683]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2025.12.03-14.25.57:661][720]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.12.03-14.25.57:661][720]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-14.25.57:661][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-14.25.57:871][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2025.12.03-14.26.30:420][916]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5400.185059
+[2025.12.03-14.26.30:572][922]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-14.26.30:572][922]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5400.314453, Update Interval: 304.982452
+[2025.12.03-14.26.35:085][  7]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.12.03-14.26.35:108][  7]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.12.03-14.26.35:135][  7]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.12.03-14.26.35:216][  8]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.12.03-14.26.42:126][267]LogContentBrowser: Attempting asset rename: NewBlueprint -> BPC_Inentory
+[2025.12.03-14.26.42:148][267]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.12.03-14.26.48:412][478]LogContentBrowser: Attempting asset rename: BPC_Inentory -> BPC_Iventory
+[2025.12.03-14.26.48:699][478]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-14.26.48:700][478]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Components/BPC_Iventory] ([2] browsable assets)...
+[2025.12.03-14.26.48:700][478]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Components/BPC_Iventory]
+[2025.12.03-14.26.48:722][478]LogSavePackage: Moving output files for package: /Game/Blueprints/Components/BPC_Iventory
+[2025.12.03-14.26.48:722][478]LogSavePackage: Moving '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/BPC_IventoryEAB4AF5F4FDE7B00EEBAFFABC5D7628E.tmp' to '../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Content/Blueprints/Components/BPC_Iventory.uasset'
+[2025.12.03-14.26.48:736][478]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.745 ms (total: 1.35 sec)
+[2025.12.03-14.26.48:804][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2025.12.03-14.26.48:861][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2025.12.03-14.26.48:909][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.12.03-14.26.49:006][478]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-14.26.49:006][478]LogContentValidation: Enabled validators:
+[2025.12.03-14.26.49:006][478]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-14.26.49:006][478]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-14.26.49:006][478]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-14.26.49:006][478]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-14.26.49:006][478]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-14.26.49:006][478]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-14.26.49:006][478]AssetCheck: /Game/Blueprints/Components/BPC_Iventory Validating asset
+[2025.12.03-14.26.49:102][478]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../.Universidad/Arquitectura/guego/Lastsonggg/MyProject/Saved/SourceControl/UncontrolledChangelists.json
