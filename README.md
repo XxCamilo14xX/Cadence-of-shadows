@@ -32,13 +32,13 @@ Prototipo funcional de un videojuego noir 2.5D desarrollado en Unreal Engine 5. 
 Prototipo funcional completo para evaluación final.
 
 ## Teclas:
-W, A, S, D para el movimiento.
-Click izquierdo para atacar.
-1, 2, 3, 4 para cambiar de arma.
-E para interactuar.
-Barra espaciadora para el dodge roll.
-Tab para abrir el inventario.
-Shift para correr.
+- W, A, S, D para el movimiento.
+- Click izquierdo para atacar.
+- 1, 2, 3, 4 para cambiar de arma.
+- E para interactuar.
+- Barra espaciadora para el dodge roll.
+- Tab para abrir el inventario.
+- Shift para correr.
 
 ---
 
