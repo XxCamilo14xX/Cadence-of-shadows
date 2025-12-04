@@ -1,7 +1,7 @@
 # Cadence of Shadows - Proyecto Final de Arquitectura de Videojuegos
 
 ## 📋 Descripción del Proyecto
-Prototipo funcional de un videojuego noir 2.5D desarrollado en Unreal Engine 5. El proyecto implementa mecánicas completas de movimiento, combate, investigación y sistemas de IA para evaluación académica.
+Prototipo funcional de un videojuego noir 2.5D desarrollado en Unreal Engine 5. El proyecto implementa mecánicas completas de movimiento, combate y sistemas de IA.
 
 ## 🚨 Requisitos Obligatorios
 - **Unreal Engine 5.3+** (descargar desde Epic Games Launcher)
@@ -29,7 +29,16 @@ Prototipo funcional de un videojuego noir 2.5D desarrollado en Unreal Engine 5. 
 - **Diseño de Niveles:** Equipo completo
 
 ## 📊 Estado del Proyecto
-Prototipo funcional completo para evaluación final. Todas las mecánicas base están implementadas y verificables.
+Prototipo funcional completo para evaluación final.
+
+## Teclas:
+W, A, S, D para el movimiento.
+Click izquierdo para atacar.
+1, 2, 3, 4 para cambiar de arma.
+E para interactuar.
+Barra espaciadora para el dodge roll.
+Tab para abrir el inventario.
+Shift para correr.
 
 ---
 
