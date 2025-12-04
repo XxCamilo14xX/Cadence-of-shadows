@@ -42,4 +42,4 @@ Prototipo funcional completo para evaluación final.
 
 ---
 
-**Nota:** Este proyecto requiere PaperZD para ejecutarse correctamente. Disponible exclusivamente en Epic Games Store.
+**Nota:** Para los tp's, si no llegan a servir, el widget de la E tiene que estar dentro de la bola, si esta por fuera no va a hacer el tp.
