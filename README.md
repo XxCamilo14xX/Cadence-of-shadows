@@ -23,9 +23,9 @@ Prototipo funcional de un videojuego noir 2.5D desarrollado en Unreal Engine 5. 
 - Niveles en blockout definitivo
 
 ## 👥 Equipo de Desarrollo
-- **Programación:** Alexander, Camilo
-- **Arte y Diseño:** Juan Pablo, Camilo Lemus
-- **Audio:** Mauricio Ordonez
+- **Programación:** Alekxander, Camilo
+- **Arte y Diseño:** Camilo Lemus
+- **Audio:** Mauricio Ordoñez
 - **Diseño de Niveles:** Equipo completo
 
 ## 📊 Estado del Proyecto
