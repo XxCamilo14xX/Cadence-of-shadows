@@ -31,7 +31,7 @@
 2. Instalar el plugin **PaperZD** desde Epic Games Store en la misma versión del motor
 3. Clonar este repositorio:
 ```bash
-   git clone https://github.com/tu-usuario/cadence-of-shadows.git
+   git clone https://github.com/XxCamilo14xX/Cadence-of-shadows
 ```
 4. Abrir la carpeta del proyecto y hacer doble clic en `MyProject.uproject`
 5. Si Unreal pregunta si deseas compilar los módulos, seleccionar **Yes**
